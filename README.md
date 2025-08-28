@@ -1,33 +1,44 @@
 # University Prices vs Rankings Analysis
 
-A comprehensive analysis of university tuition costs versus academic rankings for US and UK institutions, using **real data** from official sources, with sweet spot identification for value-conscious students.
+A comprehensive analysis of university tuition costs versus academic quality for US universities, using **real data** from official US Department of Education sources. This project analyzes 1,206 universities with complete tuition and quality metrics data.
 
-## 🎯 Key Findings (Real Data)
+## 🎯 Key Findings (1,206 Real Universities)
 
-**Sweet Spot Universities (Best Value - Real Data):**
-- **University of Chicago** - Rank 9, $14,338 (Score: 93.8)
-- **University of Wisconsin - Madison** - Rank 25, $11,205 (Score: 91.2)
-- **University of North Carolina at Chapel Hill** - Rank 32, $8,989 (Score: 90.7)
-- **California Institute of Technology** - Rank 8, $20,515 (Score: 89.8)
+**Strong Quality-Price Correlation:**
+- **Pearson correlation**: r = -0.741 (p < 0.001) - **Highly Significant**
+- **Interpretation**: Higher quality universities charge significantly more tuition
+- **1,206 universities** analyzed with complete real data
 
-**Elite Bargains (Top Rankings + Reasonable Price):**
-- **California Institute of Technology** - ARWU Rank 8, $20,515
-- **University of Chicago** - ARWU Rank 9, $14,338
+**Top Quality Universities:**
+- **Massachusetts Institute of Technology** - Quality Score: 85.7, Price: $60,156
+- **California Institute of Technology** - Quality Score: 83.7, Price: $63,255  
+- **Hillsdale College** - Quality Score: 83.3, Price: $32,092
+- **University of Pennsylvania** - Quality Score: 81.6, Price: $66,104
+- **University of Notre Dame** - Quality Score: 80.7, Price: $62,693
 
-**Price-Ranking Correlations (Real Data):**
-- Overall: r = -0.256 (weak correlation, p = 0.144)
-- US: r = -0.321 (moderate, but not significant p = 0.226)
-- UK: r = -0.569 (strong significant correlation, p = 0.014)
+**Sweet Spot Universities (High Quality + Reasonable Price ≤ $30,297):**
+- **Grove City College (PA)** - Quality Rank: 50, Price: $20,890
+- **Binghamton University (NY)** - Quality Rank: 89, Price: $29,453
+- **University of Florida (FL)** - Quality Rank: 98, Price: $28,659
+- **University of Georgia (GA)** - Quality Rank: 121, Price: $30,220
+- **Brigham Young University (UT)** - Quality Rank: 293, Price: $6,496
 
-## 📊 Dataset (Real Data)
+**Best Value Universities (Quality per Dollar):**
+- **Hillsdale College (MI)** - Value Score: 75.6
+- **Grove City College (PA)** - Value Score: 74.1
+- **Georgia Institute of Technology (GA)** - Value Score: 67.0
+- **Florida State University (FL)** - Value Score: 67.0
+- **Brigham Young University (UT)** - Value Score: 66.6
 
-- **Total**: 34 universities with complete data (16 US, 18 UK)
-- **US Price Range**: $8,989 - $65,805 (mean: $41,464)
-- **UK International Fees**: $29,718 - $48,133 (mean: $34,295)
+## 📊 Dataset (Real College Scorecard Data)
+
+- **Total**: 1,206 US universities with complete data
+- **Price Range**: $4,656 - $69,330 (median: $30,297)
+- **Quality Metrics**: 9 comprehensive indicators from College Scorecard API
 - **Data Sources**: 
-  - **Rankings**: ARWU 2023 (Academic Ranking of World Universities)
-  - **US Tuition**: College Scorecard API (US Department of Education)
-  - **UK Fees**: Official university rates + international student fees
+  - **Tuition Data**: College Scorecard API (US Department of Education)
+  - **Quality Rankings**: Custom system using College Scorecard academic metrics
+  - **No external ranking dependencies**: All data from official US government API
 
 ## 🚀 Quick Start (Real Data Pipeline)
 
@@ -37,76 +48,85 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# Set your College Scorecard API key (get free key from api.data.gov)
-export COLLEGE_SCORECARD_API_KEY="your_key_here"
+# Get your free College Scorecard API key from api.data.gov
+# API key is hardcoded in scripts for demonstration
 
-# Collect real university data (ARWU + College Scorecard)
-python collect_real_data.py
+# METHOD 1: Run complete analysis with quality rankings (RECOMMENDED)
+python implement_scorecard_ranking_system.py  # Collect 1,206 universities with quality metrics
+python final_analysis_scorecard_rankings.py   # Comprehensive analysis and visualizations
 
-# Analyze real data with correlations and statistics
-python analyze_real_data.py
+# METHOD 2: Test quality metrics investigation
+python investigate_scorecard_quality_metrics.py  # Explore available quality indicators
 
-# Find sweet spot universities with real data
-python real_sweet_spot_analysis.py
-
-# Alternative: Use sample data (no API key required)
-python collect_us_data_v2.py  # Sample US data
-python collect_uk_data.py     # Sample UK data
-python plot_analysis.py       # Sample data analysis
+# METHOD 3: Bulk data collection only
+python get_bulk_scorecard_data.py  # Get 1,200+ universities with tuition data only
 ```
 
 ## 📈 Generated Visualizations
 
-### Real Data Analysis
-1. **real_data_scatter_plot.png** - ARWU rankings vs College Scorecard tuition costs
-2. **real_data_analysis_summary.png** - Comprehensive statistical summary
-3. **real_sweet_spot_analysis.png** - Value quadrants and sweet spot identification
+### College Scorecard Analysis (1,206 Universities)
+1. **comprehensive_scorecard_analysis.png** - Complete 6-panel analysis:
+   - Main scatter plot: Quality ranking vs tuition price (r = -0.741)
+   - Price distribution histogram 
+   - Quality score distribution
+   - Top 10 states by university count
+   - Price vs quality score correlation
+   - Color-coded by quality scores
 
-### Sample Data Analysis (for comparison)
-4. **university_price_vs_ranking_scatter.png** - Sample data correlation plot
-5. **university_distributions_boxplot.png** - Sample price/ranking distributions  
-6. **university_density_plots.png** - Sample density distributions
-7. **university_sweet_spot_analysis.png** - Sample value analysis
+### Generated Data Files
+- **scorecard_universities_with_quality_rankings.csv** - Complete dataset (1,206 universities)
+- **sweet_spot_universities_scorecard.csv** - High quality + reasonable price universities
+- **best_value_universities_scorecard.csv** - Best value rankings (quality per dollar)
+- **complete_analysis_scorecard.csv** - Full analysis results
 
 ## 🗂️ Files Overview
 
-### Real Data Collection
-- `collect_real_data.py` - **Main data pipeline** using ARWU + College Scorecard API
-- `analyze_real_data.py` - Statistical analysis of real university data
-- `real_sweet_spot_analysis.py` - Sweet spot identification with real data
+### Main Analysis Pipeline (1,206 Universities)
+- `implement_scorecard_ranking_system.py` - **Primary pipeline**: Collect universities with quality metrics
+- `final_analysis_scorecard_rankings.py` - **Main analysis**: Comprehensive statistics and visualizations
+- `investigate_scorecard_quality_metrics.py` - Quality metrics exploration and validation
 
-### Sample Data Collection (for comparison)
-- `collect_us_data_v2.py` - US university sample data collection
-- `collect_uk_data.py` - UK university sample data collection
-- `plot_analysis.py` - Sample data analysis and visualization
-- `find_sweet_spot.py` - Sample data sweet spot analysis
+### Data Collection Scripts
+- `get_bulk_scorecard_data.py` - Bulk tuition data collection (1,200+ universities)
+- `get_arwu_rankings_working.py` - ARWU rankings from ShanghaiRanking API
+- `get_complete_arwu_2023.py` - Complete ARWU dataset collection
 
-### Data Files (Real Data)
-- `real_university_data.csv` - **Main dataset** (34 universities with complete data)
-- `real_value_analysis.csv` - Real data value scores and rankings
+### Quality Assurance
+- `verify_real_data.py` - Data authenticity verification
+- `test_data_quality.py` - Data quality testing suite
 
-### Data Files (Sample Data)
-- `us_universities_sample.csv` - US sample dataset (41 institutions)
-- `uk_universities_sample.csv` - UK sample dataset (40 institutions)  
-- `combined_university_data.csv` - Combined sample dataset
+### Legacy/Alternative Approaches
+- `collect_real_data.py` - Early ARWU + College Scorecard combination approach
+- `get_rankings_wikipedia.py` - Wikipedia ranking scraping (deprecated - 403 errors)
+
+### Main Dataset Files
+- `scorecard_universities_with_quality_rankings.csv` - **Primary dataset** (1,206 universities)
+- `sweet_spot_universities_scorecard.csv` - Sweet spot universities
+- `best_value_universities_scorecard.csv` - Best value universities
+- `complete_analysis_scorecard.csv` - Full analysis results
 
 ### Configuration
-- `CLAUDE.md` - Project instructions and methodology
+- `CLAUDE.md` - Project instructions and working agreement
 - `requirements.txt` - Python dependencies
 
 ## 🔬 Methodology
 
-**Value Score Calculation:**
-- 60% ranking weight (lower rank = better)
-- 40% price weight (lower price = better) 
-- Normalized to percentiles within each metric
-- Separate country-specific value scores
+**Quality Ranking System (College Scorecard Metrics):**
+- **Academic Selectivity (30%)**: SAT scores, ACT scores, admission rates
+- **Student Outcomes (40%)**: 4-year completion rates, median earnings, retention rates
+- **Student Quality (20%)**: Part-time share, Pell grant rates
+- **Financial Health (10%)**: Loan repayment rates
 
-**Data Quality Tests:**
-- File existence verification
-- Data completeness validation
-- Statistical validity checks
-- Plot generation confirmation
+**Value Score Calculation:**
+- 70% quality score weight (College Scorecard derived quality ranking)
+- 30% price affordability weight (normalized price score)
+- All metrics normalized to 0-100 scale for fair comparison
+
+**Data Validation:**
+- Real data only - no approximations or synthetic data
+- Quality metrics require ≥5 of 9 indicators per university
+- Statistical significance testing (p < 0.001 achieved)
+- Cross-validation with official Department of Education sources
 
 ## 📋 Requirements
 
@@ -122,19 +142,19 @@ scipy>=1.9.0
 
 ## 🎓 Key Insights
 
-- **Public universities** generally offer superior value
-- **UC system** dominates value rankings for quality + affordability
-- **UK universities** provide better international value than equivalent US private institutions
-- **Scottish universities** offer exceptional value due to lower fee structure
-- Strong correlation between higher rankings and higher prices in both countries
+- **Strong quality-price correlation**: r = -0.741 (higher quality = higher price)
+- **Public universities dominate value rankings**: Florida State, Georgia Tech, BYU lead
+- **Elite private institutions** justify premium pricing with superior quality scores
+- **Regional patterns**: Florida and New York universities offer exceptional value
+- **Sweet spot strategy**: Target quality rank ≤300 with price ≤$30,297 median
 
 ## 📞 Usage Notes
 
-This analysis uses sample data for demonstration. For production use:
-1. Obtain College Scorecard API key for real-time US data
-2. Implement web scraping for current UK university fees
-3. Add additional ranking systems (Times Higher Education, QS)
-4. Include cost-of-living adjustments for regional analysis
+This analysis uses **real College Scorecard data** for 1,206 universities. The system:
+1. Eliminates dependency on external ranking APIs (QS, Times, etc.)
+2. Uses comprehensive US Department of Education quality metrics  
+3. Provides reproducible analysis with publicly available data
+4. Achieves statistical significance with large sample size (p < 0.001)
 
 ## 📄 License
 

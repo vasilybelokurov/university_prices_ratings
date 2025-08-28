@@ -1,0 +1,1214 @@
+scorecard_id,institution,state,city,url,carnegie_setting,tuition_in_state_usd,tuition_out_state_usd,total_cost_usd,student_size,price_usd,degrees_predominant,has_bachelors,has_graduate,country
+100654,Alabama A & M University,AL,Normal,www.aamu.edu/,14,10024,18634,23751.0,5726,18634,3,True,,United States
+100663,University of Alabama at Birmingham,AL,Birmingham,https://www.uab.edu/,15,8832,21864,27826.0,12118,21864,3,True,,United States
+100706,University of Alabama in Huntsville,AL,Huntsville,www.uah.edu/,13,11770,24662,27098.0,6650,24662,3,True,,United States
+100724,Alabama State University,AL,Montgomery,www.alasu.edu/,14,11248,19576,22028.0,3322,19576,3,True,,United States
+100751,The University of Alabama,AL,Tuscaloosa,www.ua.edu/,16,11900,33200,32024.0,32323,33200,3,True,,United States
+100830,Auburn University at Montgomery,AL,Montgomery,www.aum.edu/,13,9436,20092,21873.0,2693,20092,3,True,,United States
+100858,Auburn University,AL,Auburn,www.auburn.edu/,15,12536,33944,34402.0,25732,33944,3,True,,United States
+101189,Faulkner University,AL,Montgomery,www.faulkner.edu/,10,23920,23920,36910.0,1555,23920,3,True,,United States
+101480,Jacksonville State University,AL,Jacksonville,www.jsu.edu/,13,12426,22716,23422.0,7030,22716,3,True,,United States
+101587,University of West Alabama,AL,Livingston,www.uwa.edu/,13,10990,20090,22402.0,2666,20090,3,True,,United States
+101675,Miles College,AL,Fairfield,https://www.miles.edu/,11,12714,12714,22900.0,1151,12714,3,True,,United States
+101693,University of Mobile,AL,Mobile,https://www.umobile.edu/,11,26120,26120,38731.0,1079,26120,3,True,,United States
+101709,University of Montevallo,AL,Montevallo,www.montevallo.edu/,11,13710,26730,26233.0,2087,26730,3,True,,United States
+101879,University of North Alabama,AL,Florence,https://www.una.edu/,13,11990,22190,22086.0,5468,22190,3,True,,United States
+101912,Oakwood University,AL,Huntsville,https://www2.oakwood.edu/,11,21838,21838,38592.0,1253,21838,3,True,,United States
+102049,Samford University,AL,Birmingham,www.samford.edu/,14,38144,38144,53934.0,3828,38144,3,True,,United States
+102094,University of South Alabama,AL,Mobile,www.southalabama.edu/,16,9676,18652,22070.0,8540,18652,3,True,,United States
+102368,Troy University,AL,Troy,www.troy.edu/,15,9792,19584,21816.0,10089,19584,3,True,,United States
+102377,Tuskegee University,AL,Tuskegee,www.tuskegee.edu/,11,23440,23440,41924.0,2367,23440,3,True,,United States
+102553,University of Alaska Anchorage,AK,Anchorage,www.uaa.alaska.edu/,12,7566,21693,21848.0,6916,21693,3,True,,United States
+102614,University of Alaska Fairbanks,AK,Fairbanks,www.uaf.edu/,12,8640,22752,21182.0,4027,22752,3,True,,United States
+104151,Arizona State University Campus Immersion,AZ,Tempe,www.asu.edu/,16,12051,32193,28047.0,64398,32193,3,True,,United States
+104179,University of Arizona,AZ,Tucson,https://www.arizona.edu/,15,13626,41095,28543.0,40769,41095,3,True,,United States
+104586,Embry-Riddle Aeronautical University-Prescott,AZ,Prescott,prescott.erau.edu/,10,42204,42204,60158.0,3245,42204,3,True,,United States
+104717,Grand Canyon University,AZ,Phoenix,www.gcu.edu/,15,17450,17450,31493.0,68619,17450,3,True,,United States
+105330,Northern Arizona University,AZ,Flagstaff,https://nau.edu/,16,12652,28900,29495.0,23041,28900,3,True,,United States
+105899,Arizona Christian University,AZ,Glendale,arizonachristian.edu/,8,34697,34697,50950.0,1127,34697,3,True,,United States
+106245,University of Arkansas at Little Rock,AR,Little Rock,ualr.edu/www/,12,8455,19210,21013.0,4740,19210,3,True,,United States
+106397,University of Arkansas,AR,Fayetteville,https://www.uark.edu/,16,9748,28772,26161.0,27312,28772,3,True,,United States
+106412,University of Arkansas at Pine Bluff,AR,Pine Bluff,www.uapb.edu/,11,9019,17029,20907.0,1899,17029,3,True,,United States
+106458,Arkansas State University,AR,Jonesboro,www.astate.edu/,13,7754,13826,22823.0,7994,13826,3,True,,United States
+106704,University of Central Arkansas,AR,Conway,www.uca.edu/,13,10118,17258,24265.0,7426,17258,3,True,,United States
+107044,Harding University,AR,Searcy,www.harding.edu/,14,24888,24888,36385.0,3323,24888,3,True,,United States
+107071,Henderson State University,AR,Arkadelphia,https://www.hsu.edu/,11,7885,9882,25946.0,1491,9882,3,True,,United States
+107080,Hendrix College,AR,Conway,https://www.hendrix.edu/,11,36650,36650,52396.0,1094,36650,3,True,,United States
+107141,John Brown University,AR,Siloam Springs,https://www.jbu.edu/,11,30832,30832,43260.0,1415,30832,3,True,,United States
+107512,Ouachita Baptist University,AR,Arkadelphia,obu.edu/,11,32480,32480,45132.0,1612,32480,3,True,,United States
+107983,Southern Arkansas University Main Campus,AR,Magnolia,https://www.saumag.edu/,14,9820,15400,24721.0,2865,15400,3,True,,United States
+108092,University of Arkansas-Fort Smith,AR,Fort Smith,https://uafs.edu/,12,6906,13770,18052.0,4133,13770,3,True,,United States
+108232,Academy of Art University,CA,San Francisco,www.academyart.edu/,12,28024,28024,47195.0,4131,28024,3,True,,United States
+109651,Art Center College of Design,CA,Pasadena,www.artcenter.edu/,9,51640,51640,71652.0,2054,51640,3,True,,United States
+109785,Azusa Pacific University,CA,Azusa,www.apu.edu/,14,43600,43600,54735.0,2977,43600,3,True,,United States
+110097,Biola University,CA,La Mirada,https://www.biola.edu/,14,46704,46704,58430.0,3390,46704,3,True,,United States
+110361,California Baptist University,CA,Riverside,www.calbaptist.edu/,13,39720,39720,52408.0,7914,39720,3,True,,United States
+110370,California College of the Arts,CA,San Francisco,www.cca.edu/,11,57946,57946,78664.0,1004,57946,3,True,,United States
+110404,California Institute of Technology,CA,Pasadena,www.caltech.edu/,11,63255,63255,83598.0,1023,63255,3,True,,United States
+110413,California Lutheran University,CA,Thousand Oaks,www.callutheran.edu/,14,50670,50670,63768.0,2374,50670,3,True,,United States
+110422,California Polytechnic State University-San Luis Obispo,CA,San Luis Obispo,calpoly.edu/,16,11075,30995,29918.0,21521,30995,3,True,,United States
+110486,California State University-Bakersfield,CA,Bakersfield,www.csub.edu/,15,7696,19576,18815.0,8183,19576,3,True,,United States
+110495,California State University-Stanislaus,CA,Turlock,https://www.csustan.edu/,12,7826,19706,18542.0,8564,19706,3,True,,United States
+110510,California State University-San Bernardino,CA,San Bernardino,www.csusb.edu/,15,7675,19555,16910.0,15771,19555,3,True,,United States
+110529,California State Polytechnic University-Pomona,CA,Pomona,www.cpp.edu/,15,7439,19319,22672.0,24271,19319,3,True,,United States
+110538,California State University-Chico,CA,Chico,www.csuchico.edu/,15,8064,19944,25590.0,13057,19944,3,True,,United States
+110547,California State University-Dominguez Hills,CA,Carson,https://www.csudh.edu/,15,7064,18944,15449.0,12642,18944,3,True,,United States
+110556,California State University-Fresno,CA,Fresno,www.fresnostate.edu/,15,6980,18860,18650.0,21070,18860,3,True,,United States
+110565,California State University-Fullerton,CA,Fullerton,www.fullerton.edu/,15,7073,18953,16767.0,36956,18953,3,True,,United States
+110574,California State University-East Bay,CA,Hayward,https://www.csueastbay.edu/,15,7055,18935,22803.0,10422,18935,3,True,,United States
+110583,California State University-Long Beach,CA,Long Beach,www.csulb.edu/,15,7008,18888,20310.0,34131,18888,3,True,,United States
+110592,California State University-Los Angeles,CA,Los Angeles,https://www.calstatela.edu/,15,6813,18698,17153.0,21478,18698,3,True,,United States
+110608,California State University-Northridge,CA,Northridge,https://www.csun.edu/,15,7095,18975,20317.0,32357,18975,3,True,,United States
+110617,California State University-Sacramento,CA,Sacramento,https://www.csus.edu/,15,7602,19482,22714.0,27867,19482,3,True,,United States
+110635,University of California-Berkeley,CA,Berkeley,www.berkeley.edu/,16,14850,45627,42708.0,33073,45627,3,True,,United States
+110644,University of California-Davis,CA,Davis,ucdavis.edu/,16,15247,46024,38067.0,31777,46024,3,True,,United States
+110653,University of California-Irvine,CA,Irvine,www.uci.edu/,16,14237,45014,36121.0,29494,45014,3,True,,United States
+110662,University of California-Los Angeles,CA,Los Angeles,www.ucla.edu/,17,13747,44524,36643.0,33040,44524,3,True,,United States
+110671,University of California-Riverside,CA,Riverside,www.ucr.edu/,16,14170,44947,34975.0,22644,44947,3,True,,United States
+110680,University of California-San Diego,CA,La Jolla,www.ucsd.edu/,17,15265,46042,36325.0,33787,46042,3,True,,United States
+110705,University of California-Santa Barbara,CA,Santa Barbara,www.ucsb.edu/,16,14965,45742,36776.0,23205,45742,3,True,,United States
+110714,University of California-Santa Cruz,CA,Santa Cruz,www.ucsc.edu/,17,14560,45337,38649.0,17812,45337,3,True,,United States
+111948,Chapman University,CA,Orange,https://www.chapman.edu/,14,62784,62784,81327.0,7629,62784,3,True,,United States
+112075,Concordia University-Irvine,CA,Irvine,www.cui.edu/,14,41390,41390,56500.0,1456,41390,3,True,,United States
+112260,Claremont McKenna College,CA,Claremont,www.cmc.edu/,11,64150,64150,82127.0,1379,64150,3,True,,United States
+113698,Dominican University of California,CA,San Rafael,https://www.dominican.edu/,10,50666,50666,68620.0,1178,50666,3,True,,United States
+114813,Fresno Pacific University,CA,Fresno,www.fresno.edu/,12,35558,35558,42673.0,1614,35558,3,True,,United States
+115755,California State Polytechnic University-Humboldt,CA,Arcata,www.humboldt.edu/,13,7913,19793,24412.0,5491,19793,3,True,,United States
+117140,University of La Verne,CA,La Verne,https://www.laverne.edu/,12,47000,47000,61564.0,3341,47000,3,True,,United States
+117627,La Sierra University,CA,Riverside,https://lasierra.edu/,11,35910,35910,49365.0,1155,35910,3,True,,United States
+117751,The Master's University and Seminary,CA,Santa Clarita,www.masters.edu/,10,36930,36930,48682.0,1606,36930,3,True,,United States
+117946,Loyola Marymount University,CA,Los Angeles,https://www.lmu.edu/,14,58974,58974,75867.0,7171,58974,3,True,,United States
+119173,Mount Saint Mary's University,CA,Los Angeles,https://www.msmu.edu/,10,48132,48132,64637.0,1746,48132,3,True,,United States
+119605,National University,CA,San Diego,www.nu.edu/,15,13320,13320,37116.0,9725,13320,3,True,,United States
+120254,Occidental College,CA,Los Angeles,https://www.oxy.edu/,11,63446,63446,80636.0,1844,63446,3,True,,United States
+120403,Otis College of Art and Design,CA,Los Angeles,www.otis.edu/,10,55513,55513,71880.0,1242,55513,3,True,,United States
+120883,University of the Pacific,CA,Stockton,www.pacific.edu/,14,55340,55340,68173.0,3247,55340,3,True,,United States
+121150,Pepperdine University,CA,Malibu,www.pepperdine.edu/,14,66742,66742,85202.0,3629,66742,3,True,,United States
+121257,Pitzer College,CA,Claremont,https://www.pitzer.edu/,8,62692,62692,82832.0,1191,62692,3,True,,United States
+121309,Point Loma Nazarene University,CA,San Diego,www.pointloma.edu/,13,43550,43550,56664.0,3132,43550,3,True,,United States
+121345,Pomona College,CA,Claremont,www.pomona.edu/,11,62326,62326,81196.0,1638,62326,3,True,,United States
+121691,University of Redlands,CA,Redlands,www.redlands.edu/,14,57614,57614,70233.0,2095,57614,3,True,,United States
+122409,San Diego State University,CA,San Diego,www.sdsu.edu/,15,8290,20170,27357.0,33654,20170,3,True,,United States
+122436,University of San Diego,CA,San Diego,www.sandiego.edu/,13,56444,56444,74879.0,5619,56444,3,True,,United States
+122597,San Francisco State University,CA,San Francisco,www.sfsu.edu/,15,7424,19304,25258.0,20033,19304,3,True,,United States
+122612,University of San Francisco,CA,San Francisco,https://www.usfca.edu/,13,58222,58222,76421.0,5697,58222,3,True,,United States
+122728,William Jessup University,CA,Rocklin,www.jessup.edu/,10,37150,37150,52172.0,1021,37150,3,True,,United States
+122755,San Jose State University,CA,San Jose,www.sjsu.edu/,15,7992,19872,25695.0,26757,19872,3,True,,United States
+122931,Santa Clara University,CA,Santa Clara,www.scu.edu/,14,59241,59241,77768.0,6235,59241,3,True,,United States
+123165,Scripps College,CA,Claremont,www.scrippscollege.edu/,8,63434,63434,83330.0,1077,63434,3,True,,United States
+123554,Saint Mary's College of California,CA,Moraga,https://www.stmarys-ca.edu/,14,56134,56134,73655.0,2024,56134,3,True,,United States
+123572,Sonoma State University,CA,Rohnert Park,https://sonoma.edu/,13,8190,20070,24739.0,5374,20070,3,True,,United States
+123651,Vanguard University of Southern California,CA,Costa Mesa,https://www.vanguard.edu/,11,39950,39950,50178.0,1975,39950,3,True,,United States
+123961,University of Southern California,CA,Los Angeles,www.usc.edu/,16,68237,68237,84678.0,20817,68237,3,True,,United States
+125231,Walden University,MN,Minneapolis,www.waldenu.edu/,15,12498,12498,,7337,12498,3,True,,United States
+125727,Westmont College,CA,Santa Barbara,www.westmont.edu/,11,51790,51790,68826.0,1310,51790,3,True,,United States
+126182,Adams State University,CO,Alamosa,www.adams.edu/,10,9776,21848,23800.0,1239,21848,3,True,,United States
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,Denver,www.ucdenver.edu/,15,10017,28209,23369.0,10686,28209,3,True,,United States
+126580,University of Colorado Colorado Springs,CO,Colorado Springs,https://www.uccs.edu/,12,9712,20492,23713.0,8870,20492,3,True,,United States
+126614,University of Colorado Boulder,CO,Boulder,www.colorado.edu/,16,16430,41943,33466.0,31578,41943,3,True,,United States
+126669,Colorado Christian University,CO,Lakewood,https://www.ccu.edu/,12,39266,39266,50206.0,5363,39266,3,True,,United States
+126678,Colorado College,CO,Colorado Springs,www.coloradocollege.edu/,11,67932,67932,83228.0,2139,67932,3,True,,United States
+126775,Colorado School of Mines,CO,Golden,www.mines.edu/,13,21186,44376,38556.0,5801,44376,3,True,,United States
+126818,Colorado State University-Fort Collins,CO,Fort Collins,colostate.edu/,16,12896,33751,29696.0,25148,33751,3,True,,United States
+126827,Colorado Technical University-Colorado Springs,CO,Colorado Springs,www.coloradotech.edu/Colorado-Springs,15,12760,12760,21694.0,25932,12760,3,True,,United States
+127060,University of Denver,CO,Denver,www.du.edu/,16,59340,59340,75020.0,6059,59340,3,True,,United States
+127185,Fort Lewis College,CO,Durango,fortlewis.edu/,13,9670,20798,25558.0,3070,20798,3,True,,United States
+127556,Colorado Mesa University,CO,Grand Junction,www.coloradomesa.edu/,13,9712,24312,22883.0,7604,24312,3,True,,United States
+127565,Metropolitan State University of Denver,CO,Denver,www.msudenver.edu/,15,10780,29503,22825.0,14932,29503,3,True,,United States
+127741,University of Northern Colorado,CO,Greeley,https://www.unco.edu/,13,12010,26204,26989.0,5693,26204,3,True,,United States
+127918,Regis University,CO,Denver,https://www.regis.edu/,13,43980,43980,54889.0,2599,43980,3,True,,United States
+127945,Rocky Mountain College of Art and Design,CO,Lakewood,www.rmcad.edu/,9,23720,23720,33950.0,1878,23720,3,True,,United States
+128106,Colorado State University Pueblo,CO,Pueblo,https://www.csupueblo.edu/,13,9401,17242,23891.0,3028,17242,3,True,,United States
+128391,Western Colorado University,CO,Gunnison,www.western.edu/,11,11083,23683,25426.0,1653,23683,3,True,,United States
+128744,University of Bridgeport,CT,Bridgeport,www.bridgeport.edu/,13,35760,35760,52786.0,1450,35760,3,True,,United States
+128771,Central Connecticut State University,CT,New Britain,www.ccsu.edu/,13,12460,25736,24112.0,7670,25736,3,True,,United States
+128780,Charter Oak State College,CT,New Britain,https://www.charteroak.edu/,6,8506,8506,22558.0,1620,8506,3,True,,United States
+128902,Connecticut College,CT,New London,www.conncoll.edu/,11,64812,64812,82219.0,1960,64812,3,True,,United States
+129020,University of Connecticut,CT,Storrs,uconn.edu/,17,20366,43034,36572.0,19147,43034,3,True,,United States
+129215,Eastern Connecticut State University,CT,Willimantic,https://www.easternct.edu/,14,13292,16624,30805.0,3377,16624,3,True,,United States
+129242,Fairfield University,CT,Fairfield,fairfield.edu/,14,56360,56360,73371.0,4938,56360,3,True,,United States
+129525,University of Hartford,CT,West Hartford,www.hartford.edu/,14,47647,47647,62273.0,4032,47647,3,True,,United States
+129941,University of New Haven,CT,West Haven,www.newhaven.edu/,14,45730,45730,63970.0,4799,45730,3,True,,United States
+130183,Post University,CT,Waterbury,www.post.edu/,12,17100,17100,27202.0,18975,17100,3,True,,United States
+130226,Quinnipiac University,CT,Hamden,www.qu.edu/,14,53090,53090,69666.0,6208,53090,3,True,,United States
+130253,Sacred Heart University,CT,Fairfield,https://www.sacredheart.edu/,14,48460,48460,66669.0,6904,48460,3,True,,United States
+130493,Southern Connecticut State University,CT,New Haven,www.southernct.edu/,13,12828,26104,28592.0,6180,26104,3,True,,United States
+130590,Trinity College,CT,Hartford,https://www.trincoll.edu/,11,67420,67420,83090.0,2193,67420,3,True,,United States
+130697,Wesleyan University,CT,Middletown,https://www.wesleyan.edu/,11,67316,67316,85172.0,2973,67316,3,True,,United States
+130776,Western Connecticut State University,CT,Danbury,https://www.wcsu.edu/,13,12763,16095,24534.0,3434,16095,3,True,,United States
+130794,Yale University,CT,New Haven,https://www.yale.edu/,17,64700,64700,85120.0,6811,64700,3,True,,United States
+130934,Delaware State University,DE,Dover,www.desu.edu/,14,10314,20250,27536.0,4630,20250,3,True,,United States
+130943,University of Delaware,DE,Newark,www.udel.edu/,16,16080,39720,29347.0,18812,39720,3,True,,United States
+131113,Wilmington University,DE,New Castle,www.wilmu.edu/,12,12330,12330,19326.0,8497,12330,3,True,,United States
+131159,American University,DC,Washington,www.american.edu/,17,56543,56543,71549.0,7593,56543,3,True,,United States
+131283,The Catholic University of America,DC,Washington,https://www.catholic.edu/,14,55834,55834,73198.0,3063,55834,3,True,,United States
+131399,University of the District of Columbia,DC,Washington,www.udc.edu/,9,6152,13004,20911.0,3080,13004,3,True,,United States
+131469,George Washington University,DC,Washington,https://www.gwu.edu/,17,64990,64990,80727.0,10848,64990,3,True,,United States
+131496,Georgetown University,DC,Washington,www.georgetown.edu/,17,65081,65081,84696.0,7462,65081,3,True,,United States
+131520,Howard University,DC,Washington,www.howard.edu/,17,33344,33344,51450.0,9604,33344,3,True,,United States
+131876,Trinity Washington University,DC,Washington,www.trinitydc.edu/,9,26110,26110,35061.0,1415,26110,3,True,,United States
+132471,Barry University,FL,Miami,www.barry.edu/,13,33450,33450,48300.0,2245,33450,3,True,,United States
+132602,Bethune-Cookman University,FL,Daytona Beach,https://www.cookman.edu/,11,14794,14794,29782.0,2414,14794,3,True,,United States
+132657,Lynn University,FL,Boca Raton,https://www.lynn.edu/,11,42950,42950,60817.0,2820,42950,3,True,,United States
+132903,University of Central Florida,FL,Orlando,www.ucf.edu/,15,6368,22467,22819.0,59095,22467,3,True,,United States
+133492,Eckerd College,FL,Saint Petersburg,https://www.eckerd.edu/,11,50374,50374,66936.0,1984,50374,3,True,,United States
+133526,Edward Waters University,FL,Jacksonville,www.ew.edu/,8,14878,14878,26973.0,1113,14878,3,True,,United States
+133553,Embry-Riddle Aeronautical University-Daytona Beach,FL,Daytona Beach,daytonabeach.erau.edu/,13,42304,42304,59972.0,7535,42304,3,True,,United States
+133650,Florida Agricultural and Mechanical University,FL,Tallahassee,www.famu.edu/,13,5785,17725,24047.0,7516,17725,3,True,,United States
+133669,Florida Atlantic University,FL,Boca Raton,www.fau.edu/,15,4879,17324,21054.0,23458,17324,3,True,,United States
+133711,Flagler College,FL,Saint Augustine,https://www.flagler.edu/,10,26610,26610,41734.0,2404,26610,3,True,,United States
+133872,AdventHealth University,FL,Orlando,www.ahu.edu/,9,20880,20880,38194.0,1068,20880,3,True,,United States
+133881,Florida Institute of Technology,FL,Melbourne,https://www.fit.edu/,14,44360,44360,60387.0,3235,44360,3,True,,United States
+133951,Florida International University,FL,Miami,www.fiu.edu/,15,6565,18963,20556.0,38761,18963,3,True,,United States
+133979,Florida Memorial University,FL,Miami Gardens,www.fmuniv.edu/,8,19110,19110,31940.0,1299,19110,3,True,,United States
+134079,Florida Southern College,FL,Lakeland,www.flsouthern.edu/,14,42360,42360,57174.0,2607,42360,3,True,,United States
+134097,Florida State University,FL,Tallahassee,https://www.fsu.edu/,15,5656,18786,23683.0,31812,18786,3,True,,United States
+134130,University of Florida,FL,Gainesville,https://www.ufl.edu/,16,6381,28659,21719.0,34102,28659,3,True,,United States
+134237,Full Sail University,FL,Winter Park,www.fullsail.edu/,15,26417,26417,39814.0,25195,26417,3,True,,United States
+134945,Jacksonville University,FL,Jacksonville,https://www.ju.edu/index.php,14,46180,46180,61414.0,2649,46180,3,True,,United States
+135726,University of Miami,FL,Coral Gables,www.miami.edu/,16,59926,59926,77708.0,12570,59926,3,True,,United States
+136172,University of North Florida,FL,Jacksonville,https://www.unf.edu/,15,6389,20793,20229.0,13915,20793,3,True,,United States
+136215,Nova Southeastern University,FL,Fort Lauderdale,www.nova.edu/,16,37080,37080,55647.0,7171,37080,3,True,,United States
+136330,Palm Beach Atlantic University,FL,West Palm Beach,www.pba.edu/,11,37990,37990,55576.0,2427,37990,3,True,,United States
+136774,Ringling College of Art and Design,FL,Sarasota,https://www.ringling.edu/,11,55480,55480,75726.0,1719,55480,3,True,,United States
+136950,Rollins College,FL,Winter Park,www.rollins.edu/,11,58300,58300,72790.0,2582,58300,3,True,,United States
+137032,Saint Leo University,FL,Saint Leo,www.saintleo.edu/,12,28360,28360,41727.0,6999,28360,3,True,,United States
+137351,University of South Florida,FL,Tampa,www.usf.edu/,15,6410,17324,22301.0,36299,17324,3,True,,United States
+137476,St. Thomas University,FL,Miami Gardens,www.stu.edu/,13,34770,34770,49762.0,1963,34770,3,True,,United States
+137546,Stetson University,FL,DeLand,https://www.stetson.edu/,14,55220,55220,69807.0,2292,55220,3,True,,United States
+137564,Southeastern University,FL,Lakeland,https://www.seu.edu/,13,31732,31732,43803.0,4646,31732,3,True,,United States
+137847,The University of Tampa,FL,Tampa,https://www.ut.edu/,13,33424,33424,49841.0,10093,33424,3,True,,United States
+138354,University of West Florida,FL,Pensacola,uwf.edu/,12,6360,19241,18504.0,9042,19241,3,True,,United States
+138558,Abraham Baldwin Agricultural College,GA,Tifton,https://www.abac.edu/,10,3195,10101,13103.0,3218,10101,3,True,,United States
+138716,Albany State University,GA,Albany,https://www.asurams.edu/,13,5934,16656,20574.0,5829,16656,3,True,,United States
+138868,Point University,GA,West Point,point.edu/,7,22300,22300,34418.0,2617,22300,3,True,,United States
+138947,Clark Atlanta University,GA,Atlanta,www.cau.edu/,14,26446,26446,40924.0,3482,26446,3,True,,United States
+139144,Berry College,GA,Mount Berry,https://www.berry.edu/,11,40416,40416,55714.0,2213,40416,3,True,,United States
+139250,College of Coastal Georgia,GA,Brunswick,https://www.ccga.edu/,9,3483,10389,18975.0,2794,10389,3,True,,United States
+139311,Clayton  State University,GA,Morrow,www.clayton.edu/,12,5068,15790,17940.0,4390,15790,3,True,,United States
+139366,Columbus State University,GA,Columbus,www.columbusstate.edu/,12,5751,16805,19953.0,5537,16805,3,True,,United States
+139463,Dalton State College,GA,Dalton,https://www.daltonstate.edu/index.cms,12,3283,10189,11292.0,4419,10189,3,True,,United States
+139658,Emory University,GA,Atlanta,www.emory.edu/,17,60774,60774,78814.0,7275,60774,3,True,,United States
+139719,Fort Valley State University,GA,Fort Valley,www.fvsu.edu/,11,5392,16114,20342.0,2541,16114,3,True,,United States
+139755,Georgia Institute of Technology-Main Campus,GA,Atlanta,www.gatech.edu/,17,11764,32876,27797.0,18260,32876,3,True,,United States
+139764,Georgia Southwestern State University,GA,Americus,https://gsw.edu/,10,4980,15702,19234.0,2291,15702,3,True,,United States
+139861,Georgia College & State University,GA,Milledgeville,www.gcsu.edu/,13,8998,28178,27781.0,5599,28178,3,True,,United States
+139931,Georgia Southern University,GA,Statesboro,www.georgiasouthern.edu/,16,5905,16959,24563.0,21029,16959,3,True,,United States
+139940,Georgia State University,GA,Atlanta,www.gsu.edu/,15,8478,23709,26535.0,27109,23709,3,True,,United States
+139959,University of Georgia,GA,Athens,www.uga.edu/,16,11180,30220,27436.0,31310,30220,3,True,,United States
+140447,Mercer University,GA,Macon,https://www.mercer.edu/,14,40890,40890,56494.0,4620,40890,3,True,,United States
+140553,Morehouse College,GA,Atlanta,www.morehouse.edu/,11,31725,31725,47347.0,2736,31725,3,True,,United States
+140696,Oglethorpe University,GA,Atlanta,oglethorpe.edu/,11,45806,45806,59320.0,1429,45806,3,True,,United States
+140818,Piedmont University,GA,Demorest,https://www.piedmont.edu/,11,30680,30680,45359.0,1235,30680,3,True,,United States
+140872,Reinhardt University,GA,Waleska,www.reinhardt.edu/,11,28420,28420,45689.0,1012,28420,3,True,,United States
+140951,Savannah College of Art and Design,GA,Savannah,www.scad.edu/,16,40595,40595,59670.0,14423,40595,3,True,,United States
+140960,Savannah State University,GA,Savannah,www.savannahstate.edu/,11,5498,16218,17185.0,2727,16218,3,True,,United States
+140988,Shorter University,GA,Rome,https://www.shorter.edu/,11,24044,24044,34985.0,1091,24044,3,True,,United States
+141060,Spelman College,GA,Atlanta,www.spelman.edu/,11,30058,30058,49349.0,3633,30058,3,True,,United States
+141264,Valdosta State University,GA,Valdosta,www.valdosta.edu/,13,6007,17062,20202.0,6858,17062,3,True,,United States
+141334,University of West Georgia,GA,Carrollton,www.westga.edu/,13,5971,17024,23504.0,7485,17024,3,True,,United States
+141486,Chaminade University of Honolulu,HI,Honolulu,https://www.chaminade.edu/,9,29970,29970,43637.0,1648,29970,3,True,,United States
+141565,University of Hawaii at Hilo,HI,Hilo,https://hilo.hawaii.edu/,10,7838,20798,20914.0,2260,20798,3,True,,United States
+141574,University of Hawaii at Manoa,HI,Honolulu,https://manoa.hawaii.edu/,16,12186,34218,23832.0,14306,34218,3,True,,United States
+141644,Hawaii Pacific University,HI,Honolulu,https://www.hpu.edu/,9,33020,33020,49980.0,2502,33020,3,True,,United States
+141981,University of Hawaii-West Oahu,HI,Kapolei,https://westoahu.hawaii.edu/,9,7584,20544,18190.0,2510,20544,3,True,,United States
+142115,Boise State University,ID,Boise,https://www.boisestate.edu/,15,8782,26976,25387.0,17081,26976,3,True,,United States
+142276,Idaho State University,ID,Pocatello,www.isu.edu/,12,8356,27466,21084.0,7260,27466,3,True,,United States
+142285,University of Idaho,ID,Moscow,www.uidaho.edu/,13,8816,29784,22669.0,7363,29784,3,True,,United States
+142294,The College of Idaho,ID,Caldwell,www.collegeofidaho.edu/,11,36030,36030,48451.0,1049,36030,3,True,,United States
+142328,Lewis-Clark State College,ID,Lewiston,www.lcsc.edu/,9,7388,21386,18646.0,2277,21386,3,True,,United States
+142461,Northwest Nazarene University,ID,Nampa,https://www.nnu.edu/,11,39370,39370,50275.0,1138,39370,3,True,,United States
+142522,Brigham Young University-Idaho,ID,Rexburg,www.byui.edu/,15,4656,4656,13357.0,42090,4656,3,True,,United States
+143048,School of the Art Institute of Chicago,IL,Chicago,www.saic.edu/,10,54530,54530,74138.0,2762,54530,3,True,,United States
+143084,Augustana College,IL,Rock Island,www.augustana.edu/,11,49834,49834,60798.0,2418,49834,3,True,,United States
+143118,Aurora University,IL,Aurora,https://aurora.edu/,12,28220,28220,39232.0,4021,28220,3,True,,United States
+143358,Bradley University,IL,Peoria,www.bradley.edu/,13,39680,39680,52730.0,3865,39680,3,True,,United States
+144005,Chicago State University,IL,Chicago,www.csu.edu/,9,12754,12754,30454.0,1414,12754,3,True,,United States
+144050,University of Chicago,IL,Chicago,www.uchicago.edu/,17,66939,66939,86856.0,7540,66939,3,True,,United States
+144281,Columbia College Chicago,IL,Chicago,www.colum.edu/,13,32520,32520,49799.0,6294,32520,3,True,,United States
+144351,Concordia University-Chicago,IL,River Forest,www.cuchicago.edu/,14,36258,36258,44252.0,1337,36258,3,True,,United States
+144740,DePaul University,IL,Chicago,https://www.depaul.edu/,15,44460,44460,59467.0,14283,44460,3,True,,United States
+144892,Eastern Illinois University,IL,Charleston,https://www.eiu.edu/,14,13403,15879,26164.0,4398,15879,3,True,,United States
+144962,Elmhurst University,IL,Elmhurst,www.elmhurst.edu/,13,41628,41628,51829.0,2954,41628,3,True,,United States
+145336,Governors State University,IL,University Park,www.govst.edu/,12,11320,11320,23076.0,2518,11320,3,True,,United States
+145600,University of Illinois Chicago,IL,Chicago,www.uic.edu/,15,14338,29360,26998.0,21814,29360,3,True,,United States
+145619,Benedictine University,IL,Lisle,https://ben.edu/,9,34290,34290,46548.0,1817,34290,3,True,,United States
+145637,University of Illinois Urbana-Champaign,IL,Champaign,www.illinois.edu/,16,16004,34501,32134.0,34623,34501,3,True,,United States
+145646,Illinois Wesleyan University,IL,Bloomington,www.iwu.edu/,11,55704,55704,68399.0,1570,55704,3,True,,United States
+145725,Illinois Institute of Technology,IL,Chicago,https://www.iit.edu/,14,51763,51763,67720.0,2812,51763,3,True,,United States
+145813,Illinois State University,IL,Normal,illinoisstate.edu/,16,16021,28086,32458.0,18414,28086,3,True,,United States
+146481,Lake Forest College,IL,Lake Forest,www.lakeforest.edu/,11,54202,54202,68191.0,1782,54202,3,True,,United States
+146612,Lewis University,IL,Romeoville,www.lewisu.edu/,13,37882,37882,45843.0,3665,37882,3,True,,United States
+146719,Loyola University Chicago,IL,Chicago,https://www.luc.edu/,16,51716,51716,64167.0,11576,51716,3,True,,United States
+147013,McKendree University,IL,Lebanon,https://www.mckendree.edu/,11,34070,34070,47121.0,1600,34070,3,True,,United States
+147244,Millikin University,IL,Decatur,https://millikin.edu/,10,26892,43670,41297.0,1458,43670,3,True,,United States
+147369,Moody Bible Institute,IL,Chicago,https://www.moody.edu/,11,15356,15356,34510.0,1586,15356,3,True,,United States
+147536,National Louis University,IL,Chicago,www.nl.edu/,12,12345,12345,25350.0,4100,12345,3,True,,United States
+147660,North Central College,IL,Naperville,northcentralcollege.edu/,11,44394,44394,54803.0,2360,44394,3,True,,United States
+147679,North Park University,IL,Chicago,www.northpark.edu/,11,35325,35325,42040.0,1844,35325,3,True,,United States
+147703,Northern Illinois University,IL,Dekalb,www.niu.edu/,16,12700,12700,27214.0,11277,12700,3,True,,United States
+147767,Northwestern University,IL,Evanston,www.northwestern.edu/,16,65997,65997,87804.0,8960,65997,3,True,,United States
+147776,Northeastern Illinois University,IL,Chicago,www.neiu.edu/,12,12383,22726,27208.0,3869,22726,3,True,,United States
+147828,Olivet Nazarene University,IL,Bourbonnais,https://www.olivet.edu/,11,37940,37940,50557.0,2485,37940,3,True,,United States
+148131,Quincy University,IL,Quincy,https://www.quincy.edu/,11,35740,35740,45102.0,1038,35740,3,True,,United States
+148487,Roosevelt University,IL,Chicago,www.roosevelt.edu/,13,20280,20280,48426.0,2583,20280,3,True,,United States
+148496,Dominican University,IL,River Forest,https://www.dom.edu/,9,37844,37844,44414.0,2271,37844,3,True,,United States
+148584,University of St Francis,IL,Joliet,https://www.stfrancis.edu/,10,37000,37000,45375.0,1292,37000,3,True,,United States
+148627,Saint Xavier University,IL,Chicago,https://www.sxu.edu/,12,36840,36840,42237.0,3030,36840,3,True,,United States
+148654,University of Illinois Springfield,IL,Springfield,www.uis.edu/,10,12252,22017,23643.0,2292,22017,3,True,,United States
+149222,Southern Illinois University-Carbondale,IL,Carbondale,https://siu.edu/,14,13244,13244,29268.0,8116,13244,3,True,,United States
+149231,Southern Illinois University-Edwardsville,IL,Edwardsville,www.siue.edu/,16,12922,12922,25302.0,8836,12922,3,True,,United States
+149772,Western Illinois University,IL,Macomb,www.wiu.edu/,13,14952,14952,27828.0,4939,14952,3,True,,United States
+149781,Wheaton College,IL,Wheaton,www.wheaton.edu/,11,43930,43930,56447.0,2087,43930,3,True,,United States
+150066,Anderson University,IN,Anderson,https://anderson.edu/,11,35640,35640,49098.0,1070,35640,3,True,,United States
+150136,Ball State University,IN,Muncie,https://www.bsu.edu/,16,10758,28766,25134.0,13770,28766,3,True,,United States
+150145,Bethel University,IN,Mishawaka,https://betheluniversity.edu/,11,33320,33320,42276.0,1069,33320,3,True,,United States
+150163,Butler University,IN,Indianapolis,www.butler.edu/,14,45980,45980,64503.0,4383,45980,3,True,,United States
+150400,DePauw University,IN,Greencastle,www.depauw.edu/,11,57070,57070,72560.0,1804,57070,3,True,,United States
+150534,University of Evansville,IN,Evansville,https://www.evansville.edu/,11,42676,42676,56068.0,1477,42676,3,True,,United States
+150677,Grace College and Theological Seminary,IN,Winona Lake,www.grace.edu/,11,30034,30034,40539.0,1511,30034,3,True,,United States
+150941,Huntington University,IN,Huntington,www.huntington.edu/,11,29982,29982,40088.0,1016,29982,3,True,,United States
+151102,Purdue University Fort Wayne,IN,Fort Wayne,www.pfw.edu/,12,9254,22220,19714.0,5450,22220,3,True,,United States
+151111,Indiana University-Indianapolis,IN,Indianapolis,https://indianapolis.iu.edu/,15,10449,33717,22216.0,16582,33717,3,True,,United States
+151263,University of Indianapolis,IN,Indianapolis,https://uindy.edu/,14,36136,36136,48674.0,3147,36136,3,True,,United States
+151290,Indiana Institute of Technology,IN,Fort Wayne,www.indianatech.edu/,10,30446,30446,43490.0,1361,30446,3,True,,United States
+151306,University of Southern Indiana,IN,Evansville,www.usi.edu/,13,10136,22573,20749.0,5344,22573,3,True,,United States
+151324,Indiana State University,IN,Terre Haute,https://www.indstate.edu/,13,9992,21734,23475.0,6620,21734,3,True,,United States
+151333,Indiana University-Kokomo,IN,Kokomo,www.iuk.edu/,9,8179,22043,13351.0,2308,22043,3,True,,United States
+151342,Indiana University-South Bend,IN,South Bend,https://iusb.edu/,12,8179,22043,15984.0,3807,22043,3,True,,United States
+151351,Indiana University-Bloomington,IN,Bloomington,www.indiana.edu/,16,11790,40482,27361.0,36571,40482,3,True,,United States
+151360,Indiana University-Northwest,IN,Gary,www.iun.edu/,9,8179,22043,13371.0,2582,22043,3,True,,United States
+151379,Indiana University-Southeast,IN,New Albany,https://ius.edu/,12,8179,22043,15313.0,3088,22043,3,True,,United States
+151388,Indiana University-East,IN,Richmond,www.iue.edu/,9,8179,22043,16756.0,2446,22043,3,True,,United States
+151786,Marian University,IN,Indianapolis,www.marian.edu/,13,39100,39100,52691.0,2336,39100,3,True,,United States
+151801,Indiana Wesleyan University-Marion,IN,Marion,https://www.indwes.edu/,11,31168,31168,42951.0,1927,31168,3,True,,United States
+152080,University of Notre Dame,IN,Notre Dame,www.nd.edu/,17,62693,62693,80211.0,8923,62693,3,True,,United States
+152318,Rose-Hulman Institute of Technology,IN,Terre Haute,https://www.rose-hulman.edu/,11,56674,56674,74226.0,2224,56674,3,True,,United States
+152336,University of Saint Francis-Fort Wayne,IN,Fort Wayne,https://www.sf.edu/,9,35420,35420,45228.0,1599,35420,3,True,,United States
+152390,Saint Mary's College,IN,Notre Dame,https://www.saintmarys.edu/,11,51430,51430,65706.0,1399,51430,3,True,,United States
+152530,Taylor University,IN,Upland,https://www.taylor.edu/,11,39104,39104,51879.0,1890,39104,3,True,,United States
+152567,Trine University,IN,Angola,www.trine.edu/,11,35600,35600,50004.0,2344,35600,3,True,,United States
+152600,Valparaiso University,IN,Valparaiso,https://www.valpo.edu/,11,46588,46588,57393.0,2229,46588,3,True,,United States
+153001,Buena Vista University,IA,Storm Lake,https://www.bvu.edu/,11,40190,40190,52490.0,1378,40190,3,True,,United States
+153108,Central College,IA,Pella,www.central.edu/,11,20988,20988,35177.0,1062,20988,3,True,,United States
+153144,Coe College,IA,Cedar Rapids,www.coe.edu/,11,52576,52576,64682.0,1246,52576,3,True,,United States
+153162,Cornell College,IA,Mount Vernon,www.cornellcollege.edu/,8,50634,50634,64336.0,1074,50634,3,True,,United States
+153250,Dordt University,IA,Sioux Center,https://www.dordt.edu/,11,35960,35960,49722.0,1547,35960,3,True,,United States
+153269,Drake University,IA,Des Moines,www.drake.edu/,14,49944,49944,62407.0,2669,49944,3,True,,United States
+153278,University of Dubuque,IA,Dubuque,www.dbq.edu/,11,40065,40065,51060.0,1473,40065,3,True,,United States
+153375,Grand View University,IA,Des Moines,www.grandview.edu/,11,33450,33450,46188.0,1472,33450,3,True,,United States
+153384,Grinnell College,IA,Grinnell,www.grinnell.edu/,11,64862,64862,79228.0,1705,64862,3,True,,United States
+153603,Iowa State University,IA,Ames,https://www.iastate.edu/,16,10497,27683,23309.0,25033,27683,3,True,,United States
+153658,University of Iowa,IA,Iowa City,https://uiowa.edu/,16,10964,32927,26883.0,21691,32927,3,True,,United States
+153825,Loras College,IA,Dubuque,www.loras.edu/,11,38298,38298,48380.0,1087,38298,3,True,,United States
+153834,Luther College,IA,Decorah,https://www.luther.edu/,11,50320,50320,62845.0,1454,50320,3,True,,United States
+154004,Morningside University,IA,Sioux City,https://www.morningside.edu/,11,38190,38190,50429.0,1166,38190,3,True,,United States
+154013,Mount Mercy University,IA,Cedar Rapids,www.mtmercy.edu/,10,39070,39070,52436.0,1135,39070,3,True,,United States
+154022,Ashford University,CA,San Diego,www.uagc.edu/,15,13160,13160,30866.0,23734,13160,3,True,,United States
+154095,University of Northern Iowa,IA,Cedar Falls,https://www.uni.edu/,13,9728,21272,21627.0,7599,21272,3,True,,United States
+154101,Northwestern College,IA,Orange City,https://www.nwciowa.edu/,11,35300,35300,48447.0,1125,35300,3,True,,United States
+154235,Saint Ambrose University,IA,Davenport,www.sau.edu/,11,35598,35598,50018.0,2101,35598,3,True,,United States
+154350,Simpson College,IA,Indianola,simpson.edu/,11,46212,46212,58937.0,1130,46212,3,True,,United States
+154493,Upper Iowa University,IA,Fayette,https://www.uiu.edu/,10,19000,19000,48422.0,2021,19000,3,True,,United States
+154518,Waldorf University,IA,Forest City,www.waldorf.edu/,9,25220,25220,38035.0,2103,25220,3,True,,United States
+154527,Wartburg College,IA,Waverly,https://www.wartburg.edu/,11,51040,51040,61832.0,1446,51040,3,True,,United States
+154590,William Penn University,IA,Oskaloosa,https://www.wmpenn.edu/,11,28750,28750,40749.0,1391,28750,3,True,,United States
+154688,Baker University,KS,Baldwin City,https://www.bakeru.edu/,10,33900,33900,48117.0,1080,33900,3,True,,United States
+154712,Benedictine College,KS,Atchison,www.benedictine.edu/,11,34800,34800,50820.0,2236,34800,3,True,,United States
+155025,Emporia State University,KS,Emporia,www.emporia.edu/,13,7356,15669,20527.0,2328,15669,3,True,,United States
+155061,Fort Hays State University,KS,Hays,www.fhsu.edu/,12,5633,16811,19114.0,9792,16811,3,True,,United States
+155089,Friends University,KS,Wichita,www.friends.edu/,10,32748,32748,44401.0,1015,32748,3,True,,United States
+155317,University of Kansas,KS,Lawrence,https://ku.edu/,16,11700,29412,25215.0,19857,29412,3,True,,United States
+155399,Kansas State University,KS,Manhattan,www.k-state.edu/,16,10942,27816,25441.0,14835,27816,3,True,,United States
+155681,Pittsburg State University,KS,Pittsburg,https://www.pittstate.edu/,13,8008,19692,22426.0,4162,19692,3,True,,United States
+155900,Southwestern College,KS,Winfield,https://www.sckans.edu/,7,38480,38480,53677.0,1026,38480,3,True,,United States
+156082,Washburn University,KS,Topeka,www.washburn.edu/,12,9578,20582,20949.0,4093,20582,3,True,,United States
+156125,Wichita State University,KS,Wichita,www.wichita.edu/,15,9322,19240,21064.0,10493,19240,3,True,,United States
+156213,Asbury University,KY,Wilmore,https://www.asbury.edu/,11,33640,33640,46209.0,1369,33640,3,True,,United States
+156286,Bellarmine University,KY,Louisville,https://www.bellarmine.edu/,10,47180,47180,60247.0,2286,47180,3,True,,United States
+156295,Berea College,KY,Berea,https://www.berea.edu/,11,49326,49326,56068.0,1472,49326,3,True,,United States
+156365,Campbellsville University,KY,Campbellsville,https://www.campbellsville.edu/,14,26990,26990,40924.0,2641,26990,3,True,,United States
+156408,Centre College,KY,Danville,https://www.centre.edu/,11,50550,50550,63354.0,1346,50550,3,True,,United States
+156541,University of the Cumberlands,KY,Williamsburg,www.ucumberlands.edu/,13,9875,9875,24654.0,5468,9875,3,True,,United States
+156620,Eastern Kentucky University,KY,Richmond,www.eku.edu/,16,10130,20820,22265.0,11674,20820,3,True,,United States
+156745,Georgetown College,KY,Georgetown,www.georgetowncollege.edu/,11,42010,42010,56297.0,1180,42010,3,True,,United States
+157058,Kentucky State University,KY,Frankfort,www.kysu.edu/,11,9214,13260,21023.0,1317,13260,3,True,,United States
+157085,University of Kentucky,KY,Lexington,www.uky.edu/,16,13212,33406,32291.0,23189,33406,3,True,,United States
+157216,Lindsey Wilson College,KY,Columbia,https://www.lindsey.edu/,11,27274,27274,39568.0,1649,27274,3,True,,United States
+157289,University of Louisville,KY,Louisville,www.louisville.edu/,15,12828,29174,30843.0,14187,29174,3,True,,United States
+157377,Midway University,KY,Midway,www.midway.edu/,10,26080,26080,41400.0,1250,26080,3,True,,United States
+157386,Morehead State University,KY,Morehead,https://www.moreheadstate.edu/,13,9838,14706,22758.0,4689,14706,3,True,,United States
+157401,Murray State University,KY,Murray,www.murraystate.edu/,13,9708,19452,21475.0,6646,19452,3,True,,United States
+157447,Northern Kentucky University,KY,Highland Heights,www.nku.edu/,15,10896,21480,19471.0,8065,21480,3,True,,United States
+157535,University of Pikeville,KY,Pikeville,www.upike.edu/,11,24150,24150,33271.0,1140,24150,3,True,,United States
+157809,Thomas More University,KY,Crestview Hills,www.thomasmore.edu/,10,38400,38400,46342.0,1305,38400,3,True,,United States
+157818,Transylvania University,KY,Lexington,https://www.transy.edu/,8,44980,44980,58863.0,1014,44980,3,True,,United States
+157951,Western Kentucky University,KY,Bowling Green,https://www.wku.edu/,16,11436,27000,23520.0,12267,27000,3,True,,United States
+158802,Dillard University,LA,New Orleans,www.dillard.edu/,11,22194,22194,36057.0,1111,22194,3,True,,United States
+159009,Grambling State University,LA,Grambling,www.gram.edu/,14,7683,16706,25100.0,4144,16706,3,True,,United States
+159382,Louisiana State University-Alexandria,LA,Alexandria,www.lsua.edu/,9,7050,14650,15540.0,4414,14650,3,True,,United States
+159391,Louisiana State University and Agricultural & Mechanical College,LA,Baton Rouge,www.lsu.edu/,16,11954,28631,34328.0,29207,28631,3,True,,United States
+159416,Louisiana State University-Shreveport,LA,Shreveport,www.lsus.edu/,12,7327,20481,19233.0,2150,20481,3,True,,United States
+159647,Louisiana Tech University,LA,Ruston,https://www.latech.edu/,13,10125,16866,24405.0,7819,16866,3,True,,United States
+159656,Loyola University New Orleans,LA,New Orleans,www.loyno.edu/,13,47240,47240,61837.0,2999,47240,3,True,,United States
+159717,McNeese State University,LA,Lake Charles,www.mcneese.edu/,12,8460,9960,21168.0,4846,9960,3,True,,United States
+159939,University of New Orleans,LA,New Orleans,new.uno.edu/,13,9172,14008,22605.0,4479,14008,3,True,,United States
+159966,Nicholls State University,LA,Thibodaux,www.nicholls.edu/,12,8173,9266,21519.0,4772,9266,3,True,,United States
+159993,University of Louisiana at Monroe,LA,Monroe,www.ulm.edu/,13,9190,21290,23552.0,4891,21290,3,True,,United States
+160038,Northwestern State University of Louisiana,LA,Natchitoches,https://www.nsula.edu/,12,8864,19652,24496.0,5840,19652,3,True,,United States
+160612,Southeastern Louisiana University,LA,Hammond,www.southeastern.edu/,15,8373,20851,22647.0,9514,20851,3,True,,United States
+160621,Southern University and A & M College,LA,Baton Rouge,www.subr.edu/,14,9940,17198,26076.0,5323,17198,3,True,,United States
+160630,Southern University at New Orleans,LA,New Orleans,www.suno.edu/,10,7490,16390,20893.0,1095,16390,3,True,,United States
+160658,University of Louisiana at Lafayette,LA,Lafayette,www.louisiana.edu/,16,10418,24146,24631.0,12269,24146,3,True,,United States
+160755,Tulane University of Louisiana,LA,New Orleans,https://tulane.edu/,16,65538,65538,83761.0,7759,65538,3,True,,United States
+160904,Xavier University of Louisiana,LA,New Orleans,https://www.xula.edu/,14,27868,27868,39183.0,2534,27868,3,True,,United States
+160977,Bates College,ME,Lewiston,www.bates.edu/,11,63478,63478,80440.0,1753,63478,3,True,,United States
+161004,Bowdoin College,ME,Brunswick,https://www.bowdoin.edu/,11,64910,64910,80390.0,1846,64910,3,True,,United States
+161086,Colby College,ME,Waterville,www.colby.edu/,11,66600,66600,81550.0,2282,66600,3,True,,United States
+161217,University of Maine at Augusta,ME,Augusta,www.uma.edu/,9,8618,21548,18813.0,2759,21548,3,True,,United States
+161226,University of Maine at Farmington,ME,Farmington,https://www.umf.maine.edu/,11,10989,23079,24103.0,1131,23079,3,True,,United States
+161253,University of Maine,ME,Orono,www.umaine.edu/,13,12606,35346,26418.0,8341,35346,3,True,,United States
+161341,University of Maine at Presque Isle,ME,Presque Isle,www.umpi.edu/,7,8990,14270,18663.0,1362,14270,3,True,,United States
+161457,University of New England,ME,Biddeford,https://www.une.edu/,14,42550,42550,60706.0,2189,42550,3,True,,United States
+161554,University of Southern Maine,ME,Portland,usm.maine.edu/,12,10920,27104,21381.0,4245,27104,3,True,,United States
+161572,Unity Environmental University,ME,New Gloucester,https://unity.edu/,9,12640,12640,20915.0,5619,12640,3,True,,United States
+161873,University of Baltimore,MD,Baltimore,www.ubalt.edu/,9,9772,23490,27477.0,1276,23490,3,True,,United States
+162007,Bowie State University,MD,Bowie,www.bowiestate.edu/,13,8999,19889,24302.0,5207,19889,3,True,,United States
+162283,Coppin State University,MD,Baltimore,www.coppin.edu/,10,7001,13789,20152.0,1756,13789,3,True,,United States
+162584,Frostburg State University,MD,Frostburg,www.frostburg.edu/,13,9998,25180,26500.0,2849,25180,3,True,,United States
+162760,Hood College,MD,Frederick,www.hood.edu/,11,45870,45870,59174.0,1202,45870,3,True,,United States
+162928,Johns Hopkins University,MD,Baltimore,www.jhu.edu/,16,63340,63340,81300.0,5617,63340,3,True,,United States
+163046,Loyola University Maryland,MD,Baltimore,https://www.loyola.edu/,14,55480,55480,71606.0,3975,55480,3,True,,United States
+163204,University of Maryland Global Campus,MD,Adelphi,www.umgc.edu/,15,7992,12336,19790.0,48238,12336,3,True,,United States
+163268,University of Maryland-Baltimore County,MD,Baltimore,umbc.edu/,16,12952,30308,27935.0,10434,30308,3,True,,United States
+163286,University of Maryland-College Park,MD,College Park,www.umd.edu/,16,11505,40306,28073.0,30246,40306,3,True,,United States
+163295,Maryland Institute College of Art,MD,Baltimore,www.mica.edu/,11,55150,55150,71366.0,1319,55150,3,True,,United States
+163338,University of Maryland Eastern Shore,MD,Princess Anne,wwwcp.umes.edu/,11,8898,19728,27799.0,2165,19728,3,True,,United States
+163453,Morgan State University,MD,Baltimore,https://www.morgan.edu/,13,8118,18800,24778.0,8293,18800,3,True,,United States
+163462,Mount St. Mary's University,MD,Emmitsburg,https://msmary.edu/,11,47240,47240,62078.0,1806,47240,3,True,,United States
+163851,Salisbury University,MD,Salisbury,https://www.salisbury.edu/,13,10638,21332,26134.0,6056,21332,3,True,,United States
+163912,St. Mary's College of Maryland,MD,St. Mary's City,https://www.smcm.edu/,11,15236,31312,31319.0,1566,31312,3,True,,United States
+164076,Towson University,MD,Towson,www.towson.edu/,16,11306,28326,26621.0,16400,28326,3,True,,United States
+164173,Stevenson University,MD,Owings Mills,www.stevenson.edu/,11,39708,39708,57322.0,3027,39708,3,True,,United States
+164270,McDaniel College,MD,Westminster,www.mcdaniel.edu/,11,49647,49647,62974.0,1652,49647,3,True,,United States
+164447,American International College,MA,Springfield,www.aic.edu/,11,42970,42970,55463.0,1097,42970,3,True,,United States
+164465,Amherst College,MA,Amherst,www.amherst.edu/,11,67280,67280,83650.0,1907,67280,3,True,,United States
+164562,Assumption University,MA,Worcester,https://www.assumption.edu/,11,49414,49414,61777.0,1664,49414,3,True,,United States
+164580,Babson College,MA,Wellesley,www.babson.edu/,11,56032,56032,77248.0,2696,56032,3,True,,United States
+164632,Bay Path University,MA,Longmeadow,www.baypath.edu/,9,37227,37227,47064.0,1186,37227,3,True,,United States
+164739,Bentley University,MA,Waltham,www.bentley.edu/,14,58150,58150,77082.0,4288,58150,3,True,,United States
+164748,Berklee College of Music,MA,Boston,www.berklee.edu/,12,50270,50270,69874.0,7510,50270,3,True,,United States
+164924,Boston College,MA,Chestnut Hill,www.bc.edu/,17,67680,67680,83683.0,9865,67680,3,True,,United States
+164988,Boston University,MA,Boston,www.bu.edu/,17,65168,65168,82694.0,17850,65168,3,True,,United States
+165015,Brandeis University,MA,Waltham,https://www.brandeis.edu/,14,64946,64946,82123.0,3663,64946,3,True,,United States
+165024,Bridgewater State University,MA,Bridgewater,www.bridgew.edu/,13,11389,17529,25164.0,7899,17529,3,True,,United States
+165334,Clark University,MA,Worcester,www.clarku.edu/,14,55160,55160,64426.0,2336,55160,3,True,,United States
+165529,Curry College,MA,Milton,https://www.curry.edu/,11,46220,46220,61556.0,1757,46220,3,True,,United States
+165574,Dean College,MA,Franklin,www.dean.edu/,11,44960,44960,62802.0,1142,44960,3,True,,United States
+165662,Emerson College,MA,Boston,www.emerson.edu/,14,55392,55392,77153.0,4145,55392,3,True,,United States
+165671,Emmanuel College,MA,Boston,www.emmanuel.edu/,11,46686,46686,63864.0,1874,46686,3,True,,United States
+165699,Endicott College,MA,Beverly,www.endicott.edu/,14,39212,39212,57533.0,3101,39212,3,True,,United States
+165802,Fisher College,MA,Boston,www.fisher.edu/,7,35013,35013,52723.0,1138,35013,3,True,,United States
+165820,Fitchburg State University,MA,Fitchburg,www.fitchburgstate.edu/,13,11046,17126,24517.0,2825,17126,3,True,,United States
+165866,Framingham State University,MA,Framingham,www.framingham.edu/,14,11630,17710,26539.0,2556,17710,3,True,,United States
+165936,Gordon College,MA,Wenham,www.gordon.edu/,11,28100,28100,41160.0,1247,28100,3,True,,United States
+166027,Harvard University,MA,Cambridge,www.harvard.edu/,17,59076,59076,82842.0,7755,59076,3,True,,United States
+166124,College of the Holy Cross,MA,Worcester,www.holycross.edu/,11,60850,60850,76510.0,3015,60850,3,True,,United States
+166391,Lasell University,MA,Newton,www.lasell.edu/,11,26000,26000,63387.0,1152,26000,3,True,,United States
+166452,Lesley University,MA,Cambridge,www.lesley.edu/,10,32780,32780,49226.0,1252,32780,3,True,,United States
+166513,University of Massachusetts-Lowell,MA,Lowell,www.uml.edu/,16,16570,35396,29521.0,11632,35396,3,True,,United States
+166629,University of Massachusetts-Amherst,MA,Amherst,www.umass.edu/,17,17357,39293,33389.0,23694,39293,3,True,,United States
+166638,University of Massachusetts-Boston,MA,Boston,www.umb.edu/,15,15496,37174,29698.0,11848,37174,3,True,,United States
+166656,MCPHS University,MA,Boston,www.mcphs.edu/,13,38850,38850,58975.0,3474,38850,3,True,,United States
+166674,Massachusetts College of Art and Design,MA,Boston,https://massart.edu/,11,14960,42180,32256.0,1812,42180,3,True,,United States
+166683,Massachusetts Institute of Technology,MA,Cambridge,web.mit.edu/,17,60156,60156,79850.0,4571,60156,3,True,,United States
+166692,Massachusetts Maritime Academy,MA,Buzzards Bay,https://www.maritime.edu/,11,10816,23910,37721.0,1270,23910,3,True,,United States
+166850,Merrimack College,MA,North Andover,https://www.merrimack.edu/,14,51786,51786,68089.0,4043,51786,3,True,,United States
+166939,Mount Holyoke College,MA,South Hadley,https://www.mtholyoke.edu/,11,64142,64142,77545.0,2198,64142,3,True,,United States
+167260,Nichols College,MA,Dudley,www.nichols.edu/,11,40375,40375,55871.0,1152,40375,3,True,,United States
+167358,Northeastern University,MA,Boston,www.northeastern.edu/,17,63141,63141,81353.0,15719,63141,3,True,,United States
+167598,Regis College,MA,Weston,www.regiscollege.edu/,11,47770,47770,64315.0,1061,47770,3,True,,United States
+167729,Salem State University,MA,Salem,www.salemstate.edu/,13,11978,18961,27615.0,4286,18961,3,True,,United States
+167783,Simmons University,MA,Boston,www.simmons.edu/,14,45538,45538,63512.0,1750,45538,3,True,,United States
+167835,Smith College,MA,Northampton,www.smith.edu/,11,61568,61568,82134.0,2501,61568,3,True,,United States
+167899,Springfield College,MA,Springfield,www.springfield.edu/,11,43707,43707,57942.0,1916,43707,3,True,,United States
+167987,University of Massachusetts-Dartmouth,MA,North Dartmouth,www.umassd.edu/,14,15208,31750,31677.0,5289,31750,3,True,,United States
+167996,Stonehill College,MA,Easton,https://www.stonehill.edu/,11,54500,54500,68412.0,2477,54500,3,True,,United States
+168005,Suffolk University,MA,Boston,https://www.suffolk.edu/,13,45380,45380,62822.0,4434,45380,3,True,,United States
+168148,Tufts University,MA,Medford,https://www.tufts.edu/,17,67844,67844,84600.0,6804,67844,3,True,,United States
+168218,Wellesley College,MA,Wellesley,www.wellesley.edu/,11,64320,64320,83050.0,2318,64320,3,True,,United States
+168227,Wentworth Institute of Technology,MA,Boston,https://wit.edu/,14,41010,41010,55030.0,3641,41010,3,True,,United States
+168254,Western New England University,MA,Springfield,wne.edu/,14,46430,46430,58933.0,2508,46430,3,True,,United States
+168263,Westfield State University,MA,Westfield,www.westfield.ma.edu/,14,11882,17962,26435.0,3481,17962,3,True,,United States
+168281,Wheaton College (Massachusetts),MA,Norton,www.wheatoncollege.edu/,11,62080,62080,76819.0,1744,62080,3,True,,United States
+168342,Williams College,MA,Williamstown,https://www.williams.edu/,11,64860,64860,81164.0,2060,64860,3,True,,United States
+168421,Worcester Polytechnic Institute,MA,Worcester,https://www.wpi.edu/,13,59070,59070,75678.0,5344,59070,3,True,,United States
+168430,Worcester State University,MA,Worcester,https://www.worcester.edu/,13,11286,17366,21586.0,3963,17366,3,True,,United States
+168528,Adrian College,MI,Adrian,www.adrian.edu/,11,40556,40556,54950.0,1635,40556,3,True,,United States
+168546,Albion College,MI,Albion,www.albion.edu/,11,55746,55746,68794.0,1347,55746,3,True,,United States
+168591,Alma College,MI,Alma,www.alma.edu/,11,47430,47430,61380.0,1208,47430,3,True,,United States
+168740,Andrews University,MI,Berrien Springs,https://www.andrews.edu/,11,33710,33710,43670.0,1262,33710,3,True,,United States
+168786,Aquinas College,MI,Grand Rapids,https://www.aquinas.edu/,11,38520,38520,49018.0,1201,38520,3,True,,United States
+168847,Baker College,MI,Owosso,www.baker.edu/,12,12810,12810,23456.0,3026,12810,3,True,,United States
+169080,Calvin University,MI,Grand Rapids,www.calvin.edu/,14,38670,38670,53286.0,2921,38670,3,True,,United States
+169248,Central Michigan University,MI,Mount Pleasant,https://www.cmich.edu/,16,14190,14190,26470.0,9916,14190,3,True,,United States
+169442,College for Creative Studies,MI,Detroit,https://www.collegeforcreativestudies.edu/,10,51355,51355,61238.0,1285,51355,3,True,,United States
+169479,Davenport University,MI,Grand Rapids,www.davenport.edu/,12,23324,23324,35864.0,3213,23324,3,True,,United States
+169716,University of Detroit Mercy,MI,Detroit,https://www.udmercy.edu/,13,32300,32300,40069.0,2289,32300,3,True,,United States
+169798,Eastern Michigan University,MI,Ypsilanti,www.emich.edu/,16,15510,15510,28168.0,10751,15510,3,True,,United States
+169910,Ferris State University,MI,Big Rapids,www.ferris.edu/,13,13630,13630,26066.0,8087,13630,3,True,,United States
+169983,Kettering University,MI,Flint,https://www.kettering.edu/,10,46380,46380,58610.0,1279,46380,3,True,,United States
+170037,Cornerstone University,MI,Grand Rapids,www.cornerstone.edu/,10,29100,29100,40737.0,1387,29100,3,True,,United States
+170082,Grand Valley State University,MI,Allendale,www.gvsu.edu/,16,14628,20820,26578.0,19073,20820,3,True,,United States
+170286,Hillsdale College,MI,Hillsdale,https://www.hillsdale.edu/,11,32092,32092,,1563,32092,3,True,,United States
+170301,Hope College,MI,Holland,https://www.hope.edu/,11,40420,40420,52206.0,3274,40420,3,True,,United States
+170532,Kalamazoo College,MI,Kalamazoo,https://www.kzoo.edu/,11,58764,58764,71173.0,1175,58764,3,True,,United States
+170639,Lake Superior State University,MI,Sault Ste Marie,www.lssu.edu/,11,14266,14266,25757.0,1391,14266,3,True,,United States
+170675,Lawrence Technological University,MI,Southfield,www.ltu.edu/,11,41872,41872,54266.0,1701,41872,3,True,,United States
+170806,Madonna University,MI,Livonia,https://www.madonna.edu/,9,27360,27360,38809.0,1637,27360,3,True,,United States
+170976,University of Michigan-Ann Arbor,MI,Ann Arbor,https://umich.edu/,16,17228,58072,33345.0,33488,58072,3,True,,United States
+171100,Michigan State University,MI,East Lansing,https://www.msu.edu/,16,15988,43372,30528.0,40243,43372,3,True,,United States
+171128,Michigan Technological University,MI,Houghton,https://www.mtu.edu/,14,18392,41340,32550.0,5829,41340,3,True,,United States
+171137,University of Michigan-Dearborn,MI,Dearborn,https://umdearborn.edu/,12,14944,31360,22435.0,5882,31360,3,True,,United States
+171146,University of Michigan-Flint,MI,Flint,www.umflint.edu/,12,14014,31274,23329.0,4157,31274,3,True,,United States
+171456,Northern Michigan University,MI,Marquette,https://www.nmu.edu/,13,13304,18800,26206.0,6425,18800,3,True,,United States
+171492,Northwood University,MI,Midland,www.northwood.edu/,10,33000,33000,47114.0,1900,33000,3,True,,United States
+171571,Oakland University,MI,Rochester Hills,www.oakland.edu/,15,14694,23188,25016.0,12450,23188,3,True,,United States
+172051,Saginaw Valley State University,MI,University Center,www.svsu.edu/,13,12240,28752,24043.0,6004,28752,3,True,,United States
+172264,Siena Heights University,MI,Adrian,https://www.sienaheights.edu/,10,29778,29778,42802.0,1533,29778,3,True,,United States
+172644,Wayne State University,MI,Detroit,https://wayne.edu/,15,14297,30419,26794.0,15676,30419,3,True,,United States
+172699,Western Michigan University,MI,Kalamazoo,https://wmich.edu/,16,15298,19098,28655.0,12704,19098,3,True,,United States
+173045,Augsburg University,MN,Minneapolis,www.augsburg.edu/,10,43942,43942,57966.0,2429,43942,3,True,,United States
+173124,Bemidji State University,MN,Bemidji,https://www.bemidjistate.edu/,13,10164,10164,23066.0,3120,10164,3,True,,United States
+173160,Bethel University,MN,Saint Paul,https://www.bethel.edu/,11,42930,42930,56310.0,2012,42930,3,True,,United States
+173258,Carleton College,MN,Northfield,https://www.carleton.edu/,11,65457,65457,81350.0,2019,65457,3,True,,United States
+173300,Concordia College at Moorhead,MN,Moorhead,https://www.concordiacollege.edu/,11,30020,30020,43074.0,1721,30020,3,True,,United States
+173328,Concordia University-Saint Paul,MN,Saint Paul,https://www.csp.edu/,12,25000,25000,34495.0,2786,25000,3,True,,United States
+173647,Gustavus Adolphus College,MN,Saint Peter,gustavus.edu/,11,54310,54310,65976.0,1930,54310,3,True,,United States
+173665,Hamline University,MN,Saint Paul,https://www.hamline.edu/,10,48311,48311,56738.0,1685,48311,3,True,,United States
+173902,Macalester College,MN,Saint Paul,www.macalester.edu/,11,64908,64908,78900.0,2131,64908,3,True,,United States
+173920,Minnesota State University-Mankato,MN,Mankato,https://mnsu.edu/,15,9490,18860,22565.0,11325,18860,3,True,,United States
+174020,Metropolitan State University,MN,Saint Paul,www.metrostate.edu/,12,9780,9780,26057.0,4998,9780,3,True,,United States
+174066,University of Minnesota-Twin Cities,MN,Minneapolis,https://twin-cities.umn.edu/,15,16488,36402,29013.0,30469,36402,3,True,,United States
+174075,University of Minnesota-Crookston,MN,Crookston,https://crk.umn.edu/,10,13120,13120,25290.0,1650,13120,3,True,,United States
+174233,University of Minnesota-Duluth,MN,Duluth,https://www.d.umn.edu/,13,14318,19762,26907.0,7475,19762,3,True,,United States
+174358,Minnesota State University Moorhead,MN,Moorhead,https://www.mnstate.edu/,13,10336,10336,24419.0,3120,10336,3,True,,United States
+174491,University of Northwestern-St Paul,MN,Saint Paul,https://www.unwsp.edu/,11,36830,36830,48246.0,1495,36830,3,True,,United States
+174747,College of Saint Benedict,MN,Saint Joseph,https://csbsju.edu/,11,53884,53884,66878.0,1392,53884,3,True,,United States
+174783,Saint Cloud State University,MN,Saint Cloud,https://www.stcloudstate.edu/,13,10117,10117,21389.0,5181,10117,3,True,,United States
+174792,Saint Johns University,MN,Collegeville,https://csbsju.edu/,11,53942,53942,66863.0,1468,53942,3,True,,United States
+174817,Saint Mary's University of Minnesota,MN,Winona,www.smumn.edu/,13,43160,43160,54870.0,1061,43160,3,True,,United States
+174844,St Olaf College,MN,Northfield,wp.stolaf.edu/,11,56970,56970,69200.0,3049,56970,3,True,,United States
+174899,The College of Saint Scholastica,MN,Duluth,www.css.edu/,13,40454,40454,53069.0,1725,40454,3,True,,United States
+174914,University of St Thomas,MN,Saint Paul,www.stthomas.edu/,13,52284,52284,64684.0,6014,52284,3,True,,United States
+175005,St Catherine University,MN,Saint Paul,https://www.stkate.edu/,10,49758,49758,58432.0,2393,49758,3,True,,United States
+175078,Southwest Minnesota State University,MN,Marshall,www.smsu.edu/,10,10304,10304,22399.0,2045,10304,3,True,,United States
+175272,Winona State University,MN,Winona,www.winona.edu/,13,10498,17230,23373.0,5088,17230,3,True,,United States
+175342,Alcorn State University,MS,Alcorn State,www.alcorn.edu/,11,8549,8549,23937.0,2290,8549,3,True,,United States
+175421,Belhaven University,MS,Jackson,https://www.belhaven.edu/,10,29195,29195,38359.0,1370,29195,3,True,,United States
+175616,Delta State University,MS,Cleveland,https://www.deltastate.edu/,11,8605,8605,22008.0,1613,8605,3,True,,United States
+175856,Jackson State University,MS,Jackson,https://www.jsums.edu/,14,9090,10110,28611.0,4769,10110,3,True,,United States
+176017,University of Mississippi,MS,University,www.olemiss.edu/,16,9412,26980,27692.0,18995,26980,3,True,,United States
+176035,Mississippi University for Women,MS,Columbus,https://www.muw.edu/,10,8092,8092,21808.0,1593,8092,3,True,,United States
+176044,Mississippi Valley State University,MS,Itta Bena,www.mvsu.edu/,11,7912,7912,21606.0,1326,7912,3,True,,United States
+176053,Mississippi College,MS,Clinton,www.mc.edu/,14,21698,21698,39167.0,2423,21698,3,True,,United States
+176080,Mississippi State University,MS,Mississippi State,https://www.msstate.edu/,16,9815,26580,26922.0,18092,26580,3,True,,United States
+176372,University of Southern Mississippi,MS,Hattiesburg,https://www.usm.edu/,16,9618,11618,25482.0,9899,11618,3,True,,United States
+176479,William Carey University,MS,Hattiesburg,https://www.wmcarey.edu/,13,14685,14685,30846.0,1818,14685,3,True,,United States
+176628,Avila University,MO,Kansas City,https://www.avila.edu/,10,38672,38672,32863.0,1192,38672,3,True,,United States
+176947,Central Methodist University-College of Liberal Arts and Sciences,MO,Fayette,www.centralmethodist.edu/,11,27140,27140,43890.0,1015,27140,3,True,,United States
+176965,University of Central Missouri,MO,Warrensburg,https://www.ucmo.edu/,14,9739,18064,22086.0,5653,18064,3,True,,United States
+177065,Columbia College,MO,Columbia,https://www.ccis.edu/,12,24326,24326,37136.0,5359,24326,3,True,,United States
+177214,Drury University,MO,Springfield,www.drury.edu/,11,35235,35235,47091.0,1367,35235,3,True,,United States
+177339,Evangel University,MO,Springfield,www.evangel.edu/,11,27192,27192,38931.0,1205,27192,3,True,,United States
+177551,Harris-Stowe State University,MO,Saint Louis,https://www.hssu.edu/,10,6442,11074,19616.0,1086,11074,3,True,,United States
+177940,Lincoln University,MO,Jefferson City,https://www.lincolnu.edu/,11,9290,16882,21265.0,1357,16882,3,True,,United States
+177968,Lindenwood University,MO,Saint Charles,https://www.lindenwood.edu/,14,21100,21100,33442.0,4748,21100,3,True,,United States
+178059,Maryville University of Saint Louis,MO,Saint Louis,https://www.maryville.edu/,12,27166,27166,45093.0,5988,27166,3,True,,United States
+178244,Missouri Baptist University,MO,Saint Louis,www.mobap.edu/,10,33122,33122,47370.0,1452,33122,3,True,,United States
+178341,Missouri Southern State University,MO,Joplin,www.mssu.edu/,12,8400,16800,19194.0,3101,16800,3,True,,United States
+178369,Missouri Valley College,MO,Marshall,https://www.moval.edu/,11,23000,23000,37001.0,1274,23000,3,True,,United States
+178387,Missouri Western State University,MO,Saint Joseph,https://www.missouriwestern.edu/,13,9800,17500,20282.0,2372,17500,3,True,,United States
+178396,University of Missouri-Columbia,MO,Columbia,https://missouri.edu/,16,14130,34338,28948.0,23118,34338,3,True,,United States
+178402,University of Missouri-Kansas City,MO,Kansas City,https://www.umkc.edu/,12,11988,28788,24645.0,6618,28788,3,True,,United States
+178411,Missouri University of Science and Technology,MO,Rolla,https://www.mst.edu/,13,14278,31678,25653.0,5467,31678,3,True,,United States
+178420,University of Missouri-St Louis,MO,Saint Louis,https://www.umsl.edu/,12,13440,33432,27442.0,5108,33432,3,True,,United States
+178615,Truman State University,MO,Kirksville,https://www.truman.edu/,14,9470,17870,23420.0,2666,17870,3,True,,United States
+178624,Northwest Missouri State University,MO,Maryville,https://www.nwmissouri.edu/,14,10181,16623,22906.0,4550,16623,3,True,,United States
+178697,College of the Ozarks,MO,Point Lookout,www.cofo.edu/,11,21290,21290,32262.0,1415,21290,3,True,,United States
+178721,Park University,MO,Parkville,www.park.edu/,12,16400,16400,23714.0,5250,16400,3,True,,United States
+179043,Rockhurst University,MO,Kansas City,https://www.rockhurst.edu/,10,43420,43420,57712.0,1702,43420,3,True,,United States
+179159,Saint Louis University,MO,Saint Louis,www.slu.edu/,17,53244,53244,69125.0,7324,53244,3,True,,United States
+179326,Southwest Baptist University,MO,Bolivar,www.sbuniv.edu/,11,28320,28320,38035.0,1339,28320,3,True,,United States
+179557,Southeast Missouri State University,MO,Cape Girardeau,https://www.semo.edu/,13,9496,9496,23337.0,6588,9496,3,True,,United States
+179566,Missouri State University-Springfield,MO,Springfield,www.missouristate.edu/,15,9024,17928,24022.0,13407,17928,3,True,,United States
+179867,Washington University in St Louis,MO,Saint Louis,https://wustl.edu/,17,62982,62982,83476.0,7897,62982,3,True,,United States
+179894,Webster University,MO,Saint Louis,www.webster.edu/,13,30730,30730,49218.0,2180,30730,3,True,,United States
+179964,William Woods University,MO,Fulton,https://www.williamwoods.edu/,11,28860,28860,44907.0,1061,28860,3,True,,United States
+180106,Carroll College,MT,Helena,www.carroll.edu/,11,40352,40352,54141.0,1052,40352,3,True,,United States
+180179,Montana State University Billings,MT,Billings,www.msubillings.edu/,9,6706,21347,18473.0,2710,21347,3,True,,United States
+180416,Montana Technological University,MT,Butte,https://www.mtech.edu/,10,8050,24730,21620.0,1428,24730,3,True,,United States
+180461,Montana State University,MT,Bozeman,https://www.montana.edu/,16,8083,31337,23779.0,14472,31337,3,True,,United States
+180489,The University of Montana,MT,Missoula,www.umt.edu/,13,8152,31622,23744.0,7079,31622,3,True,,United States
+180692,The University of Montana-Western,MT,Dillon,umwestern.edu/,10,6430,19038,19414.0,1271,19038,3,True,,United States
+180814,Bellevue University,NE,Bellevue,www.bellevue.edu/,15,8886,8886,33315.0,10426,8886,3,True,,United States
+180948,Chadron State College,NE,Chadron,www.csc.edu/,11,8078,8078,20672.0,1634,8078,3,True,,United States
+180984,Concordia University-Nebraska,NE,Seward,www.cune.edu/,11,39330,39330,51179.0,1270,39330,3,True,,United States
+181002,Creighton University,NE,Omaha,https://www.creighton.edu/,14,47000,47000,61046.0,4231,47000,3,True,,United States
+181215,University of Nebraska at Kearney,NE,Kearney,www.unk.edu/,14,8302,14260,24452.0,4130,14260,3,True,,United States
+181330,Midland University,NE,Fremont,https://www.midlandu.edu/,11,40270,40270,52386.0,1191,40270,3,True,,United States
+181394,University of Nebraska at Omaha,NE,Omaha,https://www.unomaha.edu/,15,8370,22358,20446.0,11573,22358,3,True,,United States
+181446,Nebraska Wesleyan University,NE,Lincoln,https://www.nebrwesleyan.edu/,11,41658,41658,53350.0,1514,41658,3,True,,United States
+181464,University of Nebraska-Lincoln,NE,Lincoln,www.unl.edu/,16,10108,27748,25341.0,18887,27748,3,True,,United States
+181534,Peru State College,NE,Peru,www.peru.edu/,10,8280,8280,20743.0,1141,8280,3,True,,United States
+181783,Wayne State College,NE,Wayne,https://www.wsc.edu/,14,7970,7970,21310.0,3041,7970,3,True,,United States
+182281,University of Nevada-Las Vegas,NV,Las Vegas,www.unlv.edu/,15,9142,26098,19440.0,24131,26098,3,True,,United States
+182290,University of Nevada-Reno,NV,Reno,www.unr.edu/,15,8994,25950,24702.0,15723,25950,3,True,,United States
+182670,Dartmouth College,NH,Hanover,www.dartmouth.edu/,14,65739,65739,83802.0,4367,65739,3,True,,United States
+182795,Franklin Pierce University,NH,Rindge,https://www.franklinpierce.edu/,11,44963,44963,61955.0,1055,44963,3,True,,United States
+183026,Southern New Hampshire University,NH,Manchester,www.snhu.edu/,15,16450,16450,37524.0,156755,16450,3,True,,United States
+183044,University of New Hampshire-Main Campus,NH,Durham,www.unh.edu/,17,19112,38882,34567.0,11230,38882,3,True,,United States
+183062,Keene State College,NH,Keene,www.keene.edu/,14,14710,26186,29524.0,2680,26186,3,True,,United States
+183080,Plymouth State University,NH,Plymouth,www.plymouth.edu/,14,14558,25498,29257.0,3298,25498,3,True,,United States
+183211,Rivier University,NH,Nashua,www.rivier.edu/,10,37791,37791,50999.0,1312,37791,3,True,,United States
+183239,Saint Anselm College,NH,Manchester,https://www.anselm.edu/,11,46810,46810,65067.0,2032,46810,3,True,,United States
+183257,University of New Hampshire College of Professional Studies Online,NH,Manchester,https://cps.unh.edu/online,9,7812,9372,19236.0,1019,9372,3,True,,United States
+183789,Berkeley College-Woodland Park,NJ,Woodland Park,https://berkeleycollege.edu/,9,28600,28600,38702.0,1798,28600,3,True,,United States
+183910,Caldwell University,NJ,Caldwell,www.caldwell.edu/,10,39450,39450,53586.0,1437,39450,3,True,,United States
+184348,Drew University,NJ,Madison,www.drew.edu/,11,45360,45360,61378.0,1510,45360,3,True,,United States
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,Teaneck,https://www.fdu.edu/,13,35822,35822,47791.0,2578,35822,3,True,,United States
+184612,Felician University,NJ,Lodi,https://www.felician.edu/,10,37830,37830,50346.0,1754,37830,3,True,,United States
+184694,Fairleigh Dickinson University-Florham Campus,NJ,Madison,https://www.fdu.edu/,14,35822,35822,52840.0,1958,35822,3,True,,United States
+184773,Georgian Court University,NJ,Lakewood,https://georgian.edu/,10,37110,37110,49198.0,1174,37110,3,True,,United States
+184782,Rowan University,NJ,Glassboro,https://www.rowan.edu/,16,15700,25564,34116.0,14647,25564,3,True,,United States
+185129,New Jersey City University,NJ,Jersey City,www.njcu.edu/,12,13971,24888,23668.0,4076,24888,3,True,,United States
+185262,Kean University,NJ,Union,https://www.kean.edu/,15,13426,21076,24924.0,10842,21076,3,True,,United States
+185572,Monmouth University,NJ,West Long Branch,https://www.monmouth.edu/,13,44850,44850,60113.0,3831,44850,3,True,,United States
+185590,Montclair State University,NJ,Montclair,www.montclair.edu/,16,14766,24126,25926.0,17677,24126,3,True,,United States
+185828,New Jersey Institute of Technology,NJ,Newark,https://www.njit.edu/,12,19022,35934,32228.0,8762,35934,3,True,,United States
+186131,Princeton University,NJ,Princeton,www.princeton.edu/,14,59710,59710,80440.0,5579,59710,3,True,,United States
+186201,Ramapo College of New Jersey,NJ,Mahwah,www.ramapo.edu/,14,15978,26388,30176.0,4664,26388,3,True,,United States
+186283,Rider University,NJ,Lawrenceville,www.rider.edu/,14,38900,38900,53982.0,3192,38900,3,True,,United States
+186371,Rutgers University-Camden,NJ,Camden,https://camden.rutgers.edu/,12,17079,35841,33812.0,3819,35841,3,True,,United States
+186380,Rutgers University-New Brunswick,NJ,New Brunswick,https://newbrunswick.rutgers.edu/,16,17239,36001,35232.0,36357,36001,3,True,,United States
+186399,Rutgers University-Newark,NJ,Newark,https://www.newark.rutgers.edu/,16,16586,35348,33749.0,7187,35348,3,True,,United States
+186432,Saint Peter's University,NJ,Jersey City,www.saintpeters.edu/,10,41054,41054,50052.0,1939,41054,3,True,,United States
+186584,Seton Hall University,NJ,South Orange,https://www.shu.edu/,13,51370,51370,64996.0,5924,51370,3,True,,United States
+186867,Stevens Institute of Technology,NJ,Hoboken,www.stevens.edu/,13,60952,60952,76449.0,4084,60952,3,True,,United States
+186876,Stockton University,NJ,Galloway,https://www.stockton.edu/,13,15532,23420,32159.0,7770,23420,3,True,,United States
+187046,Thomas Edison State University,NJ,Trenton,www.tesu.edu/,12,6638,8598,,6685,8598,3,True,,United States
+187134,The College of New Jersey,NJ,Ewing,https://www.tcnj.edu/,14,18685,24568,37070.0,6831,24568,3,True,,United States
+187444,William Paterson University of New Jersey,NJ,Wayne,www.wpunj.edu/,13,15150,24464,26555.0,6526,24464,3,True,,United States
+187648,Eastern New Mexico University-Main Campus,NM,Portales,www.enmu.edu/,13,6863,8843,18503.0,3186,8843,3,True,,United States
+187897,New Mexico Highlands University,NM,Las Vegas,www.nmhu.edu/,10,7260,12180,21046.0,1561,12180,3,True,,United States
+187967,New Mexico Institute of Mining and Technology,NM,Socorro,www.nmt.edu/,11,9058,26312,22872.0,1122,26312,3,True,,United States
+187985,University of New Mexico-Main Campus,NM,Albuquerque,www.unm.edu/,15,8115,26450,20973.0,16686,26450,3,True,,United States
+188030,New Mexico State University-Main Campus,NM,Las Cruces,www.nmsu.edu/,16,8147,25271,20930.0,11561,25271,3,True,,United States
+188304,Western New Mexico University,NM,Silver City,www.wnmu.edu/,9,7868,14354,21649.0,1935,14354,3,True,,United States
+188429,Adelphi University,NY,Garden City,www.adelphi.edu/,12,47290,47290,57444.0,5077,47290,3,True,,United States
+188641,Alfred University,NY,Alfred,www.alfred.edu/,11,39530,39530,54516.0,1401,39530,3,True,,United States
+189088,Bard College,NY,Annandale-On-Hudson,www.bard.edu/,11,63612,63612,81661.0,2280,63612,3,True,,United States
+189097,Barnard College,NY,New York,www.barnard.edu/,11,66246,66246,84023.0,3219,66246,3,True,,United States
+189228,Berkeley College-New York,NY,New York,https://berkeleycollege.edu/,9,28600,28600,39029.0,1514,28600,3,True,,United States
+189705,Canisius University,NY,Buffalo,https://www.canisius.edu/,10,32720,32720,42271.0,1768,32720,3,True,,United States
+190044,Clarkson University,NY,Potsdam,https://www.clarkson.edu/,14,57950,57950,76451.0,2449,57950,3,True,,United States
+190099,Colgate University,NY,Hamilton,https://www.colgate.edu/,14,67024,67024,83650.0,3122,67024,3,True,,United States
+190150,Columbia University in the City of New York,NY,New York,www.columbia.edu/,17,69045,69045,86042.0,8899,69045,3,True,,United States
+190415,Cornell University,NY,Ithaca,www.cornell.edu/,16,66014,66014,83196.0,15935,66014,3,True,,United States
+190512,CUNY Bernard M Baruch College,NY,New York,www.baruch.cuny.edu/,15,7464,15414,13521.0,15734,15414,3,True,,United States
+190549,CUNY Brooklyn College,NY,Brooklyn,www.brooklyn.cuny.edu/,15,7452,15402,13573.0,10443,15402,3,True,,United States
+190558,College of Staten Island CUNY,NY,Staten Island,www.csi.cuny.edu/,15,7490,15440,14084.0,9387,15440,3,True,,United States
+190567,CUNY City College,NY,New York,www.ccny.cuny.edu/,15,7340,15290,13514.0,11934,15290,3,True,,United States
+190576,CUNY Graduate School and University Center,NY,New York,www.gc.cuny.edu/,12,7410,15360,,3067,15360,3,True,,United States
+190594,CUNY Hunter College,NY,New York,www.hunter.cuny.edu/,15,7382,15332,13310.0,16642,15332,3,True,,United States
+190600,CUNY John Jay College of Criminal Justice,NY,New York,www.jjay.cuny.edu/,15,7470,15420,13712.0,11340,15420,3,True,,United States
+190637,CUNY Lehman College,NY,Bronx,www.lehman.edu/,15,7410,15360,13456.0,10438,15360,3,True,,United States
+190646,CUNY Medgar Evers College,NY,Brooklyn,https://www.mec.cuny.edu/,12,7352,15302,14069.0,3404,15302,3,True,,United States
+190655,CUNY New York City College of Technology,NY,Brooklyn,www.citytech.cuny.edu/,15,7332,15282,13404.0,12950,15282,3,True,,United States
+190664,CUNY Queens College,NY,Queens,https://www.qc.cuny.edu/,15,7538,15488,13643.0,13060,15488,3,True,,United States
+190691,CUNY York College,NY,Jamaica,www.york.cuny.edu/,12,7358,15308,13686.0,4439,15308,3,True,,United States
+190716,D'Youville  University,NY,Buffalo,www.dyu.edu/,10,33560,33560,42512.0,1299,33560,3,True,,United States
+190725,Daemen University,NY,Amherst,www.daemen.edu/,10,33724,33724,44232.0,1761,33724,3,True,,United States
+190761,Dominican University New York,NY,Orangeburg,www.duny.edu/,10,33060,33060,48001.0,1083,33060,3,True,,United States
+191241,Fordham University,NY,Bronx,https://www.fordham.edu/,17,61992,61992,77351.0,10239,61992,3,True,,United States
+191515,Hamilton College,NY,Clinton,https://www.hamilton.edu/,11,65740,65740,80380.0,2045,65740,3,True,,United States
+191533,Hartwick College,NY,Oneonta,www.hartwick.edu/,11,52849,52849,66623.0,1099,52849,3,True,,United States
+191630,Hobart William Smith Colleges,NY,Geneva,www.hws.edu/,11,63268,63268,80635.0,1606,63268,3,True,,United States
+191649,Hofstra University,NY,Hempstead,www.hofstra.edu/,14,55450,55450,68298.0,6155,55450,3,True,,United States
+191931,Iona University,NY,New Rochelle,www.iona.edu/,13,45880,45880,57336.0,2731,45880,3,True,,United States
+191968,Ithaca College,NY,Ithaca,www.ithaca.edu/,14,50510,50510,66162.0,4350,50510,3,True,,United States
+192271,LIM College,NY,New York,www.limcollege.edu/,9,31950,31950,50471.0,1133,31950,3,True,,United States
+192323,Le Moyne College,NY,Syracuse,www.lemoyne.edu/,11,38970,38970,51033.0,2434,38970,3,True,,United States
+192448,Long Island University,NY,Brookville,www.liu.edu/,13,41642,41642,52419.0,5478,41642,3,True,,United States
+192703,Manhattan College,NY,Riverdale,www.manhattan.edu/,14,50850,50850,62537.0,2928,50850,3,True,,United States
+192749,Manhattanville College,NY,Purchase,https://www.mville.edu/,11,42950,42950,55641.0,1250,42950,3,True,,United States
+192819,Marist College,NY,Poughkeepsie,www.marist.edu/,14,46140,46140,63898.0,5039,46140,3,True,,United States
+192864,Marymount Manhattan College,NY,New York,www.mmm.edu/,10,40260,40260,63837.0,1627,40260,3,True,,United States
+193016,Mercy University,NY,Dobbs Ferry,https://www.mercy.edu/,12,22106,22106,32391.0,5539,22106,3,True,,United States
+193292,Molloy College,NY,Rockville Centre,www.molloy.edu/,12,37840,37840,48251.0,3185,37840,3,True,,United States
+193308,Monroe College,NY,Bronx,www.monroecollege.edu/,12,17922,17922,26306.0,5670,17922,3,True,,United States
+193353,Mount Saint Mary College,NY,Newburgh,www.msmc.edu/,10,41370,41370,51810.0,1268,41370,3,True,,United States
+193399,University of Mount Saint Vincent,NY,Bronx,www.mountsaintvincent.edu/,10,42740,42740,50617.0,2373,42740,3,True,,United States
+193584,Nazareth University,NY,Rochester,https://www2.naz.edu/,11,40880,40880,56140.0,1891,40880,3,True,,United States
+193654,The New School,NY,New York,https://www.newschool.edu/,13,56386,56386,82757.0,6819,56386,3,True,,United States
+193900,New York University,NY,New York,https://www.nyu.edu/,16,60438,60438,79121.0,29430,60438,3,True,,United States
+193973,Niagara University,NY,Niagara University,www.niagara.edu/,14,38135,38135,50174.0,2713,38135,3,True,,United States
+194091,New York Institute of Technology,NY,Old Westbury,www.nyit.edu/,12,44360,44360,53625.0,3320,44360,3,True,,United States
+194310,Pace University,NY,New York,www.pace.edu/,16,51424,51424,68092.0,7725,51424,3,True,,United States
+194578,Pratt Institute-Main,NY,Brooklyn,https://www.pratt.edu/,14,59683,59683,76533.0,3766,59683,3,True,,United States
+194824,Rensselaer Polytechnic Institute,NY,Troy,www.rpi.edu/,14,61884,61884,79934.0,5909,61884,3,True,,United States
+194958,Roberts Wesleyan University,NY,Rochester,www.roberts.edu/,11,37504,37504,49621.0,1065,37504,3,True,,United States
+195003,Rochester Institute of Technology,NY,Rochester,www.rit.edu/,17,57016,57016,71714.0,13225,57016,3,True,,United States
+195030,University of Rochester,NY,Rochester,https://www.rochester.edu/,15,64348,64348,82600.0,6488,64348,3,True,,United States
+195128,Russell Sage College,NY,Troy,sage.edu/,11,36756,36756,50986.0,1075,36756,3,True,,United States
+195164,St Bonaventure University,NY,Saint Bonaventure,https://www.sbu.edu/,11,40150,40150,55265.0,1892,40150,3,True,,United States
+195173,St. Francis College,NY,Brooklyn,https://www.sfc.edu/,9,27570,27570,42269.0,1931,27570,3,True,,United States
+195216,St Lawrence University,NY,Canton,www.stlawu.edu/,11,63870,63870,79665.0,2040,63870,3,True,,United States
+195243,St. Thomas Aquinas College,NY,Sparkill,www.stac.edu/,11,37720,37720,51685.0,1009,37720,3,True,,United States
+195304,Sarah Lawrence College,NY,Bronxville,www.sarahlawrence.edu/,11,63678,63678,79320.0,1468,63678,3,True,,United States
+195474,Siena College,NY,Loudonville,https://www.siena.edu/,14,44405,44405,62329.0,3447,44405,3,True,,United States
+195526,Skidmore College,NY,Saratoga Springs,www.skidmore.edu/,11,65030,65030,81890.0,2760,65030,3,True,,United States
+195544,St. Joseph's University-New York,NY,Brooklyn,www.sjny.edu/,12,34535,34535,39254.0,3343,34535,3,True,,United States
+195720,St. John Fisher University,NY,Rochester,https://www.sjf.edu/,14,39666,39666,52514.0,2579,39666,3,True,,United States
+195809,St. John's University-New York,NY,Queens,www.stjohns.edu/,16,50110,50110,61931.0,9742,50110,3,True,,United States
+196015,SUNY College of Technology at Canton,NY,Canton,www.canton.edu/,10,8689,13519,23169.0,2778,13519,3,True,,United States
+196024,SUNY College of Technology at Delhi,NY,Delhi,www.delhi.edu/,11,8710,12480,26285.0,2597,12480,3,True,,United States
+196033,SUNY College of Agriculture and Technology at Cobleskill,NY,Cobleskill,www.cobleskill.edu/,11,8676,18586,27108.0,1776,18586,3,True,,United States
+196042,Farmingdale State College,NY,Farmingdale,www.farmingdale.edu/,12,8576,18486,17146.0,9117,18486,3,True,,United States
+196060,University at Albany,NY,Albany,www.albany.edu/,17,10408,28998,28490.0,12100,28998,3,True,,United States
+196079,Binghamton University,NY,Vestal,www.binghamton.edu/,16,10363,29453,29657.0,14401,29453,3,True,,United States
+196088,University at Buffalo,NY,Buffalo,https://www.buffalo.edu/,16,10782,30572,29043.0,20284,30572,3,True,,United States
+196097,Stony Brook University,NY,Stony Brook,https://www.stonybrook.edu/,17,10560,30350,29174.0,17420,30350,3,True,,United States
+196103,SUNY College of Environmental Science and Forestry,NY,Syracuse,www.esf.edu/,10,9206,21036,27958.0,1725,21036,3,True,,United States
+196112,SUNY Polytechnic Institute,NY,Utica,www.sunypoly.edu/,11,8578,20228,23018.0,1773,20228,3,True,,United States
+196121,SUNY Brockport,NY,Brockport,https://www.brockport.edu/,13,8678,15748,25635.0,5381,15748,3,True,,United States
+196130,SUNY Buffalo State University,NY,Buffalo,https://suny.buffalostate.edu/,13,8486,18906,23171.0,5358,18906,3,True,,United States
+196149,State University of New York at Cortland,NY,Cortland,www2.cortland.edu/,14,8815,18725,26413.0,5896,18725,3,True,,United States
+196158,SUNY at Fredonia,NY,Fredonia,https://www.fredonia.edu/,14,8771,19191,25331.0,2860,19191,3,True,,United States
+196167,SUNY College at Geneseo,NY,Geneseo,https://www.geneseo.edu/,14,8966,19206,26461.0,3855,19206,3,True,,United States
+196176,State University of New York at New Paltz,NY,New Paltz,www.newpaltz.edu/,13,8524,18434,27034.0,6022,18434,3,True,,United States
+196185,SUNY Oneonta,NY,Oneonta,https://suny.oneonta.edu/,13,8812,19232,27258.0,4820,19232,3,True,,United States
+196194,State University of New York at Oswego,NY,Oswego,https://www.oswego.edu/,14,8769,18679,27155.0,5618,18679,3,True,,United States
+196200,SUNY College at Potsdam,NY,Potsdam,www.potsdam.edu/,11,8712,18622,24489.0,1951,18622,3,True,,United States
+196219,SUNY at Purchase College,NY,Purchase,www.purchase.edu/,14,8953,18863,28541.0,3110,18863,3,True,,United States
+196237,SUNY Old Westbury,NY,Old Westbury,www.oldwestbury.edu/,12,8379,18289,19934.0,3945,18289,3,True,,United States
+196246,SUNY College at Plattsburgh,NY,Plattsburgh,https://www.plattsburgh.edu/,13,8881,18791,27415.0,3789,18791,3,True,,United States
+196264,Empire State University,NY,Saratoga Springs,www.sunyempire.edu/,12,7630,17540,18221.0,7046,17540,3,True,,United States
+196291,SUNY Maritime College,NY,Throggs Neck,www.sunymaritime.edu/,11,8540,18450,28880.0,1242,18450,3,True,,United States
+196413,Syracuse University,NY,Syracuse,https://www.syracuse.edu/,17,63061,63061,80396.0,15245,63061,3,True,,United States
+196592,Touro University,NY,New York,https://www.touro.edu/,12,21810,21810,37824.0,4004,21810,3,True,,United States
+196866,Union College,NY,Schenectady,www.union.edu/,11,66456,66456,81627.0,2070,66456,3,True,,United States
+197018,United Talmudical Seminary,NY,Brooklyn,utsny.edu/,12,14133,14133,21624.0,2006,14133,3,True,,United States
+197045,Utica University,NY,Utica,https://www.utica.edu/,13,24308,24308,36845.0,2477,24308,3,True,,United States
+197133,Vassar College,NY,Poughkeepsie,www.vassar.edu/,11,67805,67805,83573.0,2430,67805,3,True,,United States
+197151,School of Visual Arts,NY,New York,www.sva.edu/,13,49140,49140,75016.0,3432,49140,3,True,,United States
+197197,Wagner College,NY,Staten Island,www.wagner.edu/,11,52000,52000,63007.0,1579,52000,3,True,,United States
+197708,Yeshiva University,NY,New York,www.yu.edu/,14,49900,49900,69117.0,2942,49900,3,True,,United States
+197869,Appalachian State University,NC,Boone,https://www.appstate.edu/,16,7541,24537,22654.0,19304,24537,3,True,,United States
+197911,Barton College,NC,Wilson,https://www.barton.edu/,11,35600,35600,48055.0,1020,35600,3,True,,United States
+197984,Belmont Abbey College,NC,Belmont,www.belmontabbeycollege.edu/,11,19500,19500,32494.0,1454,19500,3,True,,United States
+198136,Campbell University,NC,Buies Creek,https://www.campbell.edu/,13,40410,40410,58752.0,2790,40410,3,True,,United States
+198215,Catawba College,NC,Salisbury,www.catawba.edu/,11,33400,33400,47866.0,1127,33400,3,True,,United States
+198385,Davidson College,NC,Davidson,https://davidson.edu/,11,60300,60300,75865.0,1901,60300,3,True,,United States
+198419,Duke University,NC,Durham,www.duke.edu/,17,65805,65805,82749.0,6417,65805,3,True,,United States
+198464,East Carolina University,NC,Greenville,https://www.ecu.edu/,16,7361,23638,23689.0,19857,23638,3,True,,United States
+198507,Elizabeth City State University,NC,Elizabeth City,https://www.ecsu.edu/,11,3412,7412,18837.0,1863,7412,3,True,,United States
+198516,Elon University,NC,Elon,www.elon.edu/,14,44536,44536,59369.0,6402,44536,3,True,,United States
+198543,Fayetteville State University,NC,Fayetteville,https://www.uncfsu.edu/,13,3969,7969,16098.0,5493,7969,3,True,,United States
+198561,Gardner-Webb University,NC,Boiling Springs,www.gardner-webb.edu/,11,33450,33450,48813.0,1836,33450,3,True,,United States
+198613,Guilford College,NC,Greensboro,https://www.guilford.edu/,11,41140,41140,55495.0,1011,41140,3,True,,United States
+198695,High Point University,NC,High Point,www.highpoint.edu/,14,44208,44208,61582.0,4970,44208,3,True,,United States
+198756,Johnson C Smith University,NC,Charlotte,https://www.jcsu.edu/,11,20480,20480,34228.0,1047,20480,3,True,,United States
+198835,Lenoir-Rhyne University,NC,Hickory,www.lr.edu/,11,30900,30900,57649.0,1348,30900,3,True,,United States
+198950,Meredith College,NC,Raleigh,www.meredith.edu/,11,43936,43936,55557.0,1288,43936,3,True,,United States
+198969,Methodist University,NC,Fayetteville,www.methodist.edu/,11,39664,39664,53585.0,1425,39664,3,True,,United States
+199069,University of Mount Olive,NC,Mount Olive,https://umo.edu/,10,25950,25950,35362.0,1754,25950,3,True,,United States
+199102,North Carolina A & T State University,NC,Greensboro,www.ncat.edu/,17,6748,20408,19180.0,11925,20408,3,True,,United States
+199111,University of North Carolina Asheville,NC,Asheville,https://unca.edu/,11,7461,24809,21061.0,2790,24809,3,True,,United States
+199120,University of North Carolina at Chapel Hill,NC,Chapel Hill,https://www.unc.edu/,17,8989,39330,25181.0,20556,39330,3,True,,United States
+199139,University of North Carolina at Charlotte,NC,Charlotte,https://www.charlotte.edu/,16,7214,21876,22034.0,23567,21876,3,True,,United States
+199148,University of North Carolina at Greensboro,NC,Greensboro,www.uncg.edu/,16,7593,23339,19628.0,13848,23339,3,True,,United States
+199157,North Carolina Central University,NC,Durham,https://www.nccu.edu/,14,6542,19578,25618.0,5400,19578,3,True,,United States
+199193,North Carolina State University at Raleigh,NC,Raleigh,www.ncsu.edu/,16,8895,31767,25613.0,26389,31767,3,True,,United States
+199209,North Carolina Wesleyan University,NC,Rocky Mount,www.ncwc.edu/,11,35536,35536,48263.0,1169,35536,3,True,,United States
+199218,University of North Carolina Wilmington,NC,Wilmington,www.uncw.edu/,16,7317,22985,25913.0,14176,22985,3,True,,United States
+199281,University of North Carolina at Pembroke,NC,Pembroke,https://www.uncp.edu/,13,3571,7571,16854.0,5386,7571,3,True,,United States
+199412,Queens University of Charlotte,NC,Charlotte,www.queens.edu/,11,43285,43285,56944.0,1362,43285,3,True,,United States
+199847,Wake Forest University,NC,Winston-Salem,www.wfu.edu/,14,64758,64758,82818.0,5471,64758,3,True,,United States
+199962,Wingate University,NC,Wingate,https://www.wingate.edu/,14,40196,40196,57780.0,2462,40196,3,True,,United States
+199999,Winston-Salem State University,NC,Winston-Salem,www.wssu.edu/,14,6735,17391,22345.0,4244,17391,3,True,,United States
+200004,Western Carolina University,NC,Cullowhee,www.wcu.edu/,16,4532,8532,19057.0,9867,8532,3,True,,United States
+200059,Dickinson State University,ND,Dickinson,www.dickinsonstate.edu/,9,9118,11218,20155.0,1108,11218,3,True,,United States
+200217,University of Mary,ND,Bismarck,https://www.umary.edu/,11,21468,21468,32879.0,2280,21468,3,True,,United States
+200253,Minot State University,ND,Minot,www.minotstateu.edu/,10,8634,8634,18141.0,2072,8634,3,True,,United States
+200280,University of North Dakota,ND,Grand Forks,https://und.edu/,16,10951,15570,24580.0,9296,15570,3,True,,United States
+200332,North Dakota State University-Main Campus,ND,Fargo,https://www.ndsu.edu/,17,10857,15511,23391.0,9567,15511,3,True,,United States
+200800,University of Akron Main Campus,OH,Akron,www.uakron.edu/,15,12799,17239,24555.0,10011,17239,3,True,,United States
+201104,Ashland University,OH,Ashland,https://www.ashland.edu/,14,28910,28910,40519.0,2250,28910,3,True,,United States
+201195,Baldwin Wallace University,OH,Berea,https://www.bw.edu/,14,37938,37938,54200.0,2775,37938,3,True,,United States
+201441,Bowling Green State University-Main Campus,OH,Bowling Green,www.bgsu.edu/,16,14081,22070,29238.0,12255,22070,3,True,,United States
+201548,Capital University,OH,Columbus,https://www.capital.edu/,11,41788,41788,54086.0,1709,41788,3,True,,United States
+201645,Case Western Reserve University,OH,Cleveland,www.case.edu/,17,64671,64671,81533.0,6108,64671,3,True,,United States
+201654,Cedarville University,OH,Cedarville,https://www.cedarville.edu/,14,36078,36078,46994.0,3815,36078,3,True,,United States
+201690,Central State University,OH,Wilberforce,https://www.centralstate.edu/,10,7824,9824,22435.0,3412,9824,3,True,,United States
+201885,University of Cincinnati-Main Campus,OH,Cincinnati,www.uc.edu/,16,13570,30582,28783.0,29094,30582,3,True,,United States
+202134,Cleveland State University,OH,Cleveland,www.csuohio.edu/,15,12613,17973,26310.0,9077,17973,3,True,,United States
+202480,University of Dayton,OH,Dayton,https://udayton.edu/,17,47600,47600,64310.0,8099,47600,3,True,,United States
+202523,Denison University,OH,Granville,https://www.denison.edu/,11,64000,64000,76900.0,2398,64000,3,True,,United States
+202763,The University of Findlay,OH,Findlay,findlay.edu/,11,39646,39646,52096.0,2240,39646,3,True,,United States
+202806,Franklin University,OH,Columbus,www.franklin.edu/,12,9577,9577,29433.0,5111,9577,3,True,,United States
+203368,John Carroll University,OH,University Heights,jcu.edu/,14,49100,49100,62943.0,2228,49100,3,True,,United States
+203517,Kent State University at Kent,OH,Kent,www.kent.edu/,16,12846,22316,29345.0,19134,22316,3,True,,United States
+203535,Kenyon College,OH,Gambier,https://www.kenyon.edu/,11,69330,69330,83800.0,1753,69330,3,True,,United States
+203845,Marietta College,OH,Marietta,https://www.marietta.edu/,11,38974,38974,52360.0,1035,38974,3,True,,United States
+204006,Miami University-Hamilton,OH,Hamilton,miamioh.edu/regionals/,9,7278,18847,16692.0,2025,18847,3,True,,United States
+204024,Miami University-Oxford,OH,Oxford,miamioh.edu/,16,17809,40025,37218.0,16361,40025,3,True,,United States
+204185,University of Mount Union,OH,Alliance,www.mountunion.edu/,11,35400,35400,46890.0,1785,35400,3,True,,United States
+204194,Mount Vernon Nazarene University,OH,Mount Vernon,www.mvnu.edu/,11,35524,35524,48975.0,1346,35524,3,True,,United States
+204200,Mount St. Joseph University,OH,Cincinnati,www.msj.edu/,10,36650,36650,43932.0,1100,36650,3,True,,United States
+204264,Muskingum University,OH,New Concord,www.muskingum.edu/,11,31440,31440,44615.0,1407,31440,3,True,,United States
+204468,Notre Dame College,OH,Cleveland,www.notredamecollege.edu/,10,32606,32606,46641.0,1049,32606,3,True,,United States
+204501,Oberlin College,OH,Oberlin,www.oberlin.edu/,11,64646,64646,84230.0,2950,64646,3,True,,United States
+204635,Ohio Northern University,OH,Ada,www.onu.edu/,11,37800,37800,52484.0,2386,37800,3,True,,United States
+204796,Ohio State University-Main Campus,OH,Columbus,www.osu.edu/,16,12859,38365,29320.0,44617,38365,3,True,,United States
+204857,Ohio University-Main Campus,OH,Athens,https://www.ohio.edu/,16,13746,24114,28529.0,18456,24114,3,True,,United States
+204909,Ohio Wesleyan University,OH,Delaware,https://www.owu.edu/,11,52357,52357,66399.0,1450,52357,3,True,,United States
+204936,Otterbein University,OH,Westerville,https://www.otterbein.edu/,11,34899,34899,47865.0,2055,34899,3,True,,United States
+205443,Shawnee State University,OH,Portsmouth,https://www.shawnee.edu/,10,9622,16157,22190.0,2300,16157,3,True,,United States
+205957,Franciscan University of Steubenville,OH,Steubenville,www.franciscan.edu/,11,32630,32630,42955.0,2775,32630,3,True,,United States
+206048,Tiffin University,OH,Tiffin,www.tiffin.edu/,11,32400,32400,45150.0,1938,32400,3,True,,United States
+206084,University of Toledo,OH,Toledo,www.utoledo.edu/,16,12377,21737,26190.0,10244,21737,3,True,,United States
+206437,Walsh University,OH,North Canton,https://www.walsh.edu/,11,34595,34595,45817.0,1294,34595,3,True,,United States
+206525,Wittenberg University,OH,Springfield,www.wittenberg.edu/,11,44602,44602,56353.0,1269,44602,3,True,,United States
+206589,The College of Wooster,OH,Wooster,https://wooster.edu/,11,59550,59550,73075.0,1876,59550,3,True,,United States
+206604,Wright State University-Main Campus,OH,Dayton,www.wright.edu/,13,11188,20606,23255.0,6330,20606,3,True,,United States
+206622,Xavier University,OH,Cincinnati,https://www.xavier.edu/,13,48125,48125,62293.0,4723,48125,3,True,,United States
+206695,Youngstown State University,OH,Youngstown,https://ysu.edu/,12,10791,11151,20028.0,7340,11151,3,True,,United States
+206862,Southern Nazarene University,OK,Bethany,https://www.snu.edu/,10,29600,29600,41972.0,1459,29600,3,True,,United States
+206914,Cameron University,OK,Lawton,https://www.cameron.edu/,9,6900,16320,18742.0,2534,16320,3,True,,United States
+206941,University of Central Oklahoma,OK,Edmond,https://www.uco.edu/,15,8522,19409,25913.0,10132,19409,3,True,,United States
+207041,East Central University,OK,Ada,https://www.ecok.edu/,10,8032,17542,17559.0,2157,17542,3,True,,United States
+207209,Langston University,OK,Langston,www.langston.edu/,11,6728,14255,21012.0,1743,14255,3,True,,United States
+207263,Northeastern State University,OK,Tahlequah,https://www.nsuok.edu/,12,7513,16633,19274.0,4636,16633,3,True,,United States
+207306,Northwestern Oklahoma State University,OK,Alva,www.nwosu.edu/,11,5970,11664,20993.0,1468,11664,3,True,,United States
+207324,Oklahoma Christian University,OK,Edmond,www.oc.edu/,11,25900,25900,38029.0,1897,25900,3,True,,United States
+207388,Oklahoma State University-Main Campus,OK,Stillwater,www.okstate.edu/,16,10234,25754,25915.0,20814,25754,3,True,,United States
+207403,Oklahoma Baptist University,OK,Shawnee,https://www.okbu.edu/,11,34050,34050,46950.0,1292,34050,3,True,,United States
+207458,Oklahoma City University,OK,Oklahoma City,www.okcu.edu/,11,33586,33586,46144.0,1433,33586,3,True,,United States
+207500,University of Oklahoma-Norman Campus,OK,Norman,www.ou.edu/,16,9595,26665,28833.0,21496,26665,3,True,,United States
+207582,Oral Roberts University,OK,Tulsa,https://oru.edu/,14,34100,34100,47367.0,3322,34100,3,True,,United States
+207661,Rogers State University,OK,Claremore,https://www.rsu.edu/,10,7392,15176,21023.0,2552,15176,3,True,,United States
+207847,Southeastern Oklahoma State University,OK,Durant,www.se.edu/,12,7200,16410,17393.0,3031,16410,3,True,,United States
+207865,Southwestern Oklahoma State University,OK,Weatherford,https://www.swosu.edu/,13,8295,8325,22973.0,3469,8325,3,True,,United States
+207971,University of Tulsa,OK,Tulsa,https://utulsa.edu/,14,48602,48602,63093.0,2447,48602,3,True,,United States
+208646,Eastern Oregon University,OR,La Grande,www.eou.edu/,9,10671,24621,24602.0,2201,24621,3,True,,United States
+208822,George Fox University,OR,Newberg,https://www.georgefox.edu/,14,40940,40940,55456.0,2505,40940,3,True,,United States
+209056,Lewis & Clark College,OR,Portland,www.lclark.edu/,11,62350,62350,76690.0,2167,62350,3,True,,United States
+209065,Linfield University,OR,McMinnville,https://www.linfield.edu/,11,49530,49530,63825.0,1642,49530,3,True,,United States
+209506,Oregon Institute of Technology,OR,Klamath Falls,https://www.oit.edu/,9,12687,35592,26675.0,2913,35592,3,True,,United States
+209542,Oregon State University,OR,Corvallis,https://oregonstate.edu/,15,13494,35664,29926.0,29557,35664,3,True,,United States
+209551,University of Oregon,OR,Eugene,https://www.uoregon.edu/,16,15669,43302,32636.0,19758,43302,3,True,,United States
+209612,Pacific University,OR,Forest Grove,https://www.pacificu.edu/,14,54466,54466,69330.0,1556,54466,3,True,,United States
+209807,Portland State University,OR,Portland,www.pdx.edu/,15,11238,30138,22449.0,13619,30138,3,True,,United States
+209825,University of Portland,OR,Portland,https://www.up.edu/,14,54900,54900,69183.0,3104,54900,3,True,,United States
+209922,Reed College,OR,Portland,https://www.reed.edu/,11,67020,67020,83310.0,1407,67020,3,True,,United States
+210146,Southern Oregon University,OR,Ashland,www.sou.edu/,13,12093,30723,25950.0,2911,30723,3,True,,United States
+210401,Willamette University,OR,Salem,www.willamette.edu/,11,48268,48268,62112.0,1525,48268,3,True,,United States
+210429,Western Oregon University,OR,Monmouth,https://wou.edu/,13,11025,30735,23975.0,3211,30735,3,True,,United States
+210571,Albright College,PA,Reading,www.albright.edu/home/,11,28794,28794,44381.0,1296,28794,3,True,,United States
+210669,Allegheny College,PA,Meadville,https://allegheny.edu/,11,54960,54960,70614.0,1209,54960,3,True,,United States
+210739,DeSales University,PA,Center Valley,www.desales.edu/,10,44800,44800,59409.0,2113,44800,3,True,,United States
+210775,Alvernia University,PA,Reading,https://www.alvernia.edu/,11,42810,42810,54650.0,2042,42810,3,True,,United States
+211088,Arcadia University,PA,Glenside,https://www.arcadia.edu/,11,48290,48290,61240.0,1799,48290,3,True,,United States
+211273,Bryn Mawr College,PA,Bryn Mawr,www.brynmawr.edu/,11,62560,62560,79380.0,1346,62560,3,True,,United States
+211291,Bucknell University,PA,Lewisburg,www.bucknell.edu/,14,64772,64772,79956.0,3818,64772,3,True,,United States
+211431,Carlow University,PA,Pittsburgh,www.carlow.edu/,10,34502,34502,46864.0,1336,34502,3,True,,United States
+211440,Carnegie Mellon University,PA,Pittsburgh,www.cmu.edu/,17,63829,63829,80514.0,7187,63829,3,True,,United States
+211556,Chatham University,PA,Pittsburgh,www.chatham.edu/,11,43810,43810,56981.0,1252,43810,3,True,,United States
+211981,Delaware Valley University,PA,Doylestown,www.delval.edu/,11,43300,43300,58661.0,1644,43300,3,True,,United States
+212009,Dickinson College,PA,Carlisle,https://www.dickinson.edu/,11,63475,63475,80329.0,2157,63475,3,True,,United States
+212054,Drexel University,PA,Philadelphia,https://drexel.edu/,16,60663,60663,75167.0,13509,60663,3,True,,United States
+212106,Duquesne University,PA,Pittsburgh,www.duq.edu/,14,47146,47146,63042.0,5216,47146,3,True,,United States
+212115,East Stroudsburg University of Pennsylvania,PA,East Stroudsburg,https://www.esu.edu/,14,11036,19002,24369.0,4611,19002,3,True,,United States
+212133,Eastern University,PA,Saint Davids,https://www.eastern.edu/about/student-consumer-information,10,37420,37420,53293.0,1978,37420,3,True,,United States
+212197,Elizabethtown College,PA,Elizabethtown,www.etown.edu/,11,36842,36842,49318.0,1815,36842,3,True,,United States
+212577,Franklin and Marshall College,PA,Lancaster,www.fandm.edu/,11,68380,68380,83184.0,1904,68380,3,True,,United States
+212601,Gannon University,PA,Erie,www.gannon.edu/,14,37951,37951,51236.0,2467,37951,3,True,,United States
+212656,Geneva College,PA,Beaver Falls,www.geneva.edu/,11,33610,33610,43064.0,1000,33610,3,True,,United States
+212674,Gettysburg College,PA,Gettysburg,https://www.gettysburg.edu/,11,64230,64230,80400.0,2209,64230,3,True,,United States
+212805,Grove City College,PA,Grove City,www.gcc.edu/,11,20890,20890,,2221,20890,3,True,,United States
+212832,Gwynedd Mercy University,PA,Gwynedd Valley,https://www.gmercyu.edu/,10,38310,38310,53359.0,1141,38310,3,True,,United States
+212911,Haverford College,PA,Haverford,https://www.haverford.edu/,11,68300,68300,84605.0,1421,68300,3,True,,United States
+212984,Holy Family University,PA,Philadelphia,https://www.holyfamily.edu/,9,33968,33968,38965.0,2298,33968,3,True,,United States
+213011,Immaculata University,PA,Immaculata,www.immaculata.edu/,10,28550,28550,45416.0,1265,28550,3,True,,United States
+213020,Indiana University of Pennsylvania-Main Campus,PA,Indiana,www.iup.edu/,14,11380,16297,26405.0,6893,16297,3,True,,United States
+213251,Juniata College,PA,Huntingdon,www.juniata.edu/,11,56402,56402,69241.0,1175,56402,3,True,,United States
+213321,King's College,PA,Wilkes-Barre,www.kings.edu/,11,42600,42600,56991.0,1519,42600,3,True,,United States
+213349,Kutztown University of Pennsylvania,PA,Kutztown,https://www.kutztown.edu/,14,11230,16434,28876.0,6348,16434,3,True,,United States
+213367,La Salle University,PA,Philadelphia,www.lasalle.edu/,14,35570,35570,45046.0,1966,35570,3,True,,United States
+213385,Lafayette College,PA,Easton,https://www.lafayette.edu/,11,62574,62574,78854.0,2746,62574,3,True,,United States
+213400,Lancaster Bible College,PA,Lancaster,https://www.lbc.edu/,10,29990,29990,40813.0,1511,29990,3,True,,United States
+213507,Lebanon Valley College,PA,Annville,www.lvc.edu/,11,50320,50320,63990.0,1670,50320,3,True,,United States
+213543,Lehigh University,PA,Bethlehem,www.lehigh.edu/,13,62180,62180,77515.0,5803,62180,3,True,,United States
+213598,Lincoln University,PA,Lincoln University,www.lincoln.edu/,11,12512,19384,27358.0,1712,19384,3,True,,United States
+213668,Lycoming College,PA,Williamsport,https://www.lycoming.edu/,11,47675,47675,61526.0,1049,47675,3,True,,United States
+213826,Marywood University,PA,Scranton,https://www.marywood.edu/,10,39570,39570,52673.0,1821,39570,3,True,,United States
+213987,Mercyhurst University,PA,Erie,www.mercyhurst.edu/,11,44510,44510,57948.0,2217,44510,3,True,,United States
+213996,Messiah University,PA,Mechanicsburg,www.messiah.edu/,11,40640,40640,53939.0,2318,40640,3,True,,United States
+214041,Millersville University of Pennsylvania,PA,Millersville,www.millersville.edu/,13,12262,16232,27086.0,5610,16232,3,True,,United States
+214069,Misericordia University,PA,Dallas,www.misericordia.edu/,10,38370,38370,51023.0,1632,38370,3,True,,United States
+214157,Moravian University,PA,Bethlehem,www.moravian.edu/,11,52000,52000,64260.0,1970,52000,3,True,,United States
+214166,Mount Aloysius College,PA,Cresson,www.mtaloy.edu/,7,26156,26156,38533.0,1123,26156,3,True,,United States
+214175,Muhlenberg College,PA,Allentown,www.muhlenberg.edu/,11,60240,60240,73782.0,1777,60240,3,True,,United States
+214272,Neumann University,PA,Aston,www.neumann.edu/,10,37300,37300,56670.0,1574,37300,3,True,,United States
+214591,Pennsylvania State University-Penn State Erie-Behrend College,PA,Erie,https://behrend.psu.edu/,-2,15944,26668,32038.0,3172,26668,3,True,,United States
+214689,Pennsylvania State University-Penn State Altoona,PA,Altoona,https://altoona.psu.edu/,-2,15944,26668,31725.0,2412,26668,3,True,,United States
+214704,Pennsylvania State University-Penn State Berks,PA,Reading,https://berks.psu.edu/,-2,15944,26668,31853.0,1887,26668,3,True,,United States
+214713,Pennsylvania State University-Penn State Harrisburg,PA,Middletown,https://harrisburg.psu.edu/,-2,15944,26668,32029.0,4154,26668,3,True,,United States
+214731,Pennsylvania State University-Penn State Brandywine,PA,Media,https://www.brandywine.psu.edu/,-2,15180,25118,30201.0,1218,25118,3,True,,United States
+214777,Pennsylvania State University-Main Campus,PA,University Park,https://www.psu.edu/,-2,20234,40188,39160.0,41862,40188,3,True,,United States
+214801,Pennsylvania State University-Penn State Abington,PA,Abington,https://www.abington.psu.edu/,-2,15240,25388,27516.0,3074,25388,3,True,,United States
+215062,University of Pennsylvania,PA,Philadelphia,www.upenn.edu/,17,66104,66104,85738.0,10768,66104,3,True,,United States
+215275,University of Pittsburgh-Greensburg,PA,Greensburg,www.greensburg.pitt.edu/,10,14630,26504,28514.0,1322,26504,3,True,,United States
+215284,University of Pittsburgh-Johnstown,PA,Johnstown,www.upj.pitt.edu/,11,14646,26520,28501.0,1934,26520,3,True,,United States
+215293,University of Pittsburgh-Pittsburgh Campus,PA,Pittsburgh,www.pitt.edu/,16,21524,39890,36707.0,20189,39890,3,True,,United States
+215442,Point Park University,PA,Pittsburgh,www.pointpark.edu/,10,38160,38160,50133.0,2320,38160,3,True,,United States
+215655,Robert Morris University,PA,Moon Township,www.rmu.edu/,14,34940,34940,51075.0,2866,34940,3,True,,United States
+215743,Saint Francis University,PA,Loretto,www.francis.edu/,11,41720,41720,57515.0,1525,41720,3,True,,United States
+215770,Saint Joseph's University,PA,Philadelphia,https://www.sju.edu/,14,51340,51340,65513.0,4742,51340,3,True,,United States
+215798,Saint Vincent College,PA,Latrobe,https://www.stvincent.edu/,11,41100,41100,55082.0,1264,41100,3,True,,United States
+215929,University of Scranton,PA,Scranton,www.scranton.edu/,14,52309,52309,67795.0,3589,52309,3,True,,United States
+215947,Seton Hill University,PA,Greensburg,www.setonhill.edu/,11,41414,41414,54634.0,1581,41414,3,True,,United States
+216010,Shippensburg University of Pennsylvania,PA,Shippensburg,www.ship.edu/,13,13544,15798,29480.0,4179,15798,3,True,,United States
+216038,Slippery Rock University of Pennsylvania,PA,Slippery Rock,https://www.sru.edu/,13,10507,14615,24781.0,6728,14615,3,True,,United States
+216278,Susquehanna University,PA,Selinsgrove,www.susqu.edu/,11,57400,57400,72563.0,2120,57400,3,True,,United States
+216287,Swarthmore College,PA,Swarthmore,www.swarthmore.edu/,11,62412,62412,80014.0,1627,62412,3,True,,United States
+216339,Temple University,PA,Philadelphia,www.temple.edu/,15,22082,37462,39799.0,21249,37462,3,True,,United States
+216366,Thomas Jefferson University,PA,Philadelphia,www.jefferson.edu/,14,45683,45683,62110.0,3708,45683,3,True,,United States
+216524,Ursinus College,PA,Collegeville,www.ursinus.edu/,11,59196,59196,75378.0,1477,59196,3,True,,United States
+216597,Villanova University,PA,Villanova,www.villanova.edu/,14,64701,64701,80866.0,7005,64701,3,True,,United States
+216667,Washington & Jefferson College,PA,Washington,www.washjeff.edu/,11,28185,28185,65117.0,1154,28185,3,True,,United States
+216694,Waynesburg University,PA,Waynesburg,www.waynesburg.edu/,11,29460,29460,42526.0,1081,29460,3,True,,United States
+216764,West Chester University of Pennsylvania,PA,West Chester,https://www.wcupa.edu/,16,10687,22511,27559.0,14067,22511,3,True,,United States
+216807,Westminster College,PA,New Wilmington,www.westminster.edu/,11,39470,39470,51808.0,1051,39470,3,True,,United States
+216852,Widener University,PA,Chester,https://www.widener.edu/,14,53638,53638,68305.0,2765,53638,3,True,,United States
+216931,Wilkes University,PA,Wilkes-Barre,https://www.wilkes.edu/,14,42286,42286,56956.0,1893,42286,3,True,,United States
+217059,York College of Pennsylvania,PA,York,https://www.ycp.edu/,14,24606,24606,35806.0,3187,24606,3,True,,United States
+217156,Brown University,RI,Providence,www.brown.edu/,14,68230,68230,84986.0,7273,68230,3,True,,United States
+217165,Bryant University,RI,Smithfield,https://www.bryant.edu/,14,51169,51169,67926.0,3236,51169,3,True,,United States
+217235,Johnson & Wales University-Providence,RI,Providence,https://www.jwu.edu/campuses/providence/,14,40408,40408,58330.0,3913,40408,3,True,,United States
+217402,Providence College,RI,Providence,www.providence.edu/,14,60848,60848,76667.0,4170,60848,3,True,,United States
+217420,Rhode Island College,RI,Providence,www.ric.edu/,12,10986,26519,18490.0,4630,26519,3,True,,United States
+217484,University of Rhode Island,RI,Kingston,https://web.uri.edu/,16,16408,35804,32584.0,13822,35804,3,True,,United States
+217493,Rhode Island School of Design,RI,Providence,www.risd.edu/,11,59760,59760,78857.0,2090,59760,3,True,,United States
+217518,Roger Williams University,RI,Bristol,https://www.rwu.edu/,14,42666,42666,60180.0,3957,42666,3,True,,United States
+217536,Salve Regina University,RI,Newport,www.salve.edu/,11,47930,47930,67612.0,2102,47930,3,True,,United States
+217633,Anderson University,SC,Anderson,www.andersonuniversity.edu/,14,33580,33580,47724.0,3080,33580,3,True,,United States
+217688,Charleston Southern University,SC,Charleston,https://www.charlestonsouthern.edu/,11,31030,31030,43989.0,2716,31030,3,True,,United States
+217721,Benedict College,SC,Columbia,www.benedict.edu/,11,18000,18000,29921.0,1573,18000,3,True,,United States
+217749,Bob Jones University,SC,Greenville,www.bju.edu/,11,23400,23400,34770.0,2209,23400,3,True,,United States
+217819,College of Charleston,SC,Charleston,https://www.cofc.edu/,13,12978,36858,30731.0,10366,36858,3,True,,United States
+217864,Citadel Military College of South Carolina,SC,Charleston,https://citadel.edu/,14,12570,37370,31943.0,2624,37370,3,True,,United States
+217873,Claflin University,SC,Orangeburg,www.claflin.edu/,11,17046,17046,33538.0,1727,17046,3,True,,United States
+217882,Clemson University,SC,Clemson,www.clemson.edu/,16,15554,39498,34494.0,22778,39498,3,True,,United States
+217934,Columbia College,SC,Columbia,www.columbiasc.edu/,7,21450,21450,37840.0,1245,21450,3,True,,United States
+218061,Francis Marion University,SC,Florence,www.fmarion.edu/,14,11160,21544,22944.0,2640,21544,3,True,,United States
+218070,Furman University,SC,Greenville,www.furman.edu/,11,58312,58312,73760.0,2322,58312,3,True,,United States
+218229,Lander University,SC,Greenwood,https://www.lander.edu/,14,11700,21300,26069.0,3384,21300,3,True,,United States
+218238,Limestone University,SC,Gaffney,www.limestone.edu/,10,27500,27500,40944.0,1528,27500,3,True,,United States
+218414,Newberry College,SC,Newberry,www.newberry.edu/,11,30050,30050,44240.0,1462,30050,3,True,,United States
+218441,North Greenville University,SC,Tigerville,www.ngu.edu/,11,24650,24650,40599.0,1719,24650,3,True,,United States
+218645,University of South Carolina Aiken,SC,Aiken,www.usca.edu/,13,10760,21218,20922.0,2805,21218,3,True,,United States
+218654,University of South Carolina Beaufort,SC,Bluffton,www.uscb.edu/,11,10730,21776,23796.0,1958,21776,3,True,,United States
+218663,University of South Carolina-Columbia,SC,Columbia,www.sc.edu/,16,12688,34934,32840.0,28113,34934,3,True,,United States
+218724,Coastal Carolina University,SC,Conway,https://www.coastal.edu/,13,11640,29628,26050.0,9909,29628,3,True,,United States
+218733,South Carolina State University,SC,Orangeburg,https://scsu.edu/,11,11060,21750,29957.0,2757,21750,3,True,,United States
+218742,University of South Carolina-Upstate,SC,Spartanburg,www.uscupstate.edu/,12,11583,22545,24565.0,4008,22545,3,True,,United States
+218964,Winthrop University,SC,Rock Hill,www.winthrop.edu/,14,15956,30286,30275.0,3424,30286,3,True,,United States
+218973,Wofford College,SC,Spartanburg,www.wofford.edu/,11,54100,54100,69601.0,1873,54100,3,True,,United States
+219000,Augustana University,SD,Sioux Falls,www.augie.edu/,11,39190,39190,53169.0,1818,39190,3,True,,United States
+219046,Black Hills State University,SD,Spearfish,www.bhsu.edu/,10,9000,12100,21343.0,1935,12100,3,True,,United States
+219082,Dakota State University,SD,Madison,https://dsu.edu/,10,9633,12735,24447.0,1969,12735,3,True,,United States
+219259,Northern State University,SD,Aberdeen,www.northern.edu/,11,8845,11947,22223.0,1239,11947,3,True,,United States
+219347,South Dakota School of Mines and Technology,SD,Rapid City,https://www.sdsmt.edu/,11,10400,14800,24865.0,2042,14800,3,True,,United States
+219356,South Dakota State University,SD,Brookings,https://www.sdstate.edu/,14,9299,12809,22761.0,8798,12809,3,True,,United States
+219383,University of Sioux Falls,SD,Sioux Falls,www.usiouxfalls.edu/,11,20740,20740,32728.0,1258,20740,3,True,,United States
+219471,University of South Dakota,SD,Vermillion,https://www.usd.edu/,13,9432,12942,23544.0,5239,12942,3,True,,United States
+219602,Austin Peay State University,TN,Clarksville,www.apsu.edu/,12,8675,14219,26790.0,7365,14219,3,True,,United States
+219709,Belmont University,TN,Nashville,https://www.belmont.edu/,14,41320,41320,60480.0,7306,41320,3,True,,United States
+219718,Bethel University,TN,McKenzie,www.bethelu.edu/,10,18168,18168,32270.0,1671,18168,3,True,,United States
+219806,Carson-Newman University,TN,Jefferson City,www.cn.edu/,11,34700,34700,46345.0,1374,34700,3,True,,United States
+219949,Cumberland University,TN,Lebanon,www.cumberland.edu/,10,27840,27840,41657.0,2053,27840,3,True,,United States
+219976,Lipscomb University,TN,Nashville,https://www.lipscomb.edu/,14,38824,38824,53549.0,3021,38824,3,True,,United States
+220075,East Tennessee State University,TN,Johnson City,https://www.etsu.edu/,16,9950,13790,25947.0,9807,13790,3,True,,United States
+220215,Freed-Hardeman University,TN,Henderson,www.fhu.edu/,11,25000,25000,36972.0,1244,25000,3,True,,United States
+220613,Lee University,TN,Cleveland,www.leeuniversity.edu/,14,22690,22690,34299.0,2712,22690,3,True,,United States
+220631,Lincoln Memorial University,TN,Harrogate,www.lmunet.edu/,13,26150,26150,39096.0,1487,26150,3,True,,United States
+220710,Maryville College,TN,Maryville,www.maryvillecollege.edu/,8,38514,38514,53162.0,1028,38514,3,True,,United States
+220862,University of Memphis,TN,Memphis,https://www.memphis.edu/,15,10344,14784,25164.0,13645,14784,3,True,,United States
+220978,Middle Tennessee State University,TN,Murfreesboro,www.mtsu.edu/,15,9506,29042,22754.0,16115,29042,3,True,,United States
+221351,Rhodes College,TN,Memphis,www.rhodes.edu/,11,54892,54892,68055.0,1931,54892,3,True,,United States
+221519,The University of the South,TN,Sewanee,www.sewanee.edu/,11,53698,53698,68704.0,1598,53698,3,True,,United States
+221661,Southern Adventist University,TN,Collegedale,www.southern.edu/,11,25590,25590,37875.0,2673,25590,3,True,,United States
+221740,The University of Tennessee-Chattanooga,TN,Chattanooga,utc.edu/,16,10144,18208,23563.0,9878,18208,3,True,,United States
+221759,The University of Tennessee-Knoxville,TN,Knoxville,www.utk.edu/,16,13484,31974,32658.0,28763,31974,3,True,,United States
+221768,The University of Tennessee-Martin,TN,Martin,https://www.utm.edu/,13,10208,16248,21628.0,4600,16248,3,True,,United States
+221838,Tennessee State University,TN,Nashville,www.tnstate.edu/,14,8568,22284,23828.0,6498,22284,3,True,,United States
+221847,Tennessee Technological University,TN,Cookeville,www.tntech.edu/,13,10084,20116,25338.0,8495,20116,3,True,,United States
+221892,Trevecca Nazarene University,TN,Nashville,https://www.trevecca.edu/,13,29790,29790,38726.0,1697,29790,3,True,,United States
+221971,Union University,TN,Jackson,www.uu.edu/,11,38450,38450,55790.0,1637,38450,3,True,,United States
+221999,Vanderbilt University,TN,Nashville,www.vanderbilt.edu/,17,63946,63946,84412.0,7143,63946,3,True,,United States
+222178,Abilene Christian University,TX,Abilene,www.acu.edu/,14,42380,42380,56121.0,3129,42380,3,True,,United States
+222831,Angelo State University,TX,San Angelo,www.angelo.edu/,13,8319,18399,21625.0,5515,18399,3,True,,United States
+222983,Austin College,TX,Sherman,www.austincollege.edu/,11,46500,46500,59654.0,1125,46500,3,True,,United States
+223232,Baylor University,TX,Waco,www.baylor.edu/,16,54844,54844,70130.0,15007,54844,3,True,,United States
+224004,Concordia University Texas,TX,Austin,https://www.concordia.edu/,9,36690,36690,52098.0,1388,36690,3,True,,United States
+224147,Texas A & M University-Corpus Christi,TX,Corpus Christi,https://www.tamucc.edu/,13,9748,21033,24562.0,7804,21033,3,True,,United States
+224226,Dallas Baptist University,TX,Dallas,https://www.dbu.edu/,14,38140,38140,49343.0,2526,38140,3,True,,United States
+224323,University of Dallas,TX,Irving,https://udallas.edu/,11,50880,50880,64752.0,1403,50880,3,True,,United States
+224527,East Texas Baptist University,TX,Marshall,https://www.etbu.edu/,11,30050,30050,41833.0,1364,30050,3,True,,United States
+224545,Texas A&M University-Texarkana,TX,Texarkana,www.tamut.edu/,9,7930,20947,22143.0,1748,20947,3,True,,United States
+224554,Texas A & M University-Commerce,TX,Commerce,www.tamuc.edu/,13,10026,22626,23663.0,8249,22626,3,True,,United States
+225247,Hardin-Simmons University,TX,Abilene,https://www.hsutx.edu/,11,31686,31686,45059.0,1275,31686,3,True,,United States
+225399,Houston Christian University,TX,Houston,https://www.hc.edu/,10,38100,38100,47605.0,2777,38100,3,True,,United States
+225414,University of Houston-Clear Lake,TX,Houston,www.uhcl.edu/,12,7746,21330,23788.0,6082,21330,3,True,,United States
+225432,University of Houston-Downtown,TX,Houston,www.uhd.edu/,12,7708,17788,23017.0,12812,17788,3,True,,United States
+225502,University of Houston-Victoria,TX,Victoria,uhv.edu/,13,7499,17291,21179.0,2630,17291,3,True,,United States
+225511,University of Houston,TX,Houston,www.uh.edu/,15,9711,22191,25056.0,37175,22191,3,True,,United States
+225627,University of the Incarnate Word,TX,San Antonio,www.uiw.edu/,12,35660,35660,45850.0,4545,35660,3,True,,United States
+226091,Lamar University,TX,Beaumont,www.lamar.edu/,13,8690,18482,21626.0,7945,18482,3,True,,United States
+226152,Texas A & M International University,TX,Laredo,www.tamiu.edu/,12,7846,19382,14767.0,6502,19382,3,True,,United States
+226231,LeTourneau University,TX,Longview,www.letu.edu/,10,35500,35500,48206.0,1510,35500,3,True,,United States
+226383,Lubbock Christian University,TX,Lubbock,https://www.lcu.edu/,10,27298,27298,40493.0,1210,27298,3,True,,United States
+226471,University of Mary Hardin-Baylor,TX,Belton,https://go.umhb.edu/,14,33150,33150,45235.0,2959,33150,3,True,,United States
+226587,McMurry University,TX,Abilene,https://mcm.edu/,8,31372,31372,43087.0,1108,31372,3,True,,United States
+226833,Midwestern State University,TX,Wichita Falls,www.msutexas.edu/,13,10310,12260,22411.0,4043,12260,3,True,,United States
+227216,University of North Texas,TX,Denton,www.unt.edu/,15,11164,21244,25470.0,33680,21244,3,True,,United States
+227331,Our Lady of the Lake University,TX,San Antonio,https://www.ollusa.edu/,10,31728,31728,42137.0,1110,31728,3,True,,United States
+227368,The University of Texas Rio Grande Valley,TX,Edinburg,www.utrgv.edu/,15,9859,19939,18343.0,27026,19939,3,True,,United States
+227526,Prairie View A & M University,TX,Prairie View,www.pvamu.edu/,14,11299,26874,25958.0,8527,26874,3,True,,United States
+227757,Rice University,TX,Houston,www.rice.edu/,14,58128,58128,74110.0,4562,58128,3,True,,United States
+227845,Saint Edward's University,TX,Austin,https://www.stedwards.edu/,14,51384,51384,64975.0,2729,51384,3,True,,United States
+227863,University of St Thomas,TX,Houston,https://www.stthom.edu/,9,33660,33660,44151.0,2826,33660,3,True,,United States
+227881,Sam Houston State University,TX,Huntsville,www.shsu.edu/,15,9228,19020,24517.0,18138,19020,3,True,,United States
+228042,Schreiner University,TX,Kerrville,www.schreiner.edu/,11,37396,37396,46294.0,1028,37396,3,True,,United States
+228149,St. Mary's University,TX,San Antonio,www.stmarytx.edu/,14,36242,36242,46368.0,1911,36242,3,True,,United States
+228246,Southern Methodist University,TX,Dallas,https://www.smu.edu/,17,64460,64460,82532.0,7106,64460,3,True,,United States
+228325,Southwestern Assemblies of God University,TX,Waxahachie,www.sagu.edu/,11,18610,18610,32765.0,1366,18610,3,True,,United States
+228343,Southwestern University,TX,Georgetown,https://www.southwestern.edu/,11,51058,51058,63645.0,1454,51058,3,True,,United States
+228431,Stephen F Austin State University,TX,Nacogdoches,https://www.sfasu.edu/,16,10600,20680,24231.0,8746,20680,3,True,,United States
+228459,Texas State University,TX,San Marcos,https://www.txst.edu/,15,11450,23210,26348.0,34547,23210,3,True,,United States
+228501,Sul Ross State University,TX,Alpine,www.sulross.edu/,10,7592,17384,23759.0,1378,17384,3,True,,United States
+228529,Tarleton State University,TX,Stephenville,www.tarleton.edu/,16,7878,17958,22981.0,12263,17958,3,True,,United States
+228705,Texas A & M University-Kingsville,TX,Kingsville,https://www.tamuk.edu/,13,9892,26106,22262.0,4622,26106,3,True,,United States
+228723,Texas A & M University-College Station,TX,College Station,https://www.tamu.edu/,15,13099,40328,32085.0,59099,40328,3,True,,United States
+228769,The University of Texas at Arlington,TX,Arlington,https://www.uta.edu/,16,11728,29660,25265.0,30834,29660,3,True,,United States
+228778,The University of Texas at Austin,TX,Austin,https://www.utexas.edu/,15,11678,42778,29842.0,42100,42778,3,True,,United States
+228787,The University of Texas at Dallas,TX,Richardson,www.utdallas.edu/,16,14564,40064,28210.0,21317,40064,3,True,,United States
+228796,The University of Texas at El Paso,TX,El Paso,https://www.utep.edu/,15,9744,25512,19327.0,20547,25512,3,True,,United States
+228802,The University of Texas at Tyler,TX,Tyler,https://www.uttyler.edu/,13,9920,25198,23669.0,7009,25198,3,True,,United States
+228875,Texas Christian University,TX,Fort Worth,https://www.tcu.edu/,17,57220,57220,72778.0,10919,57220,3,True,,United States
+228981,Texas Lutheran University,TX,Seguin,www.tlu.edu/,11,34920,34920,47548.0,1260,34920,3,True,,United States
+229018,The University of Texas Permian Basin,TX,Odessa,https://www.utpb.edu/,10,10904,23212,21727.0,4122,23212,3,True,,United States
+229027,The University of Texas at San Antonio,TX,San Antonio,www.utsa.edu/,15,8991,21965,21474.0,29675,21965,3,True,,United States
+229063,Texas Southern University,TX,Houston,www.tsu.edu/,13,9173,21773,24899.0,6619,21773,3,True,,United States
+229115,Texas Tech University,TX,Lubbock,www.ttu.edu/,15,11852,24451,27472.0,32446,24451,3,True,,United States
+229160,Texas Wesleyan University,TX,Fort Worth,www.txwes.edu/,10,37934,37934,50619.0,1671,37934,3,True,,United States
+229179,Texas Woman's University,TX,Denton,www.twu.edu/,15,8648,18720,20399.0,8804,18720,3,True,,United States
+229267,Trinity University,TX,San Antonio,https://new.trinity.edu/,11,51352,51352,65774.0,2518,51352,3,True,,United States
+229780,Wayland Baptist University,TX,Plainview,www.wbu.edu/,10,23186,23186,34762.0,2090,23186,3,True,,United States
+229814,West Texas A & M University,TX,Canyon,https://www.wtamu.edu/,13,9101,10996,23383.0,6771,10996,3,True,,United States
+230038,Brigham Young University,UT,Provo,https://byu.edu/,15,6496,6496,20879.0,32221,6496,3,True,,United States
+230047,Brigham Young University-Hawaii,HI,Laie,www.byuh.edu/,11,6438,6438,22970.0,2812,6438,3,True,,United States
+230728,Utah State University,UT,Logan,https://www.usu.edu/,15,9228,24802,21050.0,20342,24802,3,True,,United States
+230737,Utah Valley University,UT,Orem,www.uvu.edu/,15,6270,17830,15172.0,27481,17830,3,True,,United States
+230764,University of Utah,UT,Salt Lake City,www.utah.edu/,16,9315,29837,21799.0,26041,29837,3,True,,United States
+230852,Champlain College,VT,Burlington,www.champlain.edu/,10,45550,45550,63000.0,2870,45550,3,True,,United States
+230959,Middlebury College,VT,Middlebury,https://www.middlebury.edu/college/,11,65280,65280,82260.0,2785,65280,3,True,,United States
+230995,Norwich University,VT,Northfield,www.norwich.edu/,13,49600,49600,65098.0,2490,49600,3,True,,United States
+231059,Saint Michael's College,VT,Colchester,www.smcvt.edu/,11,50040,50040,67174.0,1157,50040,3,True,,United States
+231165,Vermont State University,VT,Randolph,vermontstate.edu/,7,11400,21408,30074.0,3567,21408,3,True,,United States
+231174,University of Vermont,VT,Burlington,www.uvm.edu/,17,18890,43890,35116.0,11614,43890,3,True,,United States
+231420,Averett University,VA,Danville,https://www.averett.edu/,11,38550,38550,51456.0,1162,38550,3,True,,United States
+231581,Bridgewater College,VA,Bridgewater,https://www.bridgewater.edu/,11,41350,41350,56195.0,1388,41350,3,True,,United States
+231624,William & Mary,VA,Williamsburg,https://www.wm.edu/,14,25040,49412,41118.0,6949,49412,3,True,,United States
+231651,Regent University,VA,Virginia Beach,https://www.regent.edu/,12,20686,20686,30550.0,4282,20686,3,True,,United States
+231712,Christopher Newport University,VA,Newport News,https://cnu.edu/,14,16351,30988,32242.0,4402,30988,3,True,,United States
+232025,Emory & Henry University,VA,Emory,www.ehc.edu/,11,35280,35280,52311.0,1107,35280,3,True,,United States
+232186,George Mason University,VA,Fairfax,https://www2.gmu.edu/,15,13815,39397,26972.0,27083,39397,3,True,,United States
+232265,Hampton University,VA,Hampton,www.hamptonu.edu/,14,29162,29162,45968.0,3254,29162,3,True,,United States
+232423,James Madison University,VA,Harrisonburg,www.jmu.edu/,16,13576,30790,30213.0,20497,30790,3,True,,United States
+232557,Liberty University,VA,Lynchburg,https://www.liberty.edu/,15,21222,21222,41707.0,50059,21222,3,True,,United States
+232566,Longwood University,VA,Farmville,www.longwood.edu/,14,15200,27410,32870.0,2957,27410,3,True,,United States
+232609,University of Lynchburg,VA,Lynchburg,www.lynchburg.edu/,11,35540,35540,48300.0,1599,35540,3,True,,United States
+232672,Mary Baldwin University,VA,Staunton,https://www.marybaldwin.edu/,11,33157,33157,44435.0,1188,33157,3,True,,United States
+232681,University of Mary Washington,VA,Fredericksburg,https://www.umw.edu/,14,14559,31479,29234.0,3504,31479,3,True,,United States
+232706,Marymount University,VA,Arlington,https://www.marymount.edu/,10,39050,39050,55748.0,1795,39050,3,True,,United States
+232937,Norfolk State University,VA,Norfolk,www.nsu.edu/,14,9910,21412,26093.0,5495,21412,3,True,,United States
+232982,Old Dominion University,VA,Norfolk,www.odu.edu/,16,12262,32662,27180.0,17521,32662,3,True,,United States
+233277,Radford University,VA,Radford,https://www.radford.edu/,14,12286,25185,26681.0,5609,25185,3,True,,United States
+233295,Randolph-Macon College,VA,Ashland,https://www.rmc.edu/,11,48002,48002,61174.0,1489,48002,3,True,,United States
+233374,University of Richmond,VA,University of Richmond,https://www.richmond.edu/,14,62600,62600,77290.0,3002,62600,3,True,,United States
+233426,Roanoke College,VA,Salem,https://www.roanoke.edu/,11,36774,36774,54059.0,1801,36774,3,True,,United States
+233541,Shenandoah University,VA,Winchester,www.su.edu/,14,36028,36028,50500.0,2127,36028,3,True,,United States
+233684,Strayer University-Virginia,VA,Arlington,www.strayer.edu/campus-locations/virginia/arlington,9,13920,13920,,2010,13920,3,True,,United States
+233897,University of Virginia's College at Wise,VA,Wise,https://www.uvawise.edu/,11,11656,32540,24315.0,1214,32540,3,True,,United States
+233921,Virginia Polytechnic Institute and State University,VA,Blacksburg,www.vt.edu/,16,15478,36694,32040.0,30435,36694,3,True,,United States
+234030,Virginia Commonwealth University,VA,Richmond,https://www.vcu.edu/,16,16458,39042,34346.0,20797,39042,3,True,,United States
+234076,University of Virginia-Main Campus,VA,Charlottesville,https://www.virginia.edu/,16,20986,58014,38132.0,17315,58014,3,True,,United States
+234085,Virginia Military Institute,VA,Lexington,www.vmi.edu/,11,20484,51186,33738.0,1560,51186,3,True,,United States
+234155,Virginia State University,VA,Petersburg,www.vsu.edu/,14,9755,22006,24173.0,4787,22006,3,True,,United States
+234164,Virginia Union University,VA,Richmond,www.vuu.edu/,11,14880,14880,34960.0,1153,14880,3,True,,United States
+234173,Virginia Wesleyan University,VA,Virginia Beach,https://www.vwu.edu/,11,36960,36960,51192.0,1243,36960,3,True,,United States
+234207,Washington and Lee University,VA,Lexington,www.wlu.edu/,11,64525,64525,82990.0,1884,64525,3,True,,United States
+234827,Central Washington University,WA,Ellensburg,www.cwu.edu/,13,9192,26771,25148.0,8081,26771,3,True,,United States
+234915,City University of Seattle,WA,Seattle,www.cityu.edu/,6,14589,14589,35049.0,1091,14589,3,True,,United States
+235097,Eastern Washington University,WA,Cheney,www.ewu.edu/,13,8353,25892,22772.0,6517,25892,3,True,,United States
+235167,The Evergreen State College,WA,Olympia,https://www.evergreen.edu/,10,8999,30980,25934.0,2042,30980,3,True,,United States
+235316,Gonzaga University,WA,Spokane,https://www.gonzaga.edu/,14,53500,53500,69290.0,5098,53500,3,True,,United States
+236230,Pacific Lutheran University,WA,Tacoma,www.plu.edu/,11,50964,50964,62921.0,2350,50964,3,True,,United States
+236328,University of Puget Sound,WA,Tacoma,www.pugetsound.edu/,11,59900,59900,75509.0,1631,59900,3,True,,United States
+236452,Saint Martin's University,WA,Lacey,https://www.stmartin.edu/,10,44210,44210,56353.0,1254,44210,3,True,,United States
+236577,Seattle Pacific University,WA,Seattle,https://spu.edu/,14,38814,38814,53986.0,2073,38814,3,True,,United States
+236595,Seattle University,WA,Seattle,www.seattleu.edu/,14,54285,54285,68633.0,4117,54285,3,True,,United States
+236896,Walla Walla University,WA,College Place,https://www.wallawalla.edu/,11,33027,33027,44075.0,1214,33027,3,True,,United States
+236939,Washington State University,WA,Pullman,https://wsu.edu/,16,12997,29073,27176.0,21583,29073,3,True,,United States
+236948,University of Washington-Seattle Campus,WA,Seattle,https://www.washington.edu/,16,12643,41997,30282.0,31588,41997,3,True,,United States
+237011,Western Washington University,WA,Bellingham,wwu.edu/,16,9286,27853,28305.0,13574,27853,3,True,,United States
+237057,Whitman College,WA,Walla Walla,www.whitman.edu/,11,61492,61492,75042.0,1523,61492,3,True,,United States
+237066,Whitworth University,WA,Spokane,www.whitworth.edu/,11,50920,50920,65711.0,1927,50920,3,True,,United States
+237215,Bluefield State University,WV,Bluefield,https://bluefieldstate.edu/,9,10240,17560,20747.0,1231,17560,3,True,,United States
+237312,University of Charleston,WV,Charleston,www.ucwv.edu/,10,32842,32842,44031.0,2083,32842,3,True,,United States
+237330,Concord University,WV,Athens,https://www.concord.edu/,11,9700,20600,18969.0,1394,20600,3,True,,United States
+237367,Fairmont State University,WV,Fairmont,https://www.fairmontstate.edu/,13,8454,18372,18091.0,2690,18372,3,True,,United States
+237385,Glenville State University,WV,Glenville,www.glenville.edu/,11,9412,11140,22974.0,1177,11140,3,True,,United States
+237525,Marshall University,WV,Huntington,https://www.marshall.edu/,13,8942,20294,21299.0,7149,20294,3,True,,United States
+237792,Shepherd University,WV,Shepherdstown,www.shepherd.edu/,10,8642,19082,19863.0,2375,19082,3,True,,United States
+237899,West Virginia State University,WV,Institute,www.wvstateu.edu/,9,9049,14623,19906.0,1328,14623,3,True,,United States
+237932,West Liberty University,WV,West Liberty,www.westliberty.edu/,11,8732,17116,23526.0,1578,17116,3,True,,United States
+237950,West Virginia University Institute of Technology,WV,Beckley,www.wvutech.edu/,10,8064,20120,18343.0,1009,20120,3,True,,United States
+238032,West Virginia University,WV,Morgantown,www.wvu.edu/,16,9648,27360,23678.0,17705,27360,3,True,,United States
+238458,Carroll University,WI,Waukesha,www.carrollu.edu/,14,37230,37230,49935.0,2525,37230,3,True,,United States
+238476,Carthage College,WI,Kenosha,www.carthage.edu/,11,36500,36500,47980.0,2628,36500,3,True,,United States
+238616,Concordia University-Wisconsin,WI,Mequon,https://www.cuw.edu/,14,34250,34250,51718.0,2310,34250,3,True,,United States
+238661,Edgewood College,WI,Madison,www.edgewood.edu/,10,34850,34850,48450.0,1104,34850,3,True,,United States
+238980,Lakeland University,WI,Plymouth,www.lakeland.edu/,9,32286,32286,45751.0,1230,32286,3,True,,United States
+239017,Lawrence University,WI,Appleton,https://www.lawrence.edu/,11,55461,55461,67824.0,1394,55461,3,True,,United States
+239080,Marian University,WI,Fond Du Lac,https://www.marianuniversity.edu/,10,33000,33000,40733.0,1050,33000,3,True,,United States
+239105,Marquette University,WI,Milwaukee,www.marquette.edu/,17,48700,48700,63233.0,7238,48700,3,True,,United States
+239318,Milwaukee School of Engineering,WI,Milwaukee,www.msoe.edu/,11,48421,48421,60439.0,2607,48421,3,True,,United States
+239716,Saint Norbert College,WI,De Pere,www.snc.edu/,11,44432,44432,56194.0,1749,44432,3,True,,United States
+240107,Viterbo University,WI,La Crosse,https://www.viterbo.edu/,11,32350,32350,44123.0,1392,32350,3,True,,United States
+240189,University of Wisconsin-Whitewater,WI,Whitewater,www.uww.edu/,16,8250,17916,18661.0,9180,17916,3,True,,United States
+240268,University of Wisconsin-Eau Claire,WI,Eau Claire,www.uwec.edu/,13,9277,18516,21014.0,8995,18516,3,True,,United States
+240277,University of Wisconsin-Green Bay,WI,Green Bay,www.uwgb.edu/,13,8342,16929,18161.0,6230,16929,3,True,,United States
+240329,University of Wisconsin-La Crosse,WI,La Crosse,www.uwlax.edu/,13,9651,18691,18115.0,9194,18691,3,True,,United States
+240338,Wisconsin Lutheran College,WI,Milwaukee,www.wlc.edu/,11,35080,35080,47026.0,1009,35080,3,True,,United States
+240365,University of Wisconsin-Oshkosh,WI,Oshkosh,https://www.uwosh.edu/,13,8212,16125,19063.0,7613,16125,3,True,,United States
+240374,University of Wisconsin-Parkside,WI,Kenosha,https://www.uwp.edu/,12,7855,16497,16768.0,2951,16497,3,True,,United States
+240417,University of Wisconsin-Stout,WI,Menomonie,www.uwstout.edu/,13,10142,18706,21618.0,5900,18706,3,True,,United States
+240426,University of Wisconsin-Superior,WI,Superior,https://www.uwsuper.edu/,10,8487,16400,18415.0,1899,16400,3,True,,United States
+240444,University of Wisconsin-Madison,WI,Madison,www.wisc.edu/,16,11205,40603,27770.0,35665,40603,3,True,,United States
+240453,University of Wisconsin-Milwaukee,WI,Milwaukee,uwm.edu/,15,10020,22020,22174.0,16762,22020,3,True,,United States
+240462,University of Wisconsin-Platteville,WI,Platteville,https://www.uwplatt.edu/,13,8315,17274,20049.0,5928,17274,3,True,,United States
+240471,University of Wisconsin-River Falls,WI,River Falls,https://www.uwrf.edu/,13,8606,16887,19576.0,4152,16887,3,True,,United States
+240480,University of Wisconsin-Stevens Point,WI,Stevens Point,https://www.uwsp.edu/,13,8834,17854,18804.0,7104,17854,3,True,,United States
+240727,University of Wyoming,WY,Laramie,https://www.uwyo.edu/,16,6938,22718,22371.0,8047,22718,3,True,,United States
+240754,University of Guam,GU,Mangilao,https://www.uog.edu/,9,6110,11414,15155.0,2573,11414,3,True,,United States
+241216,Atlantic University,PR,Guaynabo,www.atlanticu.edu/,9,8280,8280,12363.0,1517,8280,3,True,,United States
+241410,Pontifical Catholic University of Puerto Rico-Ponce,PR,Ponce,https://www.pucpr.edu/,12,6340,6340,17106.0,3827,6340,3,True,,United States
+241739,Universidad Ana G. Mendez-Cupey Campus,PR,San Juan,uagm.edu/,12,6920,6920,14154.0,4579,6920,3,True,,United States
+242617,Inter American University of Puerto Rico-San German,PR,San German,www.sg.inter.edu/,12,5580,5580,15442.0,2641,5580,3,True,,United States
+242626,Inter American University of Puerto Rico-Aguadilla,PR,Aguadilla,aguadilla.inter.edu/,12,5542,5542,14449.0,3002,5542,3,True,,United States
+242635,Inter American University of Puerto Rico-Arecibo,PR,Arecibo,www.arecibo.inter.edu/,9,5580,5580,14628.0,2275,5580,3,True,,United States
+242653,Inter American University of Puerto Rico-Metro,PR,San Juan,metro.inter.edu/,12,5580,5580,15252.0,2692,5580,3,True,,United States
+242662,Inter American University of Puerto Rico-Ponce,PR,Mercedita,www.ponce.inter.edu/,12,5580,5580,14845.0,2602,5580,3,True,,United States
+242680,Inter American University of Puerto Rico-Fajardo,PR,Fajardo,www.fajardo.inter.edu/,9,5580,5580,14991.0,1149,5580,3,True,,United States
+242699,Inter American University of Puerto Rico-Guayama,PR,Guayama,www.guayama.inter.edu/,9,5580,5580,15791.0,1661,5580,3,True,,United States
+242705,Inter American University of Puerto Rico-Bayamon,PR,Bayamon,bayamon.inter.edu/,12,5580,5580,14935.0,3453,5580,3,True,,United States
+243106,University of Puerto Rico-Aguadilla,PR,Aguadilla,https://www.uprag.edu/,9,5954,5954,14727.0,1847,5954,3,True,,United States
+243115,University of Puerto Rico-Arecibo,PR,Arecibo,www.upra.edu/,12,5324,5324,18320.0,2788,5324,3,True,,United States
+243133,University of Puerto Rico-Bayamon,PR,Bayamon,www.uprb.edu/,12,6284,6284,12527.0,2967,6284,3,True,,United States
+243142,University of Puerto Rico-Carolina,PR,Carolina,www.uprc.edu/,9,7986,7986,21072.0,2367,7986,3,True,,United States
+243151,University of Puerto Rico at Cayey,PR,Cayey,www.cayey.upr.edu/,9,5354,5354,15746.0,2201,5354,3,True,,United States
+243179,University of Puerto Rico-Humacao,PR,Humacao,www.upr.edu/humacao/,9,5364,5364,19404.0,2555,5364,3,True,,United States
+243197,University of Puerto Rico-Mayaguez,PR,Mayaguez,https://www.uprm.edu/,15,5274,5274,19190.0,9564,5274,3,True,,United States
+243212,University of Puerto Rico at Ponce,PR,Ponce,www.uprp.edu/,9,5354,5354,14399.0,2276,5354,3,True,,United States
+243221,University of Puerto Rico-Rio Piedras,PR,San Juan,https://www.uprrp.edu/,15,5324,5324,13337.0,8748,5324,3,True,,United States
+243346,Universidad Ana G. Mendez-Carolina Campus,PR,Carolina,uagm.edu/,12,6920,6920,13837.0,4383,6920,3,True,,United States
+243443,Universidad del Sagrado Corazon,PR,Santurce,www.sagrado.edu/,12,6360,6360,19550.0,4042,6360,3,True,,United States
+243577,Universidad Politecnica de Puerto Rico,PR,Hato Rey,www.pupr.edu/,9,9810,9810,21894.0,3791,9810,3,True,,United States
+243601,Universidad Ana G. Mendez-Gurabo Campus,PR,Gurabo,uagm.edu/,15,6920,6920,14081.0,7666,6920,3,True,,United States
+243665,University of the Virgin Islands,VI,Charlotte Amalie,www.uvi.edu/,9,5612,15521,16582.0,1431,15521,3,True,,United States
+243744,Stanford University,CA,Stanford,www.stanford.edu/,17,62484,62484,82162.0,7841,62484,3,True,,United States
+243780,Purdue University-Main Campus,IN,West Lafayette,https://www.purdue.edu/,16,9992,28794,22567.0,39637,28794,3,True,,United States
+245953,Mid-America Christian University,OK,Oklahoma City,www.macu.edu/,9,19896,19896,30612.0,1532,19896,3,True,,United States
+262086,University of Massachusetts Global,CA,Irvine,www.umassglobal.edu/,12,12520,12520,33365.0,4902,12520,3,True,,United States
+366711,California State University-San Marcos,CA,San Marcos,www.csusm.edu/,15,7739,19619,21144.0,14174,19619,3,True,,United States
+377555,University of Washington-Bothell Campus,WA,Bothell,https://www.uwb.edu/,12,12559,41913,24462.0,5228,41913,3,True,,United States
+377564,University of Washington-Tacoma Campus,WA,Tacoma,https://www.tacoma.uw.edu/,12,12817,42171,24528.0,3989,42171,3,True,,United States
+385619,Everglades University,FL,Boca Raton,https://www.evergladesuniversity.edu/,9,20768,20768,36311.0,2369,20768,3,True,,United States
+408844,Florida National University-Main Campus,FL,Hialeah,www.fnu.edu/,9,16088,16088,33531.0,2354,16088,3,True,,United States
+409698,California State University-Monterey Bay,CA,Seaside,https://csumb.edu/,14,7437,19317,26017.0,5811,19317,3,True,,United States
+413413,Capella University,MN,Minneapolis,www.capella.edu/,15,14436,14436,22029.0,16173,14436,3,True,,United States
+421708,Arizona College of Nursing-Tempe,AZ,Tempe,www.arizonacollege.edu/,2,24853,24853,35067.0,1246,24853,3,True,,United States
+426314,Embry-Riddle Aeronautical University-Worldwide,FL,Daytona Beach,worldwide.erau.edu/,12,11665,11665,24015.0,8786,11665,3,True,,United States
+430184,Strayer University-Maryland,MD,Suitland,www.strayer.edu/campus-locations/maryland/prince-georges,9,13920,13920,23838.0,1177,13920,3,True,,United States
+433387,Western Governors University,UT,Salt Lake City,www.wgu.edu/,15,8300,8300,14464.0,135822,8300,3,True,,United States
+433660,Florida Gulf Coast University,FL,Fort Myers,www.fgcu.edu/,16,6118,25162,18269.0,13809,25162,3,True,,United States
+436836,University of Connecticut-Stamford,CT,Stamford,https://stamford.uconn.edu/,-2,17472,40140,27737.0,2177,40140,3,True,,United States
+440828,Oregon State University-Cascades Campus,OR,Bend,https://osucascades.edu/,-2,12594,34944,27461.0,1054,34944,3,True,,United States
+441900,Nevada State University,NV,Henderson,https://nsc.edu/,9,6368,20449,23035.0,3791,20449,3,True,,United States
+441937,California State University-Channel Islands,CA,Camarillo,www.csuci.edu/,12,6817,18697,24039.0,5230,18697,3,True,,United States
+442569,University of Arkansas Grantham,AR,LIttle Rock,https://www.uagrantham.edu/,12,8280,8280,14752.0,3202,8280,3,True,,United States
+443331,West Coast University-Los Angeles,CA,North Hollywood,westcoastuniversity.edu/,9,37194,37194,58637.0,2687,37194,3,True,,United States
+443410,DigiPen Institute of Technology,WA,Redmond,https://www.digipen.edu/,9,37400,37400,51366.0,1032,37400,3,True,,United States
+443766,Strayer University-Tennessee,TN,Memphis,www.strayer.edu/campus-locations/tennessee/thousand-oaks,9,13920,13920,23838.0,2670,13920,3,True,,United States
+443784,Strayer University-Pennsylvania,PA,Trevose,https://www.strayer.edu/campus-locations/pennsylvania/lower-bucks-county,6,13920,13920,23838.0,1334,13920,3,True,,United States
+445027,American InterContinental University System,AZ,Chandler,https://www.aius.education/,15,12310,12310,20949.0,6734,12310,3,True,,United States
+445188,University of California-Merced,CA,Merced,ucmerced.edu/,13,14167,44944,37098.0,8372,44944,3,True,,United States
+445267,Central Methodist University-College of Graduate and Extended Studies,MO,Fayette,www.centralmethodist.edu/,9,6960,6960,20195.0,1807,6960,3,True,,United States
+446048,Ave Maria University,FL,Ave Maria,www.avemaria.edu/,11,28222,28222,43220.0,1229,28222,3,True,,United States
+446604,Uta Mesivta of Kiryas Joel,NY,Monroe,utam.edu/,9,15000,15000,21452.0,2729,15000,3,True,,United States
+447689,Georgia Gwinnett College,GA,Lawrenceville,www.ggc.edu/,12,4458,13244,18033.0,11156,13244,3,True,,United States
+449339,American Public University System,WV,Charles Town,https://www.apus.edu/,15,8400,8400,16358.0,38976,8400,3,True,,United States
+450933,Columbia Southern University,AL,Orange Beach,www.columbiasouthern.edu/,15,5808,5808,18002.0,13053,5808,3,True,,United States
+454227,Chamberlain University-Illinois,IL,Addison,https://www.chamberlain.edu/,15,20604,20604,36346.0,12188,20604,3,True,,United States
+454829,Aspen University,AZ,Phoenix,https://www.aspen.edu/,12,6264,6264,,2396,6264,3,True,,United States
+458210,West Coast University-Orange County,CA,Anaheim,westcoastuniversity.edu/,12,22685,22685,38599.0,3168,22685,3,True,,United States
+458229,West Coast University-Ontario,CA,Ontario,westcoastuniversity.edu/,9,37194,37194,51950.0,2647,37194,3,True,,United States
+458919,Strayer University-Georgia,GA,Chamblee,www.strayer.edu/campus-locations/georgia/chamblee,9,13920,13920,23838.0,4878,13920,3,True,,United States
+458973,Strayer University-Texas,TX,Farmers Branch,www.strayer.edu/campus-locations,9,13920,13920,23838.0,2397,13920,3,True,,United States
+459949,Texas A&M University-San Antonio,TX,San Antonio,www.tamusa.edu/,12,9548,23124,21840.0,6224,23124,3,True,,United States
+459994,Strayer University-Global Region,DC,Washington,www.strayer.edu/,12,13920,13920,23838.0,10087,13920,3,True,,United States
+460349,Johnson & Wales University-Online,RI,Providence,https://online.jwu.edu/?_ga=2.36357734.752362341.1629739669-391300583.1600981500,9,13365,13365,25365.0,1980,13365,3,True,,United States
+463056,University of Connecticut-Hartford Campus,CT,Hartford,https://hartford.uconn.edu/,-2,17452,40120,25031.0,1473,40120,3,True,,United States
+466930,Chamberlain University-Texas,TX,Houston,https://www.chamberlain.edu/,6,19686,19686,39297.0,2416,19686,3,True,,United States
+474863,Los Angeles Pacific University,CA,San Dimas,https://www.lapu.edu/,9,11976,11976,28144.0,1453,11976,3,True,,United States
+475121,South University-Savannah Online,GA,Savannah,www.southuniversity.edu/online#location=Online Programs,12,16546,16546,31716.0,6492,16546,3,True,,United States
+475732,Chamberlain University-Georgia,GA,Sandy Springs,https://www.chamberlain.edu/,6,19686,19686,38137.0,1588,19686,3,True,,United States
+476975,Colorado State University Global,CO,Aurora,https://csuglobal.edu/,12,8400,8400,18384.0,6202,8400,3,True,,United States
+477039,West Coast University-Dallas,TX,Richardson,https://westcoastuniversity.edu/,9,16715,16715,33502.0,1014,16715,3,True,,United States
+479956,Pennsylvania State University-World Campus,PA,University Park,https://www.worldcampus.psu.edu/,-2,15204,15204,27938.0,7554,15204,3,True,,United States
+482149,Augusta University,GA,Augusta,www.augusta.edu/,12,8122,23500,22146.0,5282,23500,3,True,,United States
+482158,Middle Georgia State University,GA,Macon,https://www.mga.edu/,13,4432,14032,20189.0,6655,14032,3,True,,United States
+482431,DeVry University-California,CA,Ontario,https://www.devry.edu/,9,17488,17488,39643.0,2081,17488,3,True,,United States
+482680,University of North Georgia,GA,Dahlonega,www.ung.edu/,15,5009,15441,18062.0,15542,15441,3,True,,United States
+482936,Florida Polytechnic University,FL,Lakeland,floridapoly.edu/,11,4940,21005,20807.0,1556,21005,3,True,,United States
+483036,Texas A&M University-Central Texas,TX,Killeen,tamuct.edu/,9,6627,16419,13220.0,1698,16419,3,True,,United States
+483595,Ana G. Mendez University,FL,Orlando,www.agmu.edu/,9,13575,13575,,4897,13575,3,True,,United States
+484473,University of Florida-Online,FL,Gainesville,https://www.ufonline.ufl.edu/,9,3876,16579,17036.0,4577,16579,3,True,,United States
+484613,University of Phoenix-Arizona,AZ,Phoenix,https://www.phoenix.edu/,15,9552,9552,19449.0,76996,9552,3,True,,United States
+484905,University of North Texas at Dallas,TX,Dallas,untdallas.edu/,12,9590,22189,21003.0,2914,22189,3,True,,United States
+486840,Kennesaw State University,GA,Kennesaw,www.kennesaw.edu/,15,5786,17040,24618.0,39503,17040,3,True,,United States
+486956,Chamberlain University-New Jersey,NJ,North Brunswick,https://www.chamberlain.edu/,6,20462,20462,41740.0,1316,20462,3,True,,United States
+487375,Arizona College of Nursing-Las Vegas,NV,Las Vegas,https://www.arizonacollege.edu/,6,22426,22426,36044.0,1185,22426,3,True,,United States
+487524,Husson University,ME,Bangor,www.husson.edu/,10,22194,22194,34073.0,2395,22194,3,True,,United States
+488679,Indiana Wesleyan University-National & Global,IN,Marion,https://www.indwes.edu/,15,8216,8216,22117.0,5808,8216,3,True,,United States
+490133,Westcliff University,CA,Irvine,www.westcliff.edu/,12,21000,21000,35995.0,2037,21000,3,True,,United States
+490805,Purdue University Northwest,IN,Hammond,www.pnw.edu/,12,8419,15620,16287.0,5786,15620,3,True,,United States
+492962,Indiana Institute of Technology-College of Professional Studies,IN,Fort Wayne,cps.indianatech.edu/,9,9900,9900,24563.0,2446,9900,3,True,,United States
+495457,Arizona College of Nursing-Phoenix,AZ,Phoenix,https://www.arizonacollege.edu/,-2,24853,24853,38789.0,1062,24853,3,True,,United States
+497480,Reach University,CA,Oakland,https://www.reach.edu/,-2,12374,12374,24225.0,1226,12374,3,True,,United States
+498562,Commonwealth University of Pennsylvania,PA,Bloomsburg,https://www.commonwealthu.edu/,-2,11046,22870,25781.0,9309,22870,3,True,,United States
+498571,Pennsylvania Western University,PA,California,https://www.pennwest.edu/,-2,11388,16006,27618.0,8134,16006,3,True,,United States
