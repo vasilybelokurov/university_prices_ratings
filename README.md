@@ -1,72 +1,94 @@
 # University Prices vs Rankings Analysis
 
-A comprehensive analysis of university tuition costs versus academic rankings for US and UK institutions, with sweet spot identification for value-conscious students.
+A comprehensive analysis of university tuition costs versus academic rankings for US and UK institutions, using **real data** from official sources, with sweet spot identification for value-conscious students.
 
-## 🎯 Key Findings
+## 🎯 Key Findings (Real Data)
 
-**Sweet Spot Universities (Best Value):**
-- **University of North Carolina Chapel Hill** - Rank 22, $7,019 (Score: 84.8)
-- **UCLA** - Rank 15, $13,804 (Score: 84.6)
-- **UC Berkeley** - Rank 15, $14,312 (Score: 84.3)
-- **University of Florida** - Rank 28, $6,381 (Score: 82.1)
+**Sweet Spot Universities (Best Value - Real Data):**
+- **University of Chicago** - Rank 9, $14,338 (Score: 93.8)
+- **University of Wisconsin - Madison** - Rank 25, $11,205 (Score: 91.2)
+- **University of North Carolina at Chapel Hill** - Rank 32, $8,989 (Score: 90.7)
+- **California Institute of Technology** - Rank 8, $20,515 (Score: 89.8)
 
-**Price-Ranking Correlations:**
-- Overall: r = -0.536 (strong negative correlation)
-- US: r = -0.574 (stronger price-ranking relationship)
-- UK: r = -0.867 (very strong correlation)
+**Elite Bargains (Top Rankings + Reasonable Price):**
+- **California Institute of Technology** - ARWU Rank 8, $20,515
+- **University of Chicago** - ARWU Rank 9, $14,338
 
-## 📊 Dataset
+**Price-Ranking Correlations (Real Data):**
+- Overall: r = -0.256 (weak correlation, p = 0.144)
+- US: r = -0.321 (moderate, but not significant p = 0.226)
+- UK: r = -0.569 (strong significant correlation, p = 0.014)
 
-- **Total**: 81 universities (41 US, 40 UK)
-- **US Price Range**: $0 - $68,400 (mean: $34,815)
-- **UK International Fees**: $16,446 - $48,133 (mean: $30,337)
-- **Data Sources**: College Scorecard, Complete University Guide, Guardian Rankings
+## 📊 Dataset (Real Data)
 
-## 🚀 Quick Start
+- **Total**: 34 universities with complete data (16 US, 18 UK)
+- **US Price Range**: $8,989 - $65,805 (mean: $41,464)
+- **UK International Fees**: $29,718 - $48,133 (mean: $34,295)
+- **Data Sources**: 
+  - **Rankings**: ARWU 2023 (Academic Ranking of World Universities)
+  - **US Tuition**: College Scorecard API (US Department of Education)
+  - **UK Fees**: Official university rates + international student fees
+
+## 🚀 Quick Start (Real Data Pipeline)
 
 ```bash
-# Activate virtual environment
-source ~/Work/venvs/.venv/bin/activate
+# Create and activate project virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
 
-# Collect US university data
-python collect_us_data_v2.py
+# Set your College Scorecard API key (get free key from api.data.gov)
+export COLLEGE_SCORECARD_API_KEY="your_key_here"
 
-# Collect UK university data
-python collect_uk_data.py
+# Collect real university data (ARWU + College Scorecard)
+python collect_real_data.py
 
-# Generate analysis and plots
-python plot_analysis.py
+# Analyze real data with correlations and statistics
+python analyze_real_data.py
 
-# Find sweet spot universities
-python find_sweet_spot.py
+# Find sweet spot universities with real data
+python real_sweet_spot_analysis.py
 
-# Validate data quality
-python test_data_quality.py
+# Alternative: Use sample data (no API key required)
+python collect_us_data_v2.py  # Sample US data
+python collect_uk_data.py     # Sample UK data
+python plot_analysis.py       # Sample data analysis
 ```
 
 ## 📈 Generated Visualizations
 
-1. **university_price_vs_ranking_scatter.png** - Main correlation plot with regression lines
-2. **university_distributions_boxplot.png** - Price/ranking distributions by country
-3. **university_density_plots.png** - Density distributions
-4. **university_sweet_spot_analysis.png** - Value quadrants and top universities
+### Real Data Analysis
+1. **real_data_scatter_plot.png** - ARWU rankings vs College Scorecard tuition costs
+2. **real_data_analysis_summary.png** - Comprehensive statistical summary
+3. **real_sweet_spot_analysis.png** - Value quadrants and sweet spot identification
+
+### Sample Data Analysis (for comparison)
+4. **university_price_vs_ranking_scatter.png** - Sample data correlation plot
+5. **university_distributions_boxplot.png** - Sample price/ranking distributions  
+6. **university_density_plots.png** - Sample density distributions
+7. **university_sweet_spot_analysis.png** - Sample value analysis
 
 ## 🗂️ Files Overview
 
-### Data Collection
-- `collect_us_data_v2.py` - US university data collection with sample dataset
-- `collect_uk_data.py` - UK university data collection with sample dataset
+### Real Data Collection
+- `collect_real_data.py` - **Main data pipeline** using ARWU + College Scorecard API
+- `analyze_real_data.py` - Statistical analysis of real university data
+- `real_sweet_spot_analysis.py` - Sweet spot identification with real data
 
-### Analysis Scripts
-- `plot_analysis.py` - Main analysis script with correlation analysis and plots
-- `find_sweet_spot.py` - Value analysis and sweet spot identification
-- `test_data_quality.py` - Data validation and quality testing
+### Sample Data Collection (for comparison)
+- `collect_us_data_v2.py` - US university sample data collection
+- `collect_uk_data.py` - UK university sample data collection
+- `plot_analysis.py` - Sample data analysis and visualization
+- `find_sweet_spot.py` - Sample data sweet spot analysis
 
-### Data Files
-- `us_universities_sample.csv` - US university dataset (41 institutions)
-- `uk_universities_sample.csv` - UK university dataset (40 institutions)  
-- `combined_university_data.csv` - Combined analysis dataset
-- `university_value_analysis.csv` - Sweet spot analysis results
+### Data Files (Real Data)
+- `real_university_data.csv` - **Main dataset** (34 universities with complete data)
+- `real_value_analysis.csv` - Real data value scores and rankings
+
+### Data Files (Sample Data)
+- `us_universities_sample.csv` - US sample dataset (41 institutions)
+- `uk_universities_sample.csv` - UK sample dataset (40 institutions)  
+- `combined_university_data.csv` - Combined sample dataset
 
 ### Configuration
 - `CLAUDE.md` - Project instructions and methodology
