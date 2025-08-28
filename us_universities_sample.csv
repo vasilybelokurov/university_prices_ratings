@@ -1,0 +1,42 @@
+name,state,tuition,ranking,type
+Harvard University,MA,59076,2,private
+Stanford University,CA,61731,3,private
+Massachusetts Institute of Technology,MA,59750,2,private
+Yale University,CT,64700,5,private
+Princeton University,NJ,59710,1,private
+University of Pennsylvania,PA,63452,6,private
+Columbia University,NY,68400,12,private
+Dartmouth College,NH,64710,12,private
+Brown University,RI,65146,9,private
+Cornell University,NY,63200,12,private
+University of California Berkeley,CA,14312,15,public
+University of Michigan Ann Arbor,MI,17786,21,public
+University of California Los Angeles,CA,13804,15,public
+University of Virginia,VA,19698,24,public
+Georgia Institute of Technology,GA,12682,33,public
+University of North Carolina Chapel Hill,NC,7019,22,public
+University of California San Diego,CA,14648,28,public
+University of Wisconsin Madison,WI,10796,35,public
+University of Illinois Urbana-Champaign,IL,16866,35,public
+University of Washington,WA,12092,40,public
+New York University,NY,58168,28,private
+Boston University,MA,62360,41,private
+Northeastern University,MA,59100,44,private
+University of Southern California,CA,64726,28,private
+Georgetown University,DC,62052,22,private
+Ohio State University,OH,12485,43,public
+University of Florida,FL,6381,28,public
+University of Texas Austin,TX,11678,32,public
+Pennsylvania State University,PA,18898,60,public
+University of California Davis,CA,14495,28,public
+SUNY Stony Brook,NY,7070,58,public
+University of Georgia,GA,11830,47,public
+Rutgers University,NJ,15804,55,public
+University of Alabama,AL,11100,103,public
+Arizona State University,AZ,11618,105,public
+Brigham Young University,UT,6304,89,private
+Berea College,KY,0,75,private
+Cooper Union,NY,46700,65,private
+Rice University,TX,54960,15,private
+Vanderbilt University,TN,60348,13,private
+Washington University in St. Louis,MO,61750,24,private

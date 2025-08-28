@@ -1,0 +1,41 @@
+name,city,home_tuition,intl_tuition,cug_rank,guardian_rank,composite_rank
+University of Cambridge,Cambridge,9250,27048,1,1,1.0
+University of Oxford,Oxford,9250,28950,2,2,2.0
+London School of Economics,London,9250,25608,3,4,3.5
+Imperial College London,London,9250,37900,4,5,4.5
+University College London,London,9250,31200,5,8,6.5
+University of Edinburgh,Edinburgh,1820,26500,6,13,9.5
+Kings College London,London,9250,31350,7,35,21.0
+University of Manchester,Manchester,9250,26000,8,25,16.5
+University of Warwick,Coventry,9250,27060,9,9,9.0
+University of Bristol,Bristol,9250,27200,10,15,12.5
+University of Glasgow,Glasgow,1820,24540,11,18,14.5
+Durham University,Durham,9250,28500,12,6,9.0
+University of Sheffield,Sheffield,9250,23650,13,26,19.5
+University of Birmingham,Birmingham,9250,25860,14,14,14.0
+University of Leeds,Leeds,9250,24500,15,19,17.0
+University of Nottingham,Nottingham,9250,26000,16,30,23.0
+University of Southampton,Southampton,9250,24400,17,20,18.5
+University of York,York,9250,24450,18,16,17.0
+Newcastle University,Newcastle,9250,24000,19,33,26.0
+University of Liverpool,Liverpool,9250,23400,20,42,31.0
+Lancaster University,Lancaster,9250,25040,21,7,14.0
+University of Bath,Bath,9250,25900,22,11,16.5
+University of East Anglia,Norwich,9250,22800,23,23,23.0
+University of Exeter,Exeter,9250,27000,24,12,18.0
+Cardiff University,Cardiff,9000,24450,25,34,29.5
+University of Leicester,Leicester,9250,21750,26,41,33.5
+University of Surrey,Guildford,9250,23800,27,38,32.5
+University of Strathclyde,Glasgow,1820,22400,28,22,25.0
+Queen Mary University,London,9250,26250,29,47,38.0
+University of Reading,Reading,9250,22350,30,29,29.5
+Coventry University,Coventry,9250,16800,50,52,51.0
+University of Chester,Chester,9250,13450,68,75,71.5
+University of Cumbria,Carlisle,9250,13575,89,95,92.0
+Teesside University,Middlesbrough,9250,15000,95,89,92.0
+University of Bolton,Bolton,9250,12950,120,110,115.0
+University of St Andrews,St Andrews,1820,30160,3,3,3.0
+University of Aberdeen,Aberdeen,1820,24800,31,48,39.5
+University of Stirling,Stirling,1820,16400,45,45,45.0
+Glasgow Caledonian University,Glasgow,1820,15500,78,82,80.0
+Robert Gordon University,Aberdeen,1820,17000,55,71,63.0

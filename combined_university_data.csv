@@ -1,0 +1,82 @@
+name,country,price_usd,rank,type
+Harvard University,US,59076.0,2.0,private
+Stanford University,US,61731.0,3.0,private
+Massachusetts Institute of Technology,US,59750.0,2.0,private
+Yale University,US,64700.0,5.0,private
+Princeton University,US,59710.0,1.0,private
+University of Pennsylvania,US,63452.0,6.0,private
+Columbia University,US,68400.0,12.0,private
+Dartmouth College,US,64710.0,12.0,private
+Brown University,US,65146.0,9.0,private
+Cornell University,US,63200.0,12.0,private
+University of California Berkeley,US,14312.0,15.0,public
+University of Michigan Ann Arbor,US,17786.0,21.0,public
+University of California Los Angeles,US,13804.0,15.0,public
+University of Virginia,US,19698.0,24.0,public
+Georgia Institute of Technology,US,12682.0,33.0,public
+University of North Carolina Chapel Hill,US,7019.0,22.0,public
+University of California San Diego,US,14648.0,28.0,public
+University of Wisconsin Madison,US,10796.0,35.0,public
+University of Illinois Urbana-Champaign,US,16866.0,35.0,public
+University of Washington,US,12092.0,40.0,public
+New York University,US,58168.0,28.0,private
+Boston University,US,62360.0,41.0,private
+Northeastern University,US,59100.0,44.0,private
+University of Southern California,US,64726.0,28.0,private
+Georgetown University,US,62052.0,22.0,private
+Ohio State University,US,12485.0,43.0,public
+University of Florida,US,6381.0,28.0,public
+University of Texas Austin,US,11678.0,32.0,public
+Pennsylvania State University,US,18898.0,60.0,public
+University of California Davis,US,14495.0,28.0,public
+SUNY Stony Brook,US,7070.0,58.0,public
+University of Georgia,US,11830.0,47.0,public
+Rutgers University,US,15804.0,55.0,public
+University of Alabama,US,11100.0,103.0,public
+Arizona State University,US,11618.0,105.0,public
+Brigham Young University,US,6304.0,89.0,private
+Berea College,US,0.0,75.0,private
+Cooper Union,US,46700.0,65.0,private
+Rice University,US,54960.0,15.0,private
+Vanderbilt University,US,60348.0,13.0,private
+Washington University in St. Louis,US,61750.0,24.0,private
+University of Cambridge,UK,34350.96,1.0,public
+University of Oxford,UK,36766.5,2.0,public
+London School of Economics,UK,32522.16,3.5,public
+Imperial College London,UK,48133.0,4.5,public
+University College London,UK,39624.0,6.5,public
+University of Edinburgh,UK,33655.0,9.5,public
+Kings College London,UK,39814.5,21.0,public
+University of Manchester,UK,33020.0,16.5,public
+University of Warwick,UK,34366.2,9.0,public
+University of Bristol,UK,34544.0,12.5,public
+University of Glasgow,UK,31165.8,14.5,public
+Durham University,UK,36195.0,9.0,public
+University of Sheffield,UK,30035.5,19.5,public
+University of Birmingham,UK,32842.2,14.0,public
+University of Leeds,UK,31115.0,17.0,public
+University of Nottingham,UK,33020.0,23.0,public
+University of Southampton,UK,30988.0,18.5,public
+University of York,UK,31051.5,17.0,public
+Newcastle University,UK,30480.0,26.0,public
+University of Liverpool,UK,29718.0,31.0,public
+Lancaster University,UK,31800.8,14.0,public
+University of Bath,UK,32893.0,16.5,public
+University of East Anglia,UK,28956.0,23.0,public
+University of Exeter,UK,34290.0,18.0,public
+Cardiff University,UK,31051.5,29.5,public
+University of Leicester,UK,27622.5,33.5,public
+University of Surrey,UK,30226.0,32.5,public
+University of Strathclyde,UK,28448.0,25.0,public
+Queen Mary University,UK,33337.5,38.0,public
+University of Reading,UK,28384.5,29.5,public
+Coventry University,UK,21336.0,51.0,public
+University of Chester,UK,17081.5,71.5,public
+University of Cumbria,UK,17240.25,92.0,public
+Teesside University,UK,19050.0,92.0,public
+University of Bolton,UK,16446.5,115.0,public
+University of St Andrews,UK,38303.2,3.0,public
+University of Aberdeen,UK,31496.0,39.5,public
+University of Stirling,UK,20828.0,45.0,public
+Glasgow Caledonian University,UK,19685.0,80.0,public
+Robert Gordon University,UK,21590.0,63.0,public
