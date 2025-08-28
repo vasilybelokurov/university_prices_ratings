@@ -1,0 +1,33 @@
+institution,country,arwu_rank,scorecard_name,state,tuition_in_state_usd,tuition_out_state_usd,total_cost_usd,price_usd,student_size,uk_home_fee_gbp,uk_intl_fee_gbp,rank_verified,rank_percentile,price_percentile,value_score,united_states_rank_percentile,united_states_price_percentile,united_states_value_score,united_kingdom_rank_percentile,united_kingdom_price_percentile,united_kingdom_value_score
+Harvard University,United States,1,Harvard University,MA,59076.0,59076.0,82842.0,59076.0,7755.0,,,True,100.0,68.75,72.5,100.0,37.5,85.0,,,
+Stanford University,United States,2,Stanford University,CA,62484.0,62484.0,82162.0,62484.0,7841.0,,,True,96.875,78.125,66.875,93.75,56.25,73.75,,,
+University of Cambridge,United Kingdom,4,,,,,,34350.96,,9250.0,27048.0,True,93.75,34.375,82.5,,,,100.0,68.75,72.5
+"University of California, Berkeley",United States,5,University of California-Berkeley,CA,14850.0,45627.0,42708.0,45627.0,33073.0,,,True,90.625,56.25,71.875,87.5,18.75,85.0,,,
+Princeton University,United States,6,Princeton University,NJ,59710.0,59710.0,80440.0,59710.0,5579.0,,,True,87.5,71.875,63.75,81.25,43.75,71.25,,,
+University of Oxford,United Kingdom,7,,,,,,36766.5,,9250.0,28950.0,True,84.375,40.625,74.375,,,,93.75,81.25,63.75
+Columbia University,United States,8,Columbia University in the City of New York,NY,69045.0,69045.0,86042.0,69045.0,8899.0,,,True,81.25,100.0,48.75,75.0,100.0,45.0,,,
+University of Chicago,United States,10,University of Chicago,IL,66939.0,66939.0,86856.0,66939.0,7540.0,,,True,78.125,96.875,48.125,68.75,93.75,43.75,,,
+Yale University,United States,11,Yale University,CT,64700.0,64700.0,85120.0,64700.0,6811.0,,,True,75.0,84.375,51.25,62.5,68.75,50.0,,,
+Cornell University,United States,12,Cornell University,NY,66014.0,66014.0,83196.0,66014.0,15935.0,,,True,71.875,90.625,46.875,56.25,81.25,41.25,,,
+"University of California, Los Angeles",United States,13,University of California-Los Angeles,CA,13747.0,44524.0,36643.0,44524.0,33040.0,,,True,68.75,53.125,60.0,50.0,12.5,65.0,,,
+University of Pennsylvania,United States,14,University of Pennsylvania,PA,66104.0,66104.0,85738.0,66104.0,10768.0,,,True,65.625,93.75,41.875,43.75,87.5,31.25,,,
+Johns Hopkins University,United States,16,Johns Hopkins University,MD,63340.0,63340.0,81300.0,63340.0,5617.0,,,True,62.5,81.25,45.0,37.5,62.5,37.5,,,
+University College London,United Kingdom,17,,,,,,39624.0,,9250.0,31200.0,True,59.375,43.75,58.125,,,,87.5,87.5,57.5
+University of Washington,United States,18,University of Washington-Seattle Campus,WA,12643.0,41997.0,30282.0,41997.0,31588.0,,,True,56.25,50.0,53.75,31.25,6.25,56.25,,,
+"University of California, San Diego",United States,19,University of California-San Diego,CA,15265.0,46042.0,36325.0,46042.0,33787.0,,,True,53.125,59.375,48.125,25.0,25.0,45.0,,,
+Imperial College London,United Kingdom,23,,,,,,48133.0,,9250.0,37900.0,True,50.0,62.5,45.0,,,,81.25,100.0,48.75
+University of Michigan-Ann Arbor,United States,26,University of Michigan-Ann Arbor,MI,17228.0,58072.0,33345.0,58072.0,33488.0,,,True,46.875,65.625,41.875,18.75,31.25,38.75,,,
+New York University,United States,28,New York University,NY,60438.0,60438.0,79121.0,60438.0,29430.0,,,True,43.75,75.0,36.25,12.5,50.0,27.5,,,
+Northwestern University,United States,30,Northwestern University,IL,65997.0,65997.0,87804.0,65997.0,8960.0,,,True,40.625,87.5,29.375,6.25,75.0,13.75,,,
+King's College London,United Kingdom,35,,,,,,39814.5,,9250.0,31350.0,True,37.5,46.875,43.75,,,,75.0,93.75,47.5
+University of Edinburgh,United Kingdom,40,,,,,,33655.0,,1820.0,26500.0,True,34.375,31.25,48.125,,,,68.75,62.5,56.25
+University of Manchester,United Kingdom,45,,,,,,33020.0,,9250.0,26000.0,True,31.25,26.5625,48.125,,,,62.5,53.125,56.25
+University of Bristol,United Kingdom,55,,,,,,34544.0,,9250.0,27200.0,True,28.125,37.5,41.875,,,,56.25,75.0,43.75
+London School of Economics and Political Science,United Kingdom,85,,,,,,32522.16,,9250.0,25608.0,True,25.0,18.75,47.5,,,,50.0,37.5,55.0
+University of Glasgow,United Kingdom,105,,,,,,31165.8,,1820.0,24540.0,True,21.875,15.625,46.875,,,,43.75,31.25,53.75
+University of Birmingham,United Kingdom,155,,,,,,32842.2,,9250.0,25860.0,True,18.75,21.875,42.5,,,,37.5,43.75,45.0
+University of Leeds,United Kingdom,155,,,,,,31115.0,,9250.0,24500.0,True,18.75,12.5,46.25,,,,37.5,25.0,52.5
+University of Liverpool,United Kingdom,155,,,,,,29718.0,,9250.0,23400.0,True,18.75,3.125,50.0,,,,37.5,6.25,60.0
+University of Nottingham,United Kingdom,155,,,,,,33020.0,,9250.0,26000.0,True,18.75,26.5625,40.625,,,,37.5,53.125,41.25
+University of Sheffield,United Kingdom,155,,,,,,30035.5,,9250.0,23650.0,True,18.75,6.25,48.75,,,,37.5,12.5,57.5
+University of Southampton,United Kingdom,155,,,,,,30988.0,,9250.0,24400.0,True,18.75,9.375,47.5,,,,37.5,18.75,55.0

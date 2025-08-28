@@ -1,0 +1,98 @@
+institution,country,arwu_rank,arwu_score,tuition_in_state_usd,tuition_out_state_usd,total_cost_usd,price_usd,match_similarity,uk_home_fee_gbp,uk_intl_fee_gbp,rank
+Stanford University,United States,2,76.3,62484.0,62484.0,82162.0,62484.0,100.0,,,
+Massachusetts Institute of Technology,United States,3,75.4,60156.0,60156.0,79850.0,60156.0,100.00000000000003,,,
+"University of California, Berkeley",United States,4,68.9,14850.0,45627.0,42708.0,45627.0,100.00000000000003,,,
+California Institute of Technology,United States,8,59.5,63255.0,63255.0,83598.0,63255.0,100.0,,,
+Cornell University,United States,11,52.8,66014.0,66014.0,83196.0,66014.0,100.0,,,
+"University of California, Los Angeles",United States,12,51.9,13747.0,44524.0,36643.0,44524.0,100.0,,,
+"University of Michigan, Ann Arbor",United States,17,44.9,17228.0,58072.0,33345.0,58072.0,100.0,,,
+"University of California, San Diego",United States,19,42.1,15265.0,46042.0,36325.0,46042.0,100.00000000000003,,,
+New York University,United States,22,40.2,60438.0,60438.0,79121.0,60438.0,100.00000000000003,,,
+Northwestern University,United States,24,39.1,65997.0,65997.0,87804.0,65997.0,100.0,,,
+University of Illinois at Urbana-Champaign,United States,27,37.9,16004.0,34501.0,32134.0,34501.0,100.0,,,
+Duke University,United States,28,37.5,65805.0,65805.0,82749.0,65805.0,100.0,,,
+University of North Carolina at Chapel Hill,United States,32,35.9,8989.0,39330.0,25181.0,39330.0,100.0,,,
+University of Colorado at Boulder,United States,34,35.2,16430.0,41943.0,33466.0,41943.0,100.00000000000003,,,
+Carnegie Mellon University,United States,35,34.8,63829.0,63829.0,80514.0,63829.0,100.00000000000003,,,
+University of Texas at Austin,United States,38,33.8,11678.0,42778.0,29842.0,42778.0,100.00000000000003,,,
+"University of California, Davis",United States,42,32.5,15247.0,46024.0,38067.0,46024.0,100.00000000000003,,,
+"University of California, Santa Barbara",United States,43,32.2,14965.0,45742.0,36776.0,45742.0,100.0,,,
+"University of California, Irvine",United States,48,30.6,14237.0,45014.0,36121.0,45014.0,100.00000000000003,,,
+University of Southern California,United States,46,31.2,68237.0,68237.0,84678.0,68237.0,100.00000000000003,,,
+Ohio State University,United States,52,28.8,12859.0,38365.0,29320.0,38365.0,100.0,,,
+Rice University,United States,61,26.1,58128.0,58128.0,74110.0,58128.0,100.0,,,
+Arizona State University,United States,63,25.5,13626.0,41095.0,28543.0,41095.0,100.0,,,
+University of Virginia,United States,66,24.6,20986.0,58014.0,38132.0,58014.0,100.0,,,
+"University of California, Riverside",United States,69,23.7,14170.0,44947.0,34975.0,44947.0,100.00000000000003,,,
+Georgia Institute of Technology,United States,72,22.8,11764.0,32876.0,27797.0,32876.0,100.00000000000003,,,
+Michigan State University,United States,73,22.5,15988.0,43372.0,30528.0,43372.0,100.0,,,
+University of Cambridge,United Kingdom,5,67.2,,,,34350.96,,9250.0,27048.0,5.0
+University of Oxford,United Kingdom,16,45.4,,,,36766.5,,9250.0,28950.0,16.0
+Imperial College London,United Kingdom,23,39.8,,,,48133.0,,9250.0,37900.0,23.0
+University College London,United Kingdom,18,43.2,,,,39624.0,,9250.0,31200.0,18.0
+London School of Economics and Political Science,United Kingdom,76,24.3,,,,32522.16,,9250.0,25608.0,76.0
+King's College London,United Kingdom,33,35.6,,,,39814.5,,9250.0,31350.0,33.0
+University of Edinburgh,United Kingdom,36,34.5,,,,33655.0,,1820.0,26500.0,36.0
+University of Manchester,United Kingdom,41,32.9,,,,33020.0,,9250.0,26000.0,41.0
+University of Warwick,United Kingdom,201,15.2,,,,34366.2,,9250.0,27060.0,201.0
+University of Bristol,United Kingdom,51,29.1,,,,34544.0,,9250.0,27200.0,51.0
+University of Glasgow,United Kingdom,101,21.2,,,,31165.8,,1820.0,24540.0,101.0
+Durham University,United Kingdom,201,14.9,,,,36195.0,,9250.0,28500.0,201.0
+University of Sheffield,United Kingdom,151,17.9,,,,30035.5,,9250.0,23650.0,151.0
+University of Birmingham,United Kingdom,151,18.5,,,,32842.2,,9250.0,25860.0,151.0
+University of Leeds,United Kingdom,151,18.4,,,,31115.0,,9250.0,24500.0,151.0
+University of Nottingham,United Kingdom,151,18.0,,,,33020.0,,9250.0,26000.0,151.0
+University of Southampton,United Kingdom,151,17.8,,,,30988.0,,9250.0,24400.0,151.0
+University of York,United Kingdom,201,15.5,,,,31051.5,,9250.0,24450.0,201.0
+Newcastle University,United Kingdom,201,16.0,,,,30480.0,,9250.0,24000.0,201.0
+University of Liverpool,United Kingdom,151,18.1,,,,29718.0,,9250.0,23400.0,151.0
+Cardiff University,United Kingdom,201,16.2,,,,31051.5,,9000.0,24450.0,201.0
+Queen Mary University of London,United Kingdom,201,15.8,,,,33337.5,,9250.0,26250.0,201.0
+University of Exeter,United Kingdom,201,14.6,,,,34290.0,,9250.0,27000.0,201.0
+Lancaster University,United Kingdom,201,14.3,,,,31800.8,,9250.0,25040.0,201.0
+University of Bath,United Kingdom,201,14.0,,,,32893.0,,9250.0,25900.0,201.0
+Loughborough University,United Kingdom,201,13.7,,,,35179.0,,9250.0,27700.0,201.0
+University of Surrey,United Kingdom,201,13.4,,,,30226.0,,9250.0,23800.0,201.0
+University of Leicester,United Kingdom,201,13.1,,,,27622.5,,9250.0,21750.0,201.0
+University of Strathclyde,United Kingdom,301,12.8,,,,28448.0,,1820.0,22400.0,301.0
+University of East Anglia,United Kingdom,301,12.5,,,,28956.0,,9250.0,22800.0,301.0
+University of Reading,United Kingdom,301,12.2,,,,28384.5,,9250.0,22350.0,301.0
+University of Sussex,United Kingdom,301,11.9,,,,28575.0,,9250.0,22500.0,301.0
+Royal Holloway University of London,United Kingdom,301,11.6,,,,29464.0,,9250.0,23200.0,301.0
+University of Kent,United Kingdom,301,11.3,,,,24765.0,,9250.0,19500.0,301.0
+University of St Andrews,United Kingdom,301,11.0,,,,38303.2,,1820.0,30160.0,301.0
+University of Aberdeen,United Kingdom,301,10.7,,,,31496.0,,1820.0,24800.0,301.0
+University of Stirling,United Kingdom,301,10.4,,,,20828.0,,1820.0,16400.0,301.0
+Heriot-Watt University,United Kingdom,301,10.1,,,,25135.84,,1820.0,19792.0,301.0
+University of Dundee,United Kingdom,301,9.8,,,,32131.0,,1820.0,25300.0,301.0
+Glasgow Caledonian University,United Kingdom,301,9.5,,,,19685.0,,1820.0,15500.0,301.0
+Robert Gordon University,United Kingdom,301,9.2,,,,21590.0,,1820.0,17000.0,301.0
+City University of London,United Kingdom,301,8.9,,,,27305.0,,9250.0,21500.0,301.0
+Goldsmiths University of London,United Kingdom,301,8.6,,,,23418.8,,9250.0,18440.0,301.0
+Brunel University London,United Kingdom,301,8.3,,,,26428.7,,9250.0,20810.0,301.0
+Middlesex University,United Kingdom,301,8.0,,,,20574.0,,9250.0,16200.0,301.0
+University of Greenwich,United Kingdom,401,7.7,,,,21590.0,,9250.0,17000.0,401.0
+London Metropolitan University,United Kingdom,401,7.4,,,,19781.52,,9250.0,15576.0,401.0
+Coventry University,United Kingdom,401,7.1,,,,21336.0,,9250.0,16800.0,401.0
+University of Chester,United Kingdom,401,6.8,,,,17081.5,,9250.0,13450.0,401.0
+University of Cumbria,United Kingdom,401,6.5,,,,17240.25,,9250.0,13575.0,401.0
+Teesside University,United Kingdom,401,6.2,,,,19050.0,,9250.0,15000.0,401.0
+University of Bolton,United Kingdom,401,5.9,,,,16446.5,,9250.0,12950.0,401.0
+University of Bedfordshire,United Kingdom,401,5.6,,,,18542.0,,9250.0,14600.0,401.0
+University of Wolverhampton,United Kingdom,401,5.3,,,,18351.5,,9250.0,14450.0,401.0
+Birmingham City University,United Kingdom,401,5.0,,,,20701.0,,9250.0,16300.0,401.0
+Manchester Metropolitan University,United Kingdom,401,4.7,,,,23495.0,,9250.0,18500.0,401.0
+Sheffield Hallam University,United Kingdom,401,4.4,,,,21456.65,,9250.0,16895.0,401.0
+Swansea University,United Kingdom,401,4.1,,,,26098.5,,9000.0,20550.0,401.0
+Bangor University,United Kingdom,401,3.8,,,,22225.0,,9000.0,17500.0,401.0
+Aberystwyth University,United Kingdom,401,3.5,,,,20701.0,,9000.0,16300.0,401.0
+Cardiff Metropolitan University,United Kingdom,401,3.2,,,,19050.0,,9000.0,15000.0,401.0
+Ulster University,United Kingdom,401,2.9,,,,20116.8,,4710.0,15840.0,401.0
+Northumbria University,United Kingdom,401,2.6,,,,22225.0,,9250.0,17500.0,401.0
+University of Hull,United Kingdom,401,2.3,,,,24765.0,,9250.0,19500.0,401.0
+University of Lincoln,United Kingdom,401,2.0,,,,20574.0,,9250.0,16200.0,401.0
+University of Plymouth,United Kingdom,401,1.7,,,,21209.0,,9250.0,16700.0,401.0
+University of Portsmouth,United Kingdom,401,1.4,,,,24384.0,,9250.0,19200.0,401.0
+Oxford Brookes University,United Kingdom,401,1.1,,,,21463.0,,9250.0,16900.0,401.0
+De Montfort University,United Kingdom,401,0.8,,,,20002.5,,9250.0,15750.0,401.0
+Nottingham Trent University,United Kingdom,401,0.5,,,,20955.0,,9250.0,16500.0,401.0
